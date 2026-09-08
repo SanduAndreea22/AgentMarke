@@ -41,9 +41,11 @@ pentru conținut de tip problem → solution:
 
 ## Diferența LinkedIn vs Facebook
 
+Ambele în **română** — diferența e de ton/structură/lungime, nu de limbă.
+
 | | LinkedIn | Facebook |
 |---|---|---|
-| Limbă | Engleză | Română |
+| Limbă | Română | Română |
 | Ton | Profesional, orientat spre business/creștere | Conversațional, direct, local |
 | Lungime | Poate fi mai lung, structurat (hook/body/CTA) | Mai scurt, mai punchy |
 | Unghi preferat | Autoritate, insight, portofoliu, lecții | Problemă → soluție, relatable, local

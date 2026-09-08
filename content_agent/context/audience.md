@@ -54,7 +54,8 @@ Stripe) e un detaliu de credibilitate, nu mesajul central.
 - Vorbesc despre "clienți pierduți", "rezervări", "programări", "imagine
   de brand", "timp pierdut cu task-uri manuale" — nu despre "endpoint-uri"
   sau "arhitectură de sistem".
-- Pe LinkedIn: ton profesional, orientat spre business și creștere, în
-  engleză (rețea mai internațională/B2B).
-- Pe Facebook: ton mai direct, local, în română — publicul e antreprenori
+- Conținut în **română** pe ambele platforme (audiență locală, din
+  România).
+- Pe LinkedIn: ton profesional, orientat spre business și creștere.
+- Pe Facebook: ton mai direct, local — publicul e antreprenori
   din România care caută soluții concrete, nu conținut corporate.

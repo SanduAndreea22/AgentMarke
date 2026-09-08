@@ -46,14 +46,16 @@ informații despre business → strategie → idee → postare → verificare �
 
 ## Reguli de limbă (obligatoriu)
 
-- **LinkedIn** → conținut profesional, **în engleză**.
-- **Facebook** → audiența e locală (antreprenori din România) → **în română**,
-  cu ton conversațional, mai puțin formal decât LinkedIn.
-- Conținutul de pe site rămâne tot în română (nu ține de acest agent, dar
-  păstrăm consistența vocii).
+- **LinkedIn** → **în română**, ton profesional.
+- **Facebook** → **în română**, ton conversațional, mai puțin formal decât
+  LinkedIn.
+- Diferența dintre platforme rămâne de ton/structură/lungime, nu de limbă
+  (vezi `context/tone_of_voice.md`).
+- Conținutul de pe site rămâne tot în română — consistență totală de voce.
 
-Dacă Andreea cere explicit altă limbă pentru o postare anume, respecți cererea
-ei — regulile de mai sus sunt default-ul, nu o constrângere absolută.
+Dacă Andreea cere explicit engleză pentru o postare anume (ex. audiență
+internațională), respecți cererea ei — regula de mai sus e default-ul, nu o
+constrângere absolută.
 
 ## Reguli de conținut (obligatoriu)
 

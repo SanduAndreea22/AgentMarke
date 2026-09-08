@@ -26,10 +26,13 @@ lead gen cu educațional în aceeași postare.
 
 ## Reguli de platformă
 
-- **LinkedIn** (engleză): unghiuri de autoritate, portofoliu, lecții,
-  contrarian. Audiență mai profesională/B2B.
-- **Facebook** (română): unghiuri problem→solution, before→after,
-  relatable, local. Audiență mai directă, caută soluții concrete.
+Ambele platforme, conținut în **română**. Diferența e de ton și unghi,
+nu de limbă:
+
+- **LinkedIn**: unghiuri de autoritate, portofoliu, lecții, contrarian.
+  Ton profesional, orientat spre business/creștere.
+- **Facebook**: unghiuri problem→solution, before→after, relatable, local.
+  Ton conversațional, mai puțin formal.
 
 ## Ce nu facem niciodată
 
