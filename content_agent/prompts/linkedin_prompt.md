@@ -85,6 +85,19 @@ Nu scrie postarea completă aici — doar opțiunile. Dacă Andreea nu alege
 explicit, treci mai departe cu cea mai puternică variantă (cea care trece
 cel mai clar testul „nu m-am gândit niciodată la asta").
 
+### Contract de intrare/ieșire al Etapei 4
+
+**Intrare** (din Etapa 2 + 3, sau dată direct de Andreea):
+`objective` (autoritate/educațional | lead generation), `topic`,
+`audience` (segment din `audience.md`, sau „default"), `source_material`
+(faptul/exemplul din Research sau din Andreea), `desired_angle` (unghiul
+ales la Etapa 3).
+
+**Ieșire:** `title`, `hook` (primele 1-3 rânduri), `body` (restul
+postării), `closing` (CTA sau întrebare+comentariu), `hashtags` (listă),
+`image_idea`. Astea sunt câmpurile pe care le livrezi la final, formatate
+ca în secțiunea „LIVREAZĂ" de mai jos.
+
 ## ETAPA 4 — Writer
 
 Scrie postarea completă pentru LinkedIn, în limba română (sau un articol,
@@ -142,26 +155,40 @@ publicabil imediat după material).
 
 ## ETAPA 5 — Auditor
 
-Înainte să prezinți rezultatul final, verifică postarea de la Etapa 4 —
-scopul: să nu fie doar „AI slop cu fundiță". Răspunde la fiecare întrebare
-și rescrie ce nu trece:
+Nu e o listă de bifat vag — e un scor. Evaluează postarea de la Etapa 4 pe
+aceste criterii și arată scorul explicit, nu doar concluzia:
 
-- Seamănă cu un material anterior? Dacă da, rescrie-l complet.
-- Ar putea cineva spune „asta pare scrisă de ChatGPT"? Dacă da, schimbă
-  hook-ul, structura și formulările.
-- Mă poziționează ca fondator și creator de produse digitale, nu doar ca
-  dezvoltator?
-- Există o perspectivă suficient de originală încât cititorul să spună
-  „nu m-am gândit niciodată la asta"?
-- Compania/exemplul susține ideea sau a devenit subiectul principal? Dacă
-  exemplul domină, rescrie.
-- Orice cifră/detaliu despre o companie reală e ceva ce știi sigur, sau ai
-  marcat „[DE VERIFICAT]"?
-- Închiderea se potrivește obiectivului (CTA pentru lead gen, întrebare
-  pentru autoritate/educațional)?
-- Respectă `tone_of_voice.md` (fără fragmentare artificială, fără
-  englezisme, fără emoji, jargon explicat)?
-- Are valoare reală pentru cititor, sau e doar „conținut" fără substanță?
+```
+FACTUAL_ACCURACY: PASS / FAIL   (gate dur — vezi mai jos)
+BRAND_VOICE:        0-5   (sună ca fondator/creator de produse, nu ca dezvoltator sau ca o agenție generică?)
+AUDIENCE_RELEVANCE:  0-5   (înțelege oricine citește, nu doar cineva din industria exemplului?)
+HOOK:                0-5   (primele 3 rânduri chiar opresc scroll-ul, sau e o intro lentă?)
+PLATFORM_FIT:        0-5   (lungime, ton și structură potrivite pentru LinkedIn, nu genericе?)
+CLOSING:             0-5   (închiderea se potrivește obiectivului — CTA pentru lead gen, întrebare autentică pentru autoritate/educațional?)
+AI_GENERICNESS:      0-5   (5 = clar nu sună a ChatGPT; 0 = clișee, „In today's world", structură previzibilă)
 
-Livrează varianta finală doar după ce trece acest audit — dacă ceva pică,
-rescrii înainte să prezinți, nu prezinți varianta nereușită „ca opțiune".
+SCORE = BRAND_VOICE + AUDIENCE_RELEVANCE + HOOK + PLATFORM_FIT + CLOSING + AI_GENERICNESS   (max 30)
+```
+
+**FACTUAL_ACCURACY e gate dur, independent de scor:** dacă postarea
+afirmă ca fapt o cifră/detaliu despre o companie reală care nu era în
+sursele din Research/Project Knowledge, sau prezintă un proiect din
+`products_services.md` ca „am ajutat clientul X" fără confirmare
+explicită din partea Andreei — FACTUAL_ACCURACY = FAIL, indiferent de
+SCORE, și postarea nu poate fi aprobată până nu se corectează.
+
+**Decizie:**
+- `SCORE >= 25` ȘI `FACTUAL_ACCURACY = PASS` → **APPROVE**, livrezi
+  rezultatul final.
+- Altfel → **REVISE**: identifică explicit criteriul/criteriile cu scor
+  mic (sau motivul FAIL-ului), rescrie postarea țintind exact acele
+  probleme (nu rescrii totul de la zero dacă doar 1-2 criterii sunt slabe),
+  apoi re-scorezi.
+- Maximum **2 revizii**. Dacă și după a doua revizie tot nu treci pragul,
+  prezinți cea mai bună variantă obținută, explicit marcată: „Nu a trecut
+  pragul de audit după 2 revizii — scor X/30, probleme rămase: [...]. Are
+  nevoie de intervenția ta pe punctele astea." Nu intri într-o buclă
+  infinită și nu ascunzi faptul că n-a trecut.
+
+Nu prezinți niciodată varianta nereușită „ca opțiune" fără să spui clar că
+n-a trecut auditul.

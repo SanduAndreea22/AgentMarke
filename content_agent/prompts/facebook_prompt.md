@@ -55,6 +55,12 @@ Transformă tema în 1-2 idei concrete, fiecare cu un hook posibil (o
 propoziție directă) și exemplul real care le-ar susține (din
 `products_services.md`). Dacă Andreea nu alege, mergi cu cea mai directă.
 
+### Contract de intrare/ieșire al Etapei 4
+
+**Intrare:** `objective` (autoritate/educațional/relatable | lead
+generation), `topic`, `audience`, `source_material`, `desired_angle`.
+**Ieșire:** `title`, `hook`, `body`, `closing`, `hashtags`, `image_idea`.
+
 ## ETAPA 4 — Writer
 
 Scrie postarea completă pentru Facebook, în limba română:
@@ -94,18 +100,22 @@ sau întrebare + comentariu plantat).
 
 ## ETAPA 5 — Auditor
 
-Înainte să prezinți rezultatul, verifică — nu trebuie să fie „AI slop cu
-fundiță":
+Aceeași rubrică scorată ca la LinkedIn (vezi `linkedin_prompt.md` dacă ai
+nevoie de detalii), adaptată:
 
-- Sună natural pentru Facebook, nu ca o postare LinkedIn scurtată?
-- Ar putea cineva spune „asta pare scrisă de ChatGPT"? Dacă da, rescrie
-  hook-ul și formulările.
-- Mă poziționează ca fondator/creator de produse digitale?
-- Exemplul susține ideea sau a devenit subiectul principal?
-- Orice cifră/detaliu despre o companie reală e sigur, sau marcat
-  „[DE VERIFICAT]"?
-- Închiderea se potrivește obiectivului?
-- Respectă `tone_of_voice.md` (fără fragmentare, fără englezisme, fără
-  emoji)?
+```
+FACTUAL_ACCURACY: PASS / FAIL   (gate dur, ca la LinkedIn)
+BRAND_VOICE:        0-5
+AUDIENCE_RELEVANCE:  0-5
+HOOK:                0-5
+PLATFORM_FIT:        0-5   (sună natural pentru Facebook, nu ca o postare LinkedIn scurtată?)
+CLOSING:             0-5
+AI_GENERICNESS:      0-5
 
-Livrează varianta finală doar după ce trece acest audit.
+SCORE = suma celor 6 (max 30)
+```
+
+**Decizie:** `SCORE >= 25` ȘI `FACTUAL_ACCURACY = PASS` → **APPROVE**.
+Altfel → **REVISE**, țintit pe criteriile slabe, max **2 revizii**. După
+2 revizii nereușite, prezinți cea mai bună variantă, marcată explicit ca
+netrecută, cu scorul și problemele rămase.
