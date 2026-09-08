@@ -15,6 +15,8 @@
 |---|---|---|---|---|---|---|
 | 2026-09-08 | Facebook | — (fără rotație strictă) | problem→solution | autoritate/educațional | FB — Programări pierdute în telefon/WhatsApp/Excel | `outputs/facebook/2026-09-08-programari-pierdute-sistem-manual.md` |
 | 2026-09-08 | LinkedIn | Antreprenoriat / Product Leadership | lecție de business | autoritate/educațional | Duolingo a cerut angajaților să fie evaluați după cât de mult folosesc AI | `outputs/linkedin/2026-09-08-duolingo-mandat-ai-esuat.md` |
+| 2026-09-08 | LinkedIn | Automatizare / Product Development | mit (automatizarea elimină omul) | autoritate/educațional | Automatizare = mai puțină muncă repetitivă, nu mai puțin om | `outputs/linkedin/2026-09-08-automatizare-nu-inseamna-eliminarea-omului.md` |
+| 2026-09-08 | LinkedIn | UX | greșeală frecventă | autoritate/educațional | Cea mai frecventă greșeală de UX pe care o văd la fondatori | `outputs/linkedin/2026-09-08-greseala-ux-cassian-voicu.md` |
 
 ## Cum adaugi un rând nou
 
