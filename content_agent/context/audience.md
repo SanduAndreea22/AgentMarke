@@ -2,11 +2,18 @@
 
 ## Audiență principală
 
-Antreprenori care vor să-și ducă business-ul la următorul nivel. Au deja
-un business în funcțiune (nu sunt la idee de pe hârtie) — un restaurant,
-un salon, o clinică, un business bazat pe programări/rezervări, un
-proiect propriu care a crescut peste ce suportă setup-ul lor tehnic
-actual.
+Antreprenori care vor să-și ducă business-ul la următorul nivel —
+**indiferent de industrie**: restaurante, saloane/clinici, evenimente,
+servicii juridice și alte afaceri bazate pe programări, dar nu limitat la
+o singură nișă. Au deja un business în funcțiune (nu sunt la idee de pe
+hârtie).
+
+**Regulă explicită de scris:** publicul nu e doar oameni din HoReCa sau
+din tech — sunt antreprenori și oameni obișnuiți din orice domeniu.
+Conținutul trebuie să fie ușor de înțeles de oricine citește, nu doar de
+cineva care deja lucrează în industria folosită ca exemplu (dacă un
+exemplu vine din HoReCa/SaaS/dezvoltare software, se explică termenii ca
+pentru cineva care nu știe nimic din domeniul respectiv).
 
 ## Probleme
 

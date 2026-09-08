@@ -19,6 +19,14 @@ omul care folosește produsul." Django e tehnologia din spate (confirmată
 în FAQ), dar nu e mesajul central — apare ca dovadă de soliditate, nu ca
 titulatură.
 
+**Poziționare pentru conținut public (LinkedIn/Facebook) — confirmată
+explicit de Andreea:** nu vrea să fie percepută doar ca programator, ci ca
+**fondator și creator de produse digitale** care înțelege tehnologia,
+marketingul, AI-ul, customer experience-ul, product development-ul și
+dezvoltarea unui business. Fiecare postare contribuie la această
+poziționare. Se publică sub nume propriu (Andreea Sandu), niciodată ca
+și cont de companie/brand impersonal.
+
 ## Ce facem
 
 Construim produsul digital din spatele unui business — website, sistem,

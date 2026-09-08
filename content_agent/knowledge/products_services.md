@@ -30,6 +30,12 @@
 - Bun pentru unghiuri despre: evenimente, vânzare de bilete online,
   automatizarea proceselor manuale.
 
+### Cassian & Voicu
+
+- Demo cabinet de avocatură — doar zona de admin, fără portal de client.
+- Bun pentru unghiuri despre: servicii juridice, digitalizare pentru
+  domenii care nu se gândesc automat la „sistem" (nu doar HoReCa/beauty).
+
 Notă: pagina de Portofoliu spune explicit că proiectele afișate sunt din
 zona rezervări/programări, dar principiile (flux clar, automatizat, care
 ține pasul cu afacerea) „se aplică la orice proces repetitiv, indiferent
@@ -40,27 +46,38 @@ de domeniu" — util pentru unghiuri de conținut către alte industrii.
 > Citat: „produse personale — pornite din nevoi personale, nu dintr-un
 > brief". Diferite de Portofoliu: nu sunt construite pentru un client, sunt
 > oferite direct.
+>
+> **Notă de denumire — de reținut:** site-ul afișează public aceste
+> produse sub nume descriptive lungi, dar în conținut (LinkedIn/Facebook)
+> Andreea le numește **MyBudget** și **Emotional Planner** — astea sunt
+> numele de folosit în postări, nu variantele de pe site.
 
-### Planner de Echilibru Personal & Productivitate
+### Emotional Planner
 
-- Nume scurt pe site: „Planner".
+- Nume pe site: „Planner de Echilibru Personal & Productivitate".
 - Planner zilnic care urmărește starea alături de task-uri — planificare
   zilnică/săptămânală, obiective/obiceiuri/priorități, spațiu de reflecție.
 
-### Tracker Inteligent de Buget & Finanțe
+### MyBudget
 
-- Nume scurt pe site: „Budget".
+- Nume pe site: „Tracker Inteligent de Buget & Finanțe".
 - Urmărește venituri, cheltuieli, limite de buget — evidență, privire de
   ansamblu, urmărirea economiilor/obiectivelor financiare.
 
-## Instrument intern (context, nu portofoliu public de vândut)
+## SM Writer — proiect propriu, exemplu valid de portofoliu
 
-Andreea folosește deja un agent AI intern — **SM Writer** — care îi scrie
-postările de social media zilnic. E menționat pe pagina „Despre mine" ca
-dovadă de capabilitate tehnică ("nu e un concept, e ceva ce rulează
-acum"). Poate fi refolosit ca unghi de conținut (dovadă de expertiză în
-automatizare/AI), dar nu e un produs de vânzare — nu se prezintă ca atare
-fără confirmare explicită.
+Agentul AI intern care generează zilnic materialul de LinkedIn al Andreei
+(vezi `sm_writer_prompt.md`) — **e un proiect real, poate fi menționat ca
+exemplu de portofoliu** (dovadă de expertiză în automatizare/AI/product),
+nu doar context intern. „Nu e un concept, e ceva ce rulează acum."
+
+## Reguli de nume — obligatoriu
+
+Numele de conținut (nu cele de site, unde diferă) pentru portofoliu:
+**Al Noir, Bookora, Platform Tickets, Cassian & Voicu, MyBudget, Emotional
+Planner, SM Writer.** Astea sunt singurele proiecte proprii care pot fi
+menționate ca experiență reală — „nu există (încă) clienți, utilizatori
+externi sau studii de caz proprii care pot fi citate ca atare".
 
 ## Reguli de utilizare în conținut
 
