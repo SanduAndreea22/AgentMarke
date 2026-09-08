@@ -19,6 +19,20 @@ lead gen cu educațional în aceeași postare.
 
 ## Unghiuri de conținut preferate
 
+> **Notă de sincronizare:** sistemul autoritativ de varietate/rotație
+> (ca să nu se repete tema sau formatul) e cel din `prompts/
+> linkedin_prompt.md` Etapa 2 — 14 categorii de temă (Product Development,
+> Antreprenoriat, Marketing, Copywriting, Customer Experience, UX, UI,
+> SaaS, Automatizare, Django, Dezvoltare software explicată pentru
+> business, Digitalizare, Beauty Tech, Restaurante/servicii bazate pe
+> programări) și 11 formate (postare, articol, analiză, opinie,
+> comparație, studiu de caz, lecție de business, greșeală frecventă, mit,
+> tendință, observație comportament), cu AI ≤10% din materiale și fără
+> repetare consecutivă de categorie/format. Lista de mai jos e o
+> categorisire mai simplă, complementară — **nu o taxonomie separată** —
+> utilă mai ales pentru Facebook (care nu urmează rotația strictă de 14
+> categorii, vezi `facebook_prompt.md`).
+
 - **Problem → solution**: o problemă concretă de business → cum arată
   rezolvată (ancorat în portofoliu real).
 - **Mistake → lesson**: o greșeală comună (a clienților sau tehnică) →
@@ -51,7 +65,11 @@ nu de limbă:
   world...", "Unlock the power of...", "Elevate your business...").
 - Nu publicăm identic pe ambele platforme.
 
-## Cadență (de completat pe măsură ce agentul e folosit)
+## Cadență
 
-`[DE COMPLETAT: frecvență dorită — ex. 2x/săptămână LinkedIn, 1x/săptămână
-Facebook]`
+- **LinkedIn:** 2x/săptămână.
+- **Facebook:** 1x/săptămână.
+
+Ritm confirmat de Andreea — moderat, sustenabil pentru un singur om care
+scrie și verifică manual fiecare postare (nu ritmul zilnic al fostului
+SM Writer). Poate fi ajustat oricând, direct în conversație.

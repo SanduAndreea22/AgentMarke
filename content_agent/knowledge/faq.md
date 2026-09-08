@@ -70,6 +70,12 @@ din ce se poate construi, nu produse de vânzare. Plannerul de echilibru
 personal și tracker-ul de buget, din secțiunea Produse, sunt produsele
 proprii, oferite direct.
 
+> Notă: răspunsul de mai sus e citat verbatim din FAQ-ul site-ului live,
+> care lista doar 3 proiecte de portofoliu la momentul scrierii lui.
+> `knowledge/products_services.md` e lista completă și actuală (include și
+> Cassian & Voicu, SM Writer) — folosește-o pe aia ca sursă de adevăr, nu
+> pe cea de mai sus.
+
 ## Oferi suport după lansare?
 
 Da — 7 zile de stabilizare gratuită după livrare. Mentenanța continuă

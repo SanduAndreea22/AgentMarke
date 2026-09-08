@@ -81,9 +81,11 @@ externi sau studii de caz proprii care pot fi citate ca atare".
 
 ## Reguli de utilizare în conținut
 
-- Numele exacte de mai sus (Al Noir, Bookora, Platform Tickets, Planner de
-  Echilibru Personal & Productivitate, Tracker Inteligent de Buget &
-  Finanțe) sunt cele de folosit — nu variante prescurtate inventate.
+- Folosește **exact** numele din secțiunea „Reguli de nume — obligatoriu"
+  de mai sus — nu variante prescurtate și nu numele lungi de pe site
+  pentru MyBudget/Emotional Planner (vezi „Notă de denumire" mai sus). Nu
+  se repetă lista aici, ca să nu se desincronizeze din nou dacă se adaugă
+  proiecte noi (exact ce s-a întâmplat până la acest audit).
 - Nu se inventează cifre de rezultat (ex. „+40% rezervări") pentru aceste
   proiecte fără confirmare explicită din partea Andreei (câmpul
   `result_highlight` din site, când există, e sursa validă).
