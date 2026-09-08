@@ -113,6 +113,7 @@ content_agent/
 ├── tests/                  ← ✅ cazuri de evaluare (INPUT/EXPECTED)
 ├── skills/                 ← 🗄️ arhivă istorică, nu se mai folosește
 └── outputs/                ← postările finale, salvate aici
+    ├── log.md              ← ✅ evidență cross-sesiune (nu repeta categorie/format)
     ├── linkedin/
     └── facebook/
 ```
@@ -123,9 +124,14 @@ content_agent/
 2. ✅ `prompts/linkedin_prompt.md` + `facebook_prompt.md` — pipeline
    complet, 5 etape, rubrică de audit scorată, buclă de revizie.
 3. ✅ `tests/` — cazuri de evaluare, rulate manual, toate PASS.
-4. 🚧 Memorie de preferințe acumulată din folosire (diferit de
-   `knowledge/` — nu fapte despre business, ci „la ultimele postări,
-   Andreea a preferat X" — se adaugă doar după ce pipeline-ul de mai sus
-   e stabil în folosire reală, nu de dragul arhitecturii).
+4. ✅ `outputs/log.md` — evidență minimă cross-sesiune (categorie/format/
+   dată per postare), doar cât să funcționeze regula de nerepetare din
+   Etapa 2. **Nu e memoria de preferințe de la punctul următor** — nu
+   stochează stil sau feedback, doar ce s-a folosit deja.
+5. 🚧 Memorie de preferințe acumulată din folosire (diferit de `log.md`
+   de mai sus — nu „ce s-a folosit", ci „la ultimele postări, Andreea a
+   preferat X" — se adaugă doar după ce pipeline-ul e stabil în folosire
+   reală, nu de dragul arhitecturii).
+6. 🚧 Tools/MCP (research automat, apoi eventual publicare/calendar
 5. 🚧 Tools/MCP (research automat, apoi eventual publicare/calendar
    editorial) — abia după ce 4 e stabil.

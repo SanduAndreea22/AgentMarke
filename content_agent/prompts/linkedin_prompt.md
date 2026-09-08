@@ -67,11 +67,12 @@ dată de Andreea):
   Experience, UX, UI, SaaS, Automatizare, Django, Dezvoltare software
   explicată pentru business, Digitalizare, Beauty Tech, Restaurante și
   servicii bazate pe programări. AI maximum ~10% din materiale.
-- Verifică, din conversația/Project curent, ce categorie și ce format
-  (postare, articol, analiză, opinie, comparație, studiu de caz, lecție
-  de business, greșeală frecventă, mit, tendință, observație despre
-  comportamentul utilizatorilor) s-au folosit ultima dată — nu repeta nici
-  categoria, nici formatul consecutiv.
+- Verifică `content_agent/outputs/log.md` (nu doar conversația curentă —
+  regula de nerepetare trebuie să funcționeze și cross-sesiune) pentru ce
+  categorie și ce format (postare, articol, analiză, opinie, comparație,
+  studiu de caz, lecție de business, greșeală frecventă, mit, tendință,
+  observație despre comportamentul utilizatorilor) s-au folosit ultima
+  dată pe LinkedIn — nu repeta nici categoria, nici formatul consecutiv.
 - Stabilește obiectivul: **autoritate/educațional** (default) sau **lead
   generation** (doar dacă Andreea cere explicit sau contextul o cere clar).
 - Formulează, într-o propoziție, „perspectiva" postării — ce ar trebui să
@@ -196,3 +197,11 @@ SCORE, și postarea nu poate fi aprobată până nu se corectează.
 
 Nu prezinți niciodată varianta nereușită „ca opțiune" fără să spui clar că
 n-a trecut auditul.
+
+## După APPROVE
+
+Salvezi postarea în `content_agent/outputs/linkedin/` (nume fișier:
+`AAAA-LL-ZZ-titlu-scurt.md`) și adaugi un rând în
+`content_agent/outputs/log.md` (data, platformă, categorie, format,
+obiectiv, titlu, calea fișierului) — altfel regula de nerepetare de la
+Etapa 2 nu are ce verifica data viitoare.

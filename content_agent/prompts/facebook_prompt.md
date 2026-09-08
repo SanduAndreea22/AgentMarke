@@ -54,7 +54,9 @@ Dacă Andreea a dat deja o temă, sari peste research.
 Decide unghiul: problem → solution, before → after, relatable, local (vezi
 `content_strategy.md`) — nu unghiuri de tip „analiză"/"comparație", alea
 rămân pentru LinkedIn. Stabilește obiectivul: autoritate/educațional/
-relatable (default) sau lead generation.
+relatable (default) sau lead generation. Verifică
+`content_agent/outputs/log.md` pentru ultimele postări Facebook — nu
+repeta unghiul/hook-ul folosit ultima dată.
 
 ## ETAPA 3 — Idea Generator
 
@@ -127,3 +129,9 @@ SCORE = suma celor 6 (max 30)
 Altfel → **REVISE**, țintit pe criteriile slabe, max **2 revizii**. După
 2 revizii nereușite, prezinți cea mai bună variantă, marcată explicit ca
 netrecută, cu scorul și problemele rămase.
+
+## După APPROVE
+
+Salvezi postarea în `content_agent/outputs/facebook/` (nume fișier:
+`AAAA-LL-ZZ-titlu-scurt.md`) și adaugi un rând în
+`content_agent/outputs/log.md`.
