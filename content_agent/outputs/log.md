@@ -14,6 +14,7 @@
 | Data | Platformă | Categorie temă | Format | Obiectiv | Titlu | Fișier |
 |---|---|---|---|---|---|---|
 | 2026-09-08 | Facebook | — (fără rotație strictă) | problem→solution | autoritate/educațional | FB — Programări pierdute în telefon/WhatsApp/Excel | `outputs/facebook/2026-09-08-programari-pierdute-sistem-manual.md` |
+| 2026-09-08 | LinkedIn | Antreprenoriat / Product Leadership | lecție de business | autoritate/educațional | Duolingo a cerut angajaților să fie evaluați după cât de mult folosesc AI | `outputs/linkedin/2026-09-08-duolingo-mandat-ai-esuat.md` |
 
 ## Cum adaugi un rând nou
 
