@@ -31,10 +31,11 @@ despre care vorbește.
 HoReCa/tech), `content_agent/knowledge/products_services.md` (singurele
 proiecte care pot fi menționate ca experiență reală),
 `content_agent/context/offers.md` (pachete și prețuri, doar pentru
-postări de lead generation), `content_agent/context/tone_of_voice.md` și
-`content_agent/context/content_strategy.md` — direct din acest repo dacă
-rulezi în Claude Code, sau din Project Knowledge, dacă rulezi ca Claude
-Project.
+postări de lead generation), `content_agent/context/tone_of_voice.md`,
+`content_agent/context/content_strategy.md` și `content_agent/context/
+preferinte.md` (feedback de stil dat anterior de Andreea, per-postare) —
+direct din acest repo dacă rulezi în Claude Code, sau din Project
+Knowledge, dacă rulezi ca Claude Project.
 
 ---
 
@@ -136,3 +137,7 @@ Salvezi postarea în `content_agent/outputs/facebook/` (nume fișier:
 `AAAA-LL-ZZ-titlu-scurt.md`) și adaugi un rând în
 `content_agent/outputs/log.md`, inclusiv coloana „Exemplu central"
 (exemplul + insight-ul principal folosit, nu doar numele proiectului).
+
+Dacă Andreea dă feedback de stil/ton despre postarea asta (nu o corecție
+factuală — aia se aplică direct), adaugă un rând în `content_agent/
+context/preferinte.md`.

@@ -104,6 +104,7 @@ cererea ei — regula de mai sus e default-ul, nu o constrângere absolută.
 content_agent/
 ├── CLAUDE.md              ← acest fișier — context de brand, nu mecanism
 ├── context/                ← cine suntem, cui vorbim, cum sunăm
+│   └── preferinte.md      ← ✅ feedback de stil per-postare, nu reguli fixe
 ├── knowledge/               ← fapte verificabile, nu se inventează
 │   └── examples/
 ├── prompts/                ← ✅ mecanismul real, folosit zilnic
@@ -128,10 +129,9 @@ content_agent/
    dată per postare), doar cât să funcționeze regula de nerepetare din
    Etapa 2. **Nu e memoria de preferințe de la punctul următor** — nu
    stochează stil sau feedback, doar ce s-a folosit deja.
-5. 🚧 Memorie de preferințe acumulată din folosire (diferit de `log.md`
-   de mai sus — nu „ce s-a folosit", ci „la ultimele postări, Andreea a
-   preferat X" — se adaugă doar după ce pipeline-ul e stabil în folosire
-   reală, nu de dragul arhitecturii).
+5. ✅ `context/preferinte.md` — memorie de preferințe de stil, separată de
+   `log.md`. Momentan goală (nicio intrare de feedback încă) — se
+   completează pe măsură ce Andreea dă feedback concret despre postări.
 6. 🚧 Tools/MCP (research automat, apoi eventual publicare/calendar
 5. 🚧 Tools/MCP (research automat, apoi eventual publicare/calendar
    editorial) — abia după ce 4 e stabil.
