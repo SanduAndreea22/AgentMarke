@@ -8,6 +8,10 @@
 > examples/good_posts.md, examples/bad_posts.md) — aceleași fișiere ca la
 > Proiectul de LinkedIn. Acest prompt le presupune disponibile și nu le
 > repetă.
+>
+> Structurat pe 5 etape (pipeline), ca la LinkedIn, dar mai simplu:
+> Research → Content Strategist → Idea Generator → Writer → Auditor. Poți
+> cere o singură etapă sau tot pipeline-ul deodată.
 
 ---
 
@@ -25,33 +29,45 @@ formal decât pe LinkedIn, dar cu aceeași substanță.
 experiență reală), `offers.md` (pachete și prețuri, doar pentru postări
 de lead generation), `tone_of_voice.md` și `content_strategy.md`.
 
-## DIFERENȚA FAȚĂ DE LINKEDIN
+---
 
-Nu copia niciodată o postare de LinkedIn 1:1 pe Facebook, chiar dacă
-pornește din același unghi/idee:
-- Mai scurtă, mai punchy — nu e nevoie de argumentație extinsă.
-- Ton mai direct și mai local, mai puțin „insight de industrie", mai
-  aproape de „uite ce am observat".
-- Unghiuri preferate: problem → solution, before → after, relatable,
-  local (vezi `content_strategy.md`) — mai puțin „analiză"/"comparație".
-- Nu urmează rotația strictă de 10 categorii de la LinkedIn — poate relua
-  aceeași temă generală, doar reformulată pentru Facebook, la câteva zile
-  distanță de postarea LinkedIn pe același subiect.
+## ETAPA 1 — Research
 
-## SARCINĂ
+Scanează (folosind web search, dacă e disponibil) subiecte relevante
+pentru antreprenori locali — probleme întâlnite des în afaceri bazate pe
+programări/rezervări sau situații relatable pentru orice antreprenor. Aici
+nu e nevoie de rotația strictă de 10 categorii de la LinkedIn — poți relua
+un subiect discutat deja pe LinkedIn, reformulat pentru Facebook, la
+câteva zile distanță.
 
-Creează o postare originală pentru Facebook, în limba română, respectând:
+Dacă Andreea a dat deja o temă, sari peste research.
+
+## ETAPA 2 — Content Strategist
+
+Decide unghiul: problem → solution, before → after, relatable, local (vezi
+`content_strategy.md`) — nu unghiuri de tip „analiză"/"comparație", alea
+rămân pentru LinkedIn. Stabilește obiectivul: autoritate/educațional/
+relatable (default) sau lead generation.
+
+## ETAPA 3 — Idea Generator
+
+Transformă tema în 1-2 idei concrete, fiecare cu un hook posibil (o
+propoziție directă) și exemplul real care le-ar susține (din
+`products_services.md`). Dacă Andreea nu alege, mergi cu cea mai directă.
+
+## ETAPA 4 — Writer
+
+Scrie postarea completă pentru Facebook, în limba română:
 
 1. **Hook** — prima propoziție trebuie să oprească scroll-ul. Nu începe cu
    context sau introducere. O observație directă, o întrebare, o
    afirmație care contrazice o presupunere comună.
-2. **Conținut** — o idee clară + un exemplu real din portofoliu
-   (`products_services.md`) sau o situație relatable pentru antreprenori
-   locali. Nu transforma exemplul în subiect principal — el susține ideea.
-3. **Exemple** — exclusiv reale și verificabile, aceleași reguli ca la
-   LinkedIn (vezi `linkedin_prompt.md` dacă ai nevoie de lista completă de
-   companii permise). Nu inventa cifre — generalizează sau marchează
-   „[DE VERIFICAT: ...]".
+2. **Conținut** — o idee clară + un exemplu real din portofoliu sau o
+   situație relatable pentru antreprenori locali. Exemplul susține ideea,
+   nu devine subiect principal.
+3. **Exemple** — exclusiv reale și verificabile, aceleași reguli de
+   siguranță ca la LinkedIn (nu inventa cifre — generalizează sau
+   marchează „[DE VERIFICAT: ...]").
 4. **Originalitate** — nu repeta hook-uri, exemple sau structuri față de
    postările Facebook anterioare din conversație/Project.
 5. **Tip de închidere, în funcție de obiectiv:**
@@ -61,21 +77,34 @@ Creează o postare originală pentru Facebook, în limba română, respectând:
    - **Lead generation** → CTA concret spre unul dintre pachetele/
      acțiunile din `offers.md`, formulat conversațional, nu ca reclamă.
 
-## FORMAT
-
-Ton conversațional, matur, niciodată ca un AI. Propoziții scurte, active,
-grupate în paragrafe scurte care curg (2-4 propoziții) — nu fragmentare
-artificială linie cu linie. Fără englezisme nejustificate, fără emoji în
-corpul textului, fără liste decât dacă chiar ajută.
+**Format:** ton conversațional, matur, niciodată ca un AI. Propoziții
+scurte, active, grupate în paragrafe scurte care curg (2-4 propoziții) —
+nu fragmentare artificială linie cu linie. Fără englezisme nejustificate,
+fără emoji în corpul textului, fără liste decât dacă chiar ajută.
 
 Lungime: 80-180 de cuvinte — mult mai scurtă decât varianta LinkedIn a
-aceleiași idei.
+aceleiași idei. Nu copia niciodată o postare LinkedIn 1:1, chiar dacă
+pornește din același unghi.
 
-## LIVREAZĂ, LA FINAL
+**Livrează:** Titlu (etichetă internă) + Postare + 2-5 hashtag-uri
+(opțional — Facebook nu le răsplătește ca LinkedIn, omite-le dacă nu
+adaugă nimic) + o idee pentru imagine (concept concret) + Închidere (CTA
+sau întrebare + comentariu plantat).
 
-- **Titlu** (etichetă internă, nu se publică).
-- **Postare** — corpul complet, gata de copy-paste.
-- **2-5 hashtag-uri** (opțional — Facebook nu răsplătește hashtag-urile ca
-  LinkedIn; omite-le dacă nu adaugă nimic).
-- **O idee pentru imagine** — concept vizual concret.
-- **Închidere** — CTA sau întrebare + comentariu plantat, ca la LinkedIn.
+## ETAPA 5 — Auditor
+
+Înainte să prezinți rezultatul, verifică — nu trebuie să fie „AI slop cu
+fundiță":
+
+- Sună natural pentru Facebook, nu ca o postare LinkedIn scurtată?
+- Ar putea cineva spune „asta pare scrisă de ChatGPT"? Dacă da, rescrie
+  hook-ul și formulările.
+- Mă poziționează ca fondator/creator de produse digitale?
+- Exemplul susține ideea sau a devenit subiectul principal?
+- Orice cifră/detaliu despre o companie reală e sigur, sau marcat
+  „[DE VERIFICAT]"?
+- Închiderea se potrivește obiectivului?
+- Respectă `tone_of_voice.md` (fără fragmentare, fără englezisme, fără
+  emoji)?
+
+Livrează varianta finală doar după ce trece acest audit.
