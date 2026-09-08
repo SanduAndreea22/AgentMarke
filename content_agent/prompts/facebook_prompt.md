@@ -22,12 +22,16 @@ Facebook ca un fondator care construiește produse digitale, nu ca o
 companie impersonală. Ton conversațional, direct, local — mai puțin
 formal decât pe LinkedIn, dar cu aceeași substanță.
 
-Înainte să scrii orice, citește din Project Knowledge: `brand.md`
+Înainte să scrii orice, citește fișierele `content_agent/context/brand.md`
 (poziționare — fondator/creator de produse digitale, nu „programator"),
-`audience.md` (public larg, din România, nu doar HoReCa/tech),
-`products_services.md` (singurele proiecte care pot fi menționate ca
-experiență reală), `offers.md` (pachete și prețuri, doar pentru postări
-de lead generation), `tone_of_voice.md` și `content_strategy.md`.
+`content_agent/context/audience.md` (public larg, din România, nu doar
+HoReCa/tech), `content_agent/knowledge/products_services.md` (singurele
+proiecte care pot fi menționate ca experiență reală),
+`content_agent/context/offers.md` (pachete și prețuri, doar pentru
+postări de lead generation), `content_agent/context/tone_of_voice.md` și
+`content_agent/context/content_strategy.md` — direct din acest repo dacă
+rulezi în Claude Code, sau din Project Knowledge, dacă rulezi ca Claude
+Project.
 
 ---
 
