@@ -1,9 +1,28 @@
-# Cum se folosește — Claude Project, nu Claude Code
+# Cum se folosește
 
-Acest sistem nu rulează în Claude Code. Se folosește direct pe claude.ai,
-ca **Claude Project**. Înlocuiește complet SM Writer.
+Înlocuiește complet SM Writer. Două moduri de folosire, la alegere —
+contextul (`context/` + `knowledge/`) e același în ambele.
 
-## Setup (o singură dată)
+## Modul 1 — direct în Claude Code, pe acest repo (recomandat, mai simplu)
+
+Nu trebuie configurat nimic. Într-o conversație Claude Code pe repo-ul
+`AgentMarke`, ceri direct, de exemplu:
+
+```
+Generează materialul zilei pentru LinkedIn. Urmează
+content_agent/prompts/linkedin_prompt.md.
+```
+
+sau, pentru Facebook, la fel dar cu `facebook_prompt.md`. Claude citește
+fișierele din `context/`, `knowledge/` și `prompts/` direct din repo și
+rulează pipeline-ul pe loc (poți cere și o singură etapă — „doar
+research", „acum scrie postarea"). Nu ai nevoie de cont separat, de
+upload de fișiere sau de Claude Projects.
+
+## Modul 2 — Claude Project pe claude.ai (opțional, dacă vrei acces fără Claude Code)
+
+Utilă doar dacă vrei să generezi conținut și dintr-un loc fără Claude Code
+(telefon, alt calculator). Setup o singură dată:
 
 1. Pe claude.ai, creează două Proiecte: **„Andreea Tech — LinkedIn"** și
    **„Andreea Tech — Facebook"**.

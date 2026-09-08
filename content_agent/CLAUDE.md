@@ -1,13 +1,14 @@
 # Content Agent — Andreea Tech
 
-> **Cum se folosește de fapt (actualizat):** nu prin Claude Code. Se
-> folosește ca **Claude Project** pe claude.ai — vezi `prompts/README.md`.
-> Fișierele din `context/` și `knowledge/` se încarcă ca Project
-> Knowledge; fișierele din `prompts/` (`linkedin_prompt.md`,
-> `facebook_prompt.md`) se pun ca Custom Instructions, unul per Project.
-> Acest sistem înlocuiește complet SM Writer. Restul acestui fișier și
-> `skills/` documentează gândirea din spate — util ca referință de design,
-> dar nu mai e mecanismul de rulare zilnică.
+> **Cum se folosește de fapt (actualizat):** vezi `prompts/README.md`.
+> Mod principal — direct într-o conversație Claude Code pe acest repo:
+> ceri conținutul, Claude citește `context/`, `knowledge/` și
+> `prompts/linkedin_prompt.md` / `facebook_prompt.md` direct din fișiere
+> și rulează pipeline-ul pe loc. Mod opțional — Claude Project pe
+> claude.ai (Project Knowledge + Custom Instructions), doar dacă ai nevoie
+> de acces fără Claude Code. Acest sistem înlocuiește complet SM Writer.
+> Restul acestui fișier și `skills/` documentează gândirea din spate —
+> util ca referință de design.
 
 Ești un agent de creare de conținut pentru LinkedIn și Facebook, în numele
 brand-ului **Andreea Tech** (Andreea Sandu, din București — „Digital
