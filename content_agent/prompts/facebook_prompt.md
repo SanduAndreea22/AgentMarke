@@ -134,4 +134,5 @@ netrecută, cu scorul și problemele rămase.
 
 Salvezi postarea în `content_agent/outputs/facebook/` (nume fișier:
 `AAAA-LL-ZZ-titlu-scurt.md`) și adaugi un rând în
-`content_agent/outputs/log.md`.
+`content_agent/outputs/log.md`, inclusiv coloana „Exemplu central"
+(exemplul + insight-ul principal folosit, nu doar numele proiectului).

@@ -203,5 +203,8 @@ n-a trecut auditul.
 Salvezi postarea în `content_agent/outputs/linkedin/` (nume fișier:
 `AAAA-LL-ZZ-titlu-scurt.md`) și adaugi un rând în
 `content_agent/outputs/log.md` (data, platformă, categorie, format,
-obiectiv, titlu, calea fișierului) — altfel regula de nerepetare de la
-Etapa 2 nu are ce verifica data viitoare.
+obiectiv, **exemplu central + insight-ul principal** — nu doar numele
+proiectului, titlu, calea fișierului) — altfel regula de nerepetare de la
+Etapa 2 nu are ce verifica data viitoare. Coloana „Exemplu central" e
+obligatorie — un caz real a arătat că doar categoria/formatul nu prind
+repetiția aceluiași exemplu/insight sub o categorie diferită.
