@@ -26,6 +26,7 @@
 | 2026-09-08 | LinkedIn | Antreprenoriat / Product Leadership | lecție de business | autoritate/educațional | Duolingo (extern) + SM Writer — insight „util, nu impus" | Duolingo a cerut angajaților să fie evaluați după cât de mult folosesc AI | `outputs/linkedin/2026-09-08-duolingo-mandat-ai-esuat.md` |
 | 2026-09-08 | Facebook | — (fără rotație strictă) | problem→solution | autoritate/educațional | Al Noir | FB — Nu vezi unde se scurg banii din business | `outputs/facebook/2026-09-08-lipsa-vizibilitate-dashboard.md` |
 | 2026-09-08 | LinkedIn | Automatizare | opinie/mit contrazis | autoritate/educațional | Bookora — insight „timp realocat spre judecată" | LI — Automatizare = mai puțină muncă repetitivă, nu mai puțin om | `outputs/linkedin/2026-09-08-automatizare-nu-inseamna-eliminarea-omului.md` |
+| 2026-09-08 | LinkedIn | UX | greșeală frecventă | autoritate/educațional | Cassian & Voicu + Linear (referință externă, filosofie de produs, fără cifre) — insight „mai puține decizii cerute = UX mai bun, nu mai frumos" | Cea mai frecventă greșeală de UX pe care o văd la fondatori | `outputs/linkedin/2026-09-08-greseala-ux-cassian-voicu.md` |
 
 ## Cum adaugi un rând nou
 
