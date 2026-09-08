@@ -1,10 +1,79 @@
-# Exemple bune (template-uri de referință)
+# Exemple bune (referințe de ton și structură)
 
-> Acestea sunt **exemple structurale ilustrative**, nu postări reale
-> publicate și nu conțin cifre/rezultate reale. Scopul lor e să calibreze
-> ton și structură, nu să fie copiate cu date fictive completate. Pe
-> măsură ce se publică postări reale care performează bine, se adaugă
-> aici (marcate ca atare, cu link).
+> Fișierul are două tipuri de conținut: exemple **reale** (postări
+> livrate/publicate de Andreea, folosite ca sursă de adevăr pentru ton și
+> format) și template-uri **ilustrative** (structuri generice pentru
+> calibrare, fără cifre/rezultate reale). Fiecare intrare e marcată clar.
+
+## [REAL] Taxa de anulare nu rezolvă lipsa de prezență la programări
+
+> Sursă: livrat de Andreea, 7 septembrie 2026. Format: opinie + lecție
+> practică, LinkedIn/RO. Referință de portofoliu: Bookora.
+
+Aproape orice salon, clinică sau cabinet care se confruntă cu clienți care
+rezervă și apoi nu mai apar ia aceeași decizie: introduce o taxă de
+anulare. Rareori funcționează pe termen lung. Problema nu e lipsa unei
+penalizări, e modul în care a fost construit procesul de rezervare de la
+bun început.
+
+Când rezervarea durează zece secunde și nu cere nimic altceva decât o dată
+și o oră, clientul nu se implică emoțional în decizia lui. Nu a confirmat
+nimic concret, nu a ales nimic personal, nu a spus „da, chiar vreau asta"
+în niciun moment al procesului. Așa că, atunci când apare ceva mai
+important în ziua respectivă, renunță fără să simtă că a stricat o
+înțelegere. Nu a existat o înțelegere reală, a existat doar o completare
+de formular.
+
+Am observat asta direct construind Bookora, o platformă de programări cu
+roluri separate pentru afacere și pentru client. Diferența nu vine din
+trimiterea mai multor mesaje de reamintire, ci din felul în care e
+formulat procesul: o confirmare pe care clientul o dă activ, nu una
+automată, și un mesaj de reamintire care conține detalii specifice —
+numele persoanei cu care are programarea, exact ce urmează să se
+întâmple, nu doar „te așteptăm mâine". Un mic pas suplimentar la
+rezervare, cum ar fi alegerea unei preferințe legate de serviciu, face
+aceeași treabă: transformă o bifă rapidă într-o decizie asumată.
+
+Lecția e valabilă dincolo de saloane sau clinici, pentru orice afacere
+care trăiește din programări confirmate, nu doar din programări făcute.
+Dacă vrei ca oamenii să se prezinte, nu îngreuna anularea. Îngreunează
+puțin, cu bun simț, decizia de la început.
+
+Voi ați observat vreodată o schimbare simplă în procesul de rezervare care
+a redus, la voi sau la un business cu care ați lucrat, numărul absențelor?
+
+**Hashtag-uri:** #ExperientaClientului #ProgramariOnline #Antreprenoriat
+#ProductDevelopment #UX #DigitalizareAfaceri #ServiciiCuProgramare
+
+**Idee de imagine:** Split-screen — stânga: formular de rezervare generic,
+gri, cu un singur câmp „Alege ora". Dreapta: același formular, dar cu un
+pas de confirmare activă evidențiat (bifă/buton „Confirm participarea") și
+un mesaj de reamintire personalizat afișat pe telefon.
+
+**Comentariu plantat (adăugat imediat după postare):** Cea mai mare
+presupunere greșită în orice business cu programări: crezi că faci un
+serviciu clientului dacă simplifici la maximum rezervarea. De fapt, îi
+simplifici la maximum și plecarea.
+
+### De ce e un exemplu bun
+
+- Deschide cu o observație contrarian ("taxa de anulare nu rezolvă
+  problema"), nu cu o prezentare de soluție.
+- Explică mecanismul psihologic (implicare emoțională în decizie), nu doar
+  simptomul.
+- Ancorată real în portofoliu (Bookora), fără cifre inventate.
+- Lecția se generalizează explicit dincolo de exemplul inițial.
+- **Se termină cu o întrebare de engagement, nu cu un CTA de link** — vezi
+  nota din `context/content_strategy.md` despre când e potrivit fiecare tip.
+- Vine cu format complet de producție: hashtag-uri, idee de imagine,
+  comentariu plantat pentru a stimula discuția.
+
+---
+
+## Template-uri ilustrative
+
+> Structuri generice, nu postări reale — folosite doar pentru calibrare de
+> ton/structură când nu există încă un exemplu real pe unghiul respectiv.
 
 ## Exemplu de structură — Problem → Solution (LinkedIn, EN)
 

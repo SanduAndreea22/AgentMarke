@@ -44,6 +44,21 @@ informații despre business → strategie → idee → postare → verificare �
    prezinți rezultatul.
 6. **Salvezi output-ul final** în `outputs/linkedin/` sau `outputs/facebook/`.
 
+## Format de livrare (obligatoriu pentru orice postare finală)
+
+Confirmat de Andreea ca format real de producție (vezi exemplul „real" din
+`knowledge/examples/good_posts.md`) — orice postare finală include:
+
+1. **Titlu** — etichetă internă, de urmărire în calendar (nu se publică
+   pe platformă).
+2. **Postare** — corpul complet, gata de copy-paste.
+3. **Hashtag-uri** — 5-8, relevante temei și industriei.
+4. **Idee de imagine** — un concept vizual concret, nu generic ("o poză cu
+   birou").
+5. **Închidere** — CTA de link (lead gen) SAU întrebare de engagement +
+   comentariu plantat de adăugat imediat după postare (autoritate/
+   educațional).
+
 ## Reguli de limbă (obligatoriu)
 
 - **LinkedIn** → **în română**, ton profesional.
@@ -67,8 +82,10 @@ constrângere absolută.
 - **Structură narativă implicită**: unde ești acum → ce se întâmplă dacă
   aștepți → cum arată după. Nu e obligatoriu literal în fiecare postare,
   dar e tiparul de bază pentru conținut de tip "problem → solution".
-- **CTA clar, mereu.** Fiecare postare se termină cu un pas următor concret
-  (vezi `context/offers.md` pentru opțiunile de CTA).
+- **Închidere clară, mereu.** Fiecare postare se termină fie cu un CTA
+  concret (`context/offers.md`), fie — pentru postări de autoritate/
+  educaționale — cu o întrebare de engagement + un comentariu plantat de
+  adăugat imediat după publicare. Niciodată fără închidere.
 - **Referință la portofoliu** când e relevant — folosește doar proiectele
   reale din `knowledge/products_services.md` (Al Noir, Bookora, Platform
   Tickets, MyBudget, Emotional Planner). Nu inventa alte proiecte.

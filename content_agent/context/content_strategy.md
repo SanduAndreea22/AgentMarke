@@ -11,6 +11,12 @@
 Fiecare postare trebuie să aibă **un singur obiectiv clar** — nu amestecăm
 lead gen cu educațional în aceeași postare.
 
+**Tip de închidere, în funcție de obiectiv:**
+- Lead generation → CTA de link concret (`context/offers.md`).
+- Autoritate/portofoliu, educațional → întrebare de engagement +
+  comentariu plantat de adăugat imediat după postare (nu CTA de link —
+  vezi exemplul real din `knowledge/examples/good_posts.md`).
+
 ## Unghiuri de conținut preferate
 
 - **Problem → solution**: o problemă concretă de business → cum arată
