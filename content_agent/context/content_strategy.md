@@ -65,7 +65,11 @@ nu de limbă:
   world...", "Unlock the power of...", "Elevate your business...").
 - Nu publicăm identic pe ambele platforme.
 
-## Cadență (de completat pe măsură ce agentul e folosit)
+## Cadență
 
-`[DE COMPLETAT: frecvență dorită — ex. 2x/săptămână LinkedIn, 1x/săptămână
-Facebook]`
+- **LinkedIn:** 2x/săptămână.
+- **Facebook:** 1x/săptămână.
+
+Ritm confirmat de Andreea — moderat, sustenabil pentru un singur om care
+scrie și verifică manual fiecare postare (nu ritmul zilnic al fostului
+SM Writer). Poate fi ajustat oricând, direct în conversație.
