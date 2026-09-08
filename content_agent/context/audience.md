@@ -28,16 +28,20 @@ actual.
 - Să pară (și să fie) un business serios, nu unul cu prezență online de
   amatori.
 
-## Obiecții
+## Obiecții (confirmate — vezi `knowledge/faq.md`)
 
-- "Am mai încercat, nu a mers" (context: agenții impersonale, freelanceri
-  care dispar la jumătatea proiectului).
-- "E prea scump" (răspuns prin structura de pachete cu preț fix — vezi
-  `offers.md` — nu prin negociere de tarif orar).
-- "Nu am timp să gestionez un proiect tehnic" — de asta procesul e condus
-  de un singur om, cu comunicare directă.
-- "De unde știu că funcționează cu adevărat?" — de asta ne bazăm pe
-  portofoliu real, nu pe promisiuni.
+- "De ce tu și nu o agenție?" → lucrează direct cu ea, fără handoff, fără
+  account manager.
+- "Dispari după ce livrezi, ca alți freelanceri?" → 7 zile de stabilizare
+  gratuită, rămâne contactabilă și după.
+- "Nu știu dacă am nevoie de sistem complex sau doar site simplu" → se
+  clarifică împreună, fără presiune spre pachetul scump.
+- "E prea scump" → structură de pachete cu preț fix (vezi `offers.md`), nu
+  tarif orar, nu negociere.
+- "Nu am timp să gestionez un proiect tehnic" → un singur om, comunicare
+  directă prin mesaje, fără call-uri programate obligatorii.
+- "De ce nu un website builder (Wix/Shopify)?" → sistemul se construiește
+  pe fluxul real al afacerii, nu pe un template generic.
 
 ## Ce le pasă
 

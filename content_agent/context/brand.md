@@ -1,29 +1,45 @@
 # Brand: Andreea Tech
 
+> Sursă: conținutul acestui fișier e verificat direct din site-ul live
+> (repo `SanduAndreea22/andreeatech`, Django) — nu e presupus.
+
 ## Cine suntem
 
 **Nume brand:** Andreea Tech
-**Cine:** Andreea, dezvoltatoare full-stack Django, din București. Brand de
-freelancing în tranziție de la job full-time spre freelance 100%.
+**Nume pe site:** Andreea Sandu
+**Poziționare de site:** "Andreea Sandu | Digital Products & Experiences"
+**Cine:** din București. Lucrează singură cu fiecare client, de la primul
+mesaj până la livrare — nu e agenție, nu există handoff către altă echipă
+("Lucrezi direct cu mine... eu scriu codul, eu răspund la mesaje").
+
+**Important pentru conținut:** site-ul nu se poziționează ca „dezvoltator
+full-stack" sau prin stack tehnic. Citat direct din About: „De-asta nu
+pornesc de la un stack tehnic. Pornesc de la problemă — de ce are nevoie
+omul care folosește produsul." Django e tehnologia din spate (confirmată
+în FAQ), dar nu e mesajul central — apare ca dovadă de soliditate, nu ca
+titulatură.
 
 ## Ce facem
 
 Construim produsul digital din spatele unui business — website, sistem,
 automatizare — orice e nevoie ca să funcționeze corect. Nu livrăm doar un
 site static, livrăm sistemul care rezolvă o problemă operațională reală:
-rezervări care nu se pierd, plăți care se procesează automat, inventar care
-se actualizează singur, dashboard-uri care arată ce se întâmplă în business.
+rezervări care nu se pierd, plăți care se procesează automat, cereri care
+nu se mai gestionează manual, dashboard-uri care arată ce se întâmplă în
+business.
 
-## Ce vindem
+## Ce vindem (confirmat, vezi `offers.md` pentru prețuri exacte)
 
-- Website-uri și aplicații web construite pe Django/DRF/PostgreSQL.
-- Sisteme cu logică de business reală: rezervări, plăți (Stripe), ticketing,
-  dashboard-uri, automatizări.
+- Website-uri și platforme construite pe măsura business-ului (pachet
+  **Prezență Digitală**).
+- Sisteme cu flux automat — cereri/programări direct de pe site, confirmări
+  automate, recenzii (pachet **Experiență Completă**).
+- Platforme complete cu plăți online și panou de control extins, construite
+  pe fluxul real al afacerii, nu pe șablon (pachet **Sistem Premium**).
+- Automatizări simple (confirmări, remindere) și agenți AI (conversații,
+  triaj cereri) — add-on peste orice pachet, sau separat.
 - Copywriting — **ca add-on la proiectul tehnic, niciodată ca serviciu de
   sine stătător.**
-
-Detalii de ofertă concrete (pachete, prețuri) sunt în `offers.md` — nu se
-inventează aici.
 
 ## Poziționare
 
@@ -35,14 +51,20 @@ Nu construim "un site". Construim experiența digitală care face diferența
 Pentru antreprenorii care vor să-și ducă business-ul la următorul nivel —
 nu pentru cei care vor doar o prezență online minimă.
 
-## Ce ne diferențiază
+## Ce ne diferențiază (citate/fapte reale de pe site)
 
 - Livrăm sisteme funcționale, nu doar interfețe — logica de business e
-  parte din livrabil (plăți, rezervări, inventar, automatizări), nu un
-  "de adăugat mai târziu".
-- Un singur om responsabil de tot procesul, de la idee la live — nu o
-  agenție cu handoff-uri între departamente.
-- Portofoliu concret, verificabil, nu promisiuni abstracte (vezi
+  parte din livrabil (plăți, rezervări, cereri, automatizări).
+- Un singur om responsabil de tot procesul — „nu treci printr-un account
+  manager care transmite mai departe unei echipe".
+- Termen clar, stabilit înainte să înceapă lucrul — fără surprize pe
+  parcurs.
+- **7 zile de stabilizare gratuită** după livrare — orice bug găsit în
+  perioada asta se repară fără cost.
+- **Răspunde în maximum 24h** la orice brief/mesaj.
+- 100% cod propriu, fără șabloane/website builder — sistemul se construiește
+  pe fluxul real al afacerii, nu invers.
+- Portofoliu concret, verificabil: 5+ sisteme construite (vezi
   `knowledge/products_services.md`).
 
 ## Valori / cum lucrăm
@@ -52,6 +74,8 @@ nu pentru cei care vor doar o prezență online minimă.
 - Fără povești fabricate — orice exemplu folosit în conținut e real și
   verificabil.
 - Prețuri clare, pe pachete — fără "depinde", fără tarif orar ascuns.
+- Nu dispare după livrare — rămâne contactabilă, mentenanța continuă se
+  discută separat dacă e nevoie.
 
 ## Limite importante pentru conținutul public
 
