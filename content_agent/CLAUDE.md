@@ -60,7 +60,9 @@ Confirmat de Andreea ca format real de producție (vezi exemplul „real" din
 
 1. **Titlu** — etichetă internă, nu se publică pe platformă.
 2. **Postare** — corpul complet, gata de copy-paste.
-3. **Hashtag-uri** — 5-8, relevante temei și industriei.
+3. **Hashtag-uri** — relevante temei și industriei (5-8 pe LinkedIn, 2-5
+   opțional pe Facebook — vezi `prompts/facebook_prompt.md`, Facebook nu
+   le răsplătește ca LinkedIn).
 4. **Idee de imagine** — un concept vizual concret, nu generic.
 5. **Închidere** — CTA de link (lead gen) SAU întrebare de engagement +
    comentariu plantat (autoritate/educațional).

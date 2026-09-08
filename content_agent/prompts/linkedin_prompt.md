@@ -167,7 +167,7 @@ FACTUAL_ACCURACY: PASS / FAIL   (gate dur — vezi mai jos)
 BRAND_VOICE:        0-5   (sună ca fondator/creator de produse, nu ca dezvoltator sau ca o agenție generică?)
 AUDIENCE_RELEVANCE:  0-5   (înțelege oricine citește, nu doar cineva din industria exemplului?)
 HOOK:                0-5   (primele 3 rânduri chiar opresc scroll-ul, sau e o intro lentă?)
-PLATFORM_FIT:        0-5   (lungime, ton și structură potrivite pentru LinkedIn, nu genericе?)
+PLATFORM_FIT:        0-5   (lungime, ton și structură potrivite pentru LinkedIn, nu generice?)
 CLOSING:             0-5   (închiderea se potrivește obiectivului — CTA pentru lead gen, întrebare autentică pentru autoritate/educațional?)
 AI_GENERICNESS:      0-5   (5 = clar nu sună a ChatGPT; 0 = clișee, „In today's world", structură previzibilă)
 
