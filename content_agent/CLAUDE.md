@@ -113,6 +113,9 @@ content_agent/
 │   └── README.md
 ├── tests/                  ← ✅ cazuri de evaluare (INPUT/EXPECTED)
 ├── skills/                 ← 🗄️ arhivă istorică, nu se mai folosește
+├── publish/                ← ✅ publicare directă Facebook (script + setup)
+│   ├── facebook_publish.py
+│   └── README.md
 └── outputs/                ← postările finale, salvate aici
     ├── log.md              ← ✅ evidență cross-sesiune (nu repeta categorie/format)
     ├── linkedin/
@@ -132,6 +135,9 @@ content_agent/
 5. ✅ `context/preferinte.md` — memorie de preferințe de stil, separată de
    `log.md`. Momentan goală (nicio intrare de feedback încă) — se
    completează pe măsură ce Andreea dă feedback concret despre postări.
-6. 🚧 Tools/MCP (research automat, apoi eventual publicare/calendar
-5. 🚧 Tools/MCP (research automat, apoi eventual publicare/calendar
-   editorial) — abia după ce 4 e stabil.
+6. 🚧 Tools/MCP — parțial. Research automat: ✅ deja funcțional (WebSearch,
+   folosit live la Etapa 1). Publicare: ✅ Facebook, prin `publish/
+   facebook_publish.py` (necesită setup unic de Andreea — vezi
+   `publish/README.md`). LinkedIn: 🚧 neconstruit — API-ul LinkedIn cere
+   aprobare de aplicație, mult mai greoi; rămâne manual sau prin Buffer.
+   Calendar editorial: 🚧 neconstruit, nu e nevoie încă.
