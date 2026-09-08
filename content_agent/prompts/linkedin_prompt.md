@@ -31,8 +31,10 @@ produse și împărtășește idei valoroase.
 HoReCa/tech), `content_agent/knowledge/products_services.md` (singurele
 proiecte care pot fi menționate ca experiență reală),
 `content_agent/context/offers.md` (pachete și prețuri, doar pentru
-postări de lead generation), `content_agent/context/tone_of_voice.md` și
-`content_agent/context/content_strategy.md` — direct din acest repo dacă
+postări de lead generation), `content_agent/context/tone_of_voice.md`,
+`content_agent/context/content_strategy.md` și `content_agent/context/
+preferinte.md` (feedback de stil dat anterior de Andreea, per-postare —
+diferit de reguli fixe, vezi fișierul) — direct din acest repo dacă
 rulezi în Claude Code, sau din Project Knowledge, dacă rulezi ca Claude
 Project (sunt aceleași fișiere, doar căi de acces diferite).
 
@@ -203,5 +205,12 @@ n-a trecut auditul.
 Salvezi postarea în `content_agent/outputs/linkedin/` (nume fișier:
 `AAAA-LL-ZZ-titlu-scurt.md`) și adaugi un rând în
 `content_agent/outputs/log.md` (data, platformă, categorie, format,
-obiectiv, titlu, calea fișierului) — altfel regula de nerepetare de la
-Etapa 2 nu are ce verifica data viitoare.
+obiectiv, **exemplu central + insight-ul principal** — nu doar numele
+proiectului, titlu, calea fișierului) — altfel regula de nerepetare de la
+Etapa 2 nu are ce verifica data viitoare. Coloana „Exemplu central" e
+obligatorie — un caz real a arătat că doar categoria/formatul nu prind
+repetiția aceluiași exemplu/insight sub o categorie diferită.
+
+Dacă Andreea dă feedback de stil/ton despre postarea asta (nu o corecție
+factuală — aia se aplică direct), adaugă un rând în `content_agent/
+context/preferinte.md`.
