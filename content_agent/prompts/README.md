@@ -24,6 +24,17 @@ Facebook") când ceri conținut. Cele două prompturi trăiesc în același
 repo, nu în Proiecte separate ca la Modul 2 — dacă nu specifici, Claude
 trebuie să te întrebe, nu să ghicească sau să amestece stilurile.
 
+Nu trebuie neapărat să numești fișierul explicit (`linkedin_prompt.md`) —
+Claude rutează automat pe baza cuvântului „LinkedIn"/„Facebook" din
+cerere, conform regulii din `/CLAUDE.md` (rădăcina repo-ului). Poți numi
+fișierul oricum, ca siguranță suplimentară.
+
+Reguli complete de rutare — ce se întâmplă dacă ceri ambele platforme
+deodată, sau o platformă fără prompt dedicat (Instagram, TikTok etc.),
+sau dacă un skill generic din setul tău personal ar putea prelua cererea
+din greșeală — sunt în `/CLAUDE.md` la rădăcina repo-ului, nu se
+duplică aici.
+
 ## Modul 2 — Claude Project pe claude.ai (opțional, dacă vrei acces fără Claude Code)
 
 Utilă doar dacă vrei să generezi conținut și dintr-un loc fără Claude Code

@@ -1,11 +1,6 @@
-# Skill: content_audit
+# Skill: content_audit (ARHIVAT)
 
-**Status:** 🚧 Nu e încă construit.
-
-Se construiește ultimul dintre skill-urile de conținut. Va verifica orice
-postare finală (LinkedIn sau Facebook) pe 7 criterii PASS/FAIL: brand
-voice, corectitudine factuală, relevanță audiență, hook, CTA, fit de
-platformă, limbaj generic de AI — și va rescrie automat ce pică, folosind
-`knowledge/examples/bad_posts.md` ca listă de anti-patterns.
-
-Vezi roadmap-ul complet în `../../CLAUDE.md`.
+> **Superseded.** Logica de aici a migrat în `content_agent/prompts/
+> linkedin_prompt.md` și `facebook_prompt.md`, Etapa 5 — Auditor (rubrică
+> scorată: FACTUAL_ACCURACY gate + 6 criterii 0-5, prag ≥25/30, buclă de
+> revizie max 2 încercări). Nu se mai construiește sau folosește separat.

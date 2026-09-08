@@ -1,11 +1,8 @@
-# Skill: content_repurpose
+# Skill: content_repurpose (NECONSTRUIT — scop viitor, nu superseded)
 
-**Status:** 🚧 Nu e încă construit.
-
-Se construiește după `linkedin_post` și `facebook_post`. Va prelua un
-conținut existent (articol, proiect finalizat, postare veche) și va genera:
-postare LinkedIn, postare Facebook, variantă scurtă Facebook, 5 hook-uri,
-3 CTA-uri — reutilizând `skills/linkedin_post` și `skills/facebook_post`
-ca bază.
-
-Vezi roadmap-ul complet în `../../CLAUDE.md`.
+> Diferit de celelalte 4 fișiere din `skills/`: **acesta nu a migrat în
+> `prompts/`** — a fost exclus deliberat din scopul curent (confirmat de
+> Andreea: doar LinkedIn+Facebook deocamdată, fără Instagram/Reels/
+> repurposing cross-platform). Dacă și când devine relevant, se
+> construiește fie ca a treia secțiune în `prompts/`, fie ca sistem
+> separat — de decis atunci, nu acum.
