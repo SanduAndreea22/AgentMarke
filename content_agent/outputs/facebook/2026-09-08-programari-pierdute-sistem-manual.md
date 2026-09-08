@@ -6,6 +6,8 @@
 > Obiectiv: relatable/educațional (nu lead gen)
 > Unghi: problem → solution, general (nu doar HoReCa)
 > Referință portofoliu: Bookora
+> Revizuit 2026-09-08: eliminată 1 construcție de contrast ("Nu X, E Y")
+> — regulă nouă în `context/tone_of_voice.md`, confirmată de Andreea.
 
 ## Titlu (etichetă internă)
 
@@ -17,7 +19,7 @@ Cel mai mare cost al unei programări ratate nu e programarea în sine. E client
 
 Aproape orice afacere care lucrează cu programări trece prin aceeași fază: telefon, WhatsApp, un caiet sau un Excel completat manual. Merge cât ai puțini clienți. Apoi cineva uită să noteze o oră, un mesaj rămâne necitit o zi întreagă, și programarea aia dispare fără să observi.
 
-Nu e vina ta că se întâmplă. Nimeni nu poate ține în cap, în același timp, fiecare mesaj primit, fiecare programare confirmată și fiecare client care așteaptă un răspuns. Problema nu e cât de organizat ești — e că sistemul depinde de memoria unui singur om, în fiecare moment din zi.
+Nu e vina ta că se întâmplă. Nimeni nu poate ține în cap, în același timp, fiecare mesaj primit, fiecare programare confirmată și fiecare client care așteaptă un răspuns. Problema e că sistemul depinde de memoria unui singur om, în fiecare moment din zi.
 
 Construind Bookora am văzut clar diferența: nu contează cât de ocupat ești, contează dacă programarea ajunge într-un singur loc, vizibil, cu confirmare automată. Restul e administrare manuală deghizată în „organizare".
 

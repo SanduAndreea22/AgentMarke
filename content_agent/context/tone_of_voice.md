@@ -37,7 +37,53 @@ pentru conținut de tip problem → solution:
 - CTA explicit la final, niciodată subînțeles.
 - Focus pe rezultat de business, tehnologia apare ca dovadă de
   credibilitate, nu ca subiect principal.
-- Fără emoji excesive — dacă apar, cu măsură, nu ca înlocuitor de conținut.
+- Emoji: pe Facebook, ok cu măsură — marchează o idee sau o cifră, nu
+  decorează fiecare linie. Pe LinkedIn, deloc — registru sobru
+  profesional.
+
+## Ce nu există niciodată în text (obligatoriu, verificat la audit)
+
+> Sursă: confirmat direct de Andreea, din experiența cu sistemul anterior
+> de generare de conținut — motivul dat explicit: tiparul de mai jos
+> (contrast + săgeți + întrebare finală) e exact semnătura pe care
+> clasificatoarele de „conținut AI" ale Facebook/LinkedIn o prind, oricât
+> de multă voce reală conține restul textului.
+
+- **Construcții de contrast** de tipul „Nu e X, e Y", „Nu doar X, ci și
+  Y", „Nu X, ci Y" — se scrie afirmativ, direct. (Greșit: „Nu e vorba de
+  preț, ci de valoare." Corect: „Valoarea contează mai mult decât
+  prețul.") Dacă la finalul unui text apar 2+ astfel de construcții,
+  rescrii cel puțin jumătate din ele direct, nu le lași să se acumuleze.
+- **Săgeți (→) ca marcator de listă implicit** — dacă apare o listă,
+  variezi formatul (liniuță, cifre, sau integrată în text).
+- **Tranziții clișeice**: „Și aici intervine...", „Aici apare adevărata
+  provocare", „Rezultatul?", „Concluzia e simplă:", „La final de
+  cont/zi...".
+- **Întrebări retorice generice de final**: „Tu ce aștepți?", „Ce alegi:
+  X sau Y?" — o întrebare de final trebuie să fie specifică situației
+  descrise, nu un format reciclat.
+- **Metafore abstracte/clișeice** („o călătorie", „un pilon", „o
+  fundație solidă") sau **metafore tehnice forțate pe emoții/viață**
+  („bug", „algoritm", „script" aplicate vieții personale).
+- **Amplificatori goi** care nu adaugă informație: „cu adevărat",
+  „practic", „esențial", „fundamental" — doar dacă chiar schimbă sensul
+  frazei.
+- **Structură vizibilă de „Problemă → Agitare → Soluție"** cu tranziții
+  explicite între ele — lași ideile să curgă natural, fără etichete.
+- **Generalizări abstracte** în locul unor detalii concrete și specifice
+  (nume, cifre, situații reale).
+- Nu încheia cu întrebare de fiecare dată — dacă ultimele 1-2 postări de
+  pe aceeași platformă (vezi `outputs/log.md`) s-au încheiat deja cu
+  întrebare, variază: o afirmație tăioasă, un îndemn direct, o concluzie
+  fără semn de întrebare.
+
+## Cuvinte/expresii de reciclat natural (nu ca formulă fixă)
+
+Nu în fiecare text, nu identic de la un material la altul — variază-le:
+„Problema reală este alta.", „Clientul nu cumpără funcționalități.",
+„Înainte să scriu cod, încerc să înțeleg procesul.", „Construiesc produse,
+nu doar aplicații.", „Tehnologia este un mijloc, nu scopul.", „Un produs
+bun elimină muncă, nu adaugă."
 
 ## Diferența LinkedIn vs Facebook
 

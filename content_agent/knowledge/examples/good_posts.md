@@ -70,6 +70,46 @@ simplifici la maximum și plecarea.
 
 ---
 
+## [REAL] Cea mai scumpă linie de cod
+
+> Sursă: text aprobat de Andreea din sistemul anterior de generare de
+> conținut (`sample-texts.md`, Eșantionul 2). Format: opinie + lecție
+> practică, LinkedIn/RO, fără emoji, cu hashtag-uri.
+
+Cea mai scumpă linie de cod nu este cea care durează cel mai mult să fie scrisă. Este cea scrisă înainte să înțelegi cum funcționează afacerea în ziua ei cea mai aglomerată.
+
+Discuțiile despre software încep aproape întotdeauna cu o listă de funcționalități: rezervări online, notificări automate, panou de administrare, rapoarte. Lista pare un semn de claritate, însă în realitate descrie deja o soluție, fără să răspundă la întrebarea cea mai importantă: care este problema pe care încercăm să o rezolvăm?
+
+Acolo apar cele mai costisitoare decizii. Nu în alegerea tehnologiei și nici în bugetul inițial, ci în presupunerea că știm deja de ce are nevoie afacerea. Dacă pleci de la presupuneri, riști să construiești funcționalități pe care echipa nu le va folosi, în timp ce adevăratele blocaje rămân nerezolvate.
+
+Când dezvolt aplicații pentru restaurante și afaceri bazate pe programări, primele discuții nu sunt despre tehnologie. Sunt despre oameni și procese. Cine răspunde la telefon când recepția este aglomerată? Ce se întâmplă când un client nu se prezintă? Unde se pierd rezervări? Ce activități consumă cel mai mult timp în fiecare zi?
+
+Răspunsurile schimbă complet direcția proiectului. De multe ori renunțăm la funcționalități care păreau esențiale la început, pentru că nu rezolvau nicio problemă reală. În schimb, investim în acele câteva lucruri care reduc timpul pierdut, elimină erorile și fac munca echipei mai ușoară.
+
+Un software bun nu este cel cu cele mai multe funcționalități. Este cel pe care oamenii îl folosesc în fiecare zi, fără să simtă nevoia să revină la caiet, la WhatsApp sau la Excel. Asta se întâmplă doar atunci când soluția este construită în jurul modului în care funcționează afacerea, nu invers.
+
+Cele mai bune proiecte au început cu întrebări, nu cu specificații tehnice. Înțelegerea procesului durează câteva ore. Reconstruirea unui produs care a fost gândit greșit poate dura luni.
+
+Voi de unde ați începe: de la lista de funcționalități sau de la proces?
+
+#DezvoltareSoftware #ProduseDigitale #Digitalizare #Antreprenoriat #Django
+
+### De ce e un exemplu bun
+
+- Hook contraintuitiv de la prima propoziție, fără introducere.
+- O singură idee centrală (înțelegerea procesului înainte de cod), nu o
+  listă de argumente disparate.
+- Exemplul (restaurante/programări) susține ideea fără s-o domine.
+- Se închide cu o întrebare specifică, nu generică.
+
+**Notă:** textul conține de două ori construcția „Nu X, ci Y" în paragraful
+3 („Nu în alegerea tehnologiei și nici în bugetul inițial, ci în
+presupunerea...") — regulă interzisă acum explicit în
+`context/tone_of_voice.md`. Textul rămâne valid ca referință de ton/idee
+centrală/hook, dar nu se copiază structura de contrast de-acolo.
+
+---
+
 ## Template-uri ilustrative
 
 > Structuri generice, nu postări reale — folosite doar pentru calibrare de

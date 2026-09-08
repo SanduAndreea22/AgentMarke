@@ -8,6 +8,8 @@
 > subiect principal — în cota de ~10%)
 > Format: lecție de business
 > Surse: [How Duolingo is doing after its AI-first backlash](https://ghfalcon.com/21674/showcase/how-duolingo-is-doing-after-its-ai-first-backlash-and-what-it-tells-us/), [Duolingo CEO Reverses AI-First Memo in 2026](https://www.metaintro.com/blog/duolingo-ceo-walks-back-ai-first-memo-hiring-grows-2026), [Duolingo AI Backlash: What Happened](https://www.banthebots.org/explainers/duolingo-ai-backlash)
+> Revizuit 2026-09-08: eliminată 1 construcție de contrast ("Nu X, E Y")
+> — regulă nouă în `context/tone_of_voice.md`, confirmată de Andreea.
 
 ## Titlu (etichetă internă)
 
@@ -21,7 +23,7 @@ Reacția publică a fost rapidă — oameni care și-au șters conturile, o scă
 
 Diferența e simplă, dar rar înțeleasă: o direcție strategică și un mandat individual măsurat ca cifră nu sunt același lucru. Prima creează context. Al doilea creează teatru — oameni care bifează o cerință ca să arate bine la evaluare, nu pentru că instrumentul chiar le e util.
 
-Mecanismul e simplu de explicat, chiar dacă rar numit corect: în momentul în care măsori folosirea unui instrument ca pe o cifră de raportat, oamenii optimizează pentru cifră, nu pentru rezultat. Deschid aplicația, bifează căsuța, și se întorc la ce funcționa deja pentru ei. Nu e lene, e o reacție logică la o regulă care confundă activitatea cu valoarea.
+Mecanismul e simplu de explicat, chiar dacă rar numit corect: în momentul în care măsori folosirea unui instrument ca pe o cifră de raportat, oamenii optimizează pentru cifră, nu pentru rezultat. Deschid aplicația, bifează căsuța, și se întorc la ce funcționa deja pentru ei. E o reacție logică la o regulă care confundă activitatea cu valoarea.
 
 Am văzut varianta bună a poveștii ăsteia de aproape: SM Writer, agentul pe care l-am construit ca să-mi scrie zilnic materialul de LinkedIn, nu funcționează pentru că mi-am impus să-l folosesc. Funcționează pentru că, în ziua în care nu mai am timp să scriu, el chiar rezolvă o problemă reală — nu pentru că bifez o cerință de utilizare AI.
 

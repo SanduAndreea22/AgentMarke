@@ -36,10 +36,43 @@
 - Bun pentru unghiuri despre: servicii juridice, digitalizare pentru
   domenii care nu se gândesc automat la „sistem" (nu doar HoReCa/beauty).
 
+### Django E-Commerce
+
+- Marketplace online: checkout securizat, gestiune avansată de inventar.
+- Live.
+- Bun pentru unghiuri despre: retail/e-commerce, plăți online, gestiune
+  de stoc — dincolo de zona strict de programări/rezervări.
+
 Notă: pagina de Portofoliu spune explicit că proiectele afișate sunt din
 zona rezervări/programări, dar principiile (flux clar, automatizat, care
 ține pasul cu afacerea) „se aplică la orice proces repetitiv, indiferent
 de domeniu" — util pentru unghiuri de conținut către alte industrii.
+
+## Detaliu tehnic real — Bookora
+
+De folosit ca dovadă concretă de expertiză tehnică (nu doar afirmație
+generică „am construit un sistem de rezervări"), cu grijă să rămână
+explicat pe înțelesul cuiva non-tehnic dacă apare într-o postare (vezi
+`audience.md`): problema rezolvată e suprapunerea de programări (double
+booking) — soluția blochează rândul din baza de date în timpul creării
+unei rezervări (Django Transaction API, `select_for_update`), iar
+sloturile disponibile se calculează în incremente de 30 de minute,
+filtrând rezervările deja confirmate și indisponibilitatea furnizorului.
+
+## Proiect principal, nelansat — Clarito
+
+- **Ce face:** planner digital care unifică gestionarea emoțiilor și a
+  bugetului personal — combină organizarea personală, reflecția
+  emoțională și gestionarea financiară într-o singură experiență.
+- **Relație cu Emotional Planner/MyBudget:** e evoluția/unificarea celor
+  două produse de mai sus într-un singur produs — Emotional Planner și
+  MyBudget sunt acum precursori/parte din el, nu proiecte fără legătură.
+- **Status: în dezvoltare, nelansat încă** — se menționează explicit ca
+  „în construcție"/„urmează", niciodată ca disponibil de testat acum.
+- **Cum se folosește în conținut:** e proiectul principal al Andreei,
+  direcția pe termen lung alături de brandul personal — poate fi folosit
+  ca fir roșu recurent (nu în fiecare postare), nu doar ca exemplu
+  punctual.
 
 ## Produse proprii — pagina „Produse" (Early Access, gratuite)
 
@@ -74,10 +107,12 @@ nu doar context intern. „Nu e un concept, e ceva ce rulează acum."
 ## Reguli de nume — obligatoriu
 
 Numele de conținut (nu cele de site, unde diferă) pentru portofoliu:
-**Al Noir, Bookora, Platform Tickets, Cassian & Voicu, MyBudget, Emotional
-Planner, SM Writer.** Astea sunt singurele proiecte proprii care pot fi
-menționate ca experiență reală — „nu există (încă) clienți, utilizatori
-externi sau studii de caz proprii care pot fi citate ca atare".
+**Al Noir, Bookora, Platform Tickets, Cassian & Voicu, Django E-Commerce,
+MyBudget, Emotional Planner, Clarito, SM Writer.** Astea sunt singurele
+proiecte proprii care pot fi menționate ca experiență reală — „nu există
+(încă) clienți, utilizatori externi sau studii de caz proprii care pot fi
+citate ca atare". Clarito e singurul dintre ele nelansat — se menționează
+mereu ca atare, niciodată ca disponibil acum.
 
 ## Reguli de utilizare în conținut
 

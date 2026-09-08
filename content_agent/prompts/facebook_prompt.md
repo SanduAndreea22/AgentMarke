@@ -90,13 +90,21 @@ Scrie postarea completă pentru Facebook, în limba română:
    - **Autoritate/educațional/relatable** (default) → întrebare simplă,
      directă, care invită la un comentariu real (nu „ce părere aveți?"
      generic).
-   - **Lead generation** → CTA concret spre unul dintre pachetele/
-     acțiunile din `offers.md`, formulat conversațional, nu ca reclamă.
+   - **Lead generation** → CTA spre discuție directă (DM sau comentarii),
+     niciodată spre un link extern — confirmat explicit de Andreea, care
+     evită CTA-urile cu link/email pe Facebook. Variază formularea de la
+     o postare la alta („scrie-mi în DM", „las-o mai jos la comentarii",
+     „trimite-mi un mesaj"...) — nu repeta aceeași frază de fiecare dată.
+     Dacă cineva chiar are nevoie de detalii de pachete/preț, acelea vin
+     în conversația din DM, nu în postare.
 
 **Format:** ton conversațional, matur, niciodată ca un AI. Propoziții
 scurte, active, grupate în paragrafe scurte care curg (2-4 propoziții) —
 nu fragmentare artificială linie cu linie. Fără englezisme nejustificate,
-fără emoji în corpul textului, fără liste decât dacă chiar ajută.
+fără liste decât dacă chiar ajută. Emoji ok, cu măsură — marchează o idee
+sau o cifră, nu decorează fiecare linie; niciodată în exces. Vezi și
+`context/tone_of_voice.md` pentru lista completă de tipare interzise
+(construcții de contrast, săgeți ca marcator, tranziții clișeice etc.).
 
 Lungime: 150-300 de cuvinte — mai scurtă decât varianta LinkedIn a
 aceleiași idei, dar cu loc suficient pentru un exemplu dezvoltat, nu doar

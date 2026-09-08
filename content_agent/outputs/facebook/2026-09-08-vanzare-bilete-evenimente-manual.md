@@ -4,6 +4,8 @@
 > Obiectiv: relatable/educațional (nu lead gen)
 > Unghi: before → after, general (nu doar evenimente mari)
 > Referință portofoliu: Platform Tickets
+> Revizuit 2026-09-08: eliminate 2 construcții de contrast ("Nu X, E Y")
+> — regulă nouă în `context/tone_of_voice.md`, confirmată de Andreea.
 
 ## Titlu (etichetă internă)
 
@@ -15,7 +17,7 @@ Cel mai stresant moment la un eveniment nu e ziua evenimentului. E seara dinaint
 
 Aproape orice organizator local trece prin faza asta: bilete vândute prin mesaje pe Instagram sau WhatsApp, plata prin transfer sau cash la intrare, un tabel cu nume bifate de mână. Merge cât ai douăzeci de oameni. La o sută, cineva plătește de două ori fără să știe, altcineva ajunge la ușă și „a plătit, dar nu apare nicăieri".
 
-Construind Platform Tickets am văzut clar unde se rupe treaba: nu la vânzare, ci la verificare. Când biletul e cumpărat online și vine automat cu un cod QR și un PDF, la intrare nu mai ghicește nimeni — se scanează, apare instant, gata.
+Construind Platform Tickets am văzut clar unde se rupe treaba: la verificare, mult mai des decât la vânzare. Când biletul e cumpărat online și vine automat cu un cod QR și un PDF, la intrare nu mai ghicește nimeni — se scanează, apare instant, gata.
 
 Nu contează dacă vinzi bilete la un concert, locuri la un curs sau intrări la un eveniment privat. Diferența dintre „cred că a plătit" și „știu sigur" e diferența dintre o seară de nervi și una în care te ocupi de eveniment, nu de contabilitate pe hârtie.
 
@@ -33,7 +35,7 @@ Split-screen: stânga — un caiet cu nume bifate de mână și o grămadă de c
 
 Tip: întrebare de engagement (nu CTA de link) — obiectiv relatable/educațional.
 
-**Comentariu plantat (de adăugat imediat după postare):** Cea mai scumpă oră dintr-un eveniment nu e cea petrecută vânzând bilete. E cea petrecută la intrare, dezbătând cu cineva dacă a plătit sau nu.
+**Comentariu plantat (de adăugat imediat după postare):** Cea mai scumpă oră dintr-un eveniment e cea petrecută la intrare, dezbătând cu cineva dacă a plătit sau nu.
 
 ## Audit (Etapa 5)
 

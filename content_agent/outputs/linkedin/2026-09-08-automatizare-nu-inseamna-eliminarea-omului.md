@@ -10,6 +10,8 @@
 > Categorie temă: Automatizare
 > Format: opinie/mit contrazis
 > Referință portofoliu / exemplu central: Bookora
+> Revizuit 2026-09-08: eliminate 3 construcții de contrast ("Nu X, E Y")
+> — regulă nouă în `context/tone_of_voice.md`, confirmată de Andreea.
 
 ## Titlu (etichetă internă)
 
@@ -19,7 +21,7 @@ LI — Automatizare = mai puțină muncă repetitivă, nu mai puțin om
 
 Majoritatea oamenilor cred că o automatizare bună înseamnă să scoți omul din proces. Cu cât rămâne mai puțin de făcut manual, cu atât automatizarea e „mai reușită".
 
-E exact invers. O automatizare bună nu elimină omul, îi mută timpul acolo unde chiar contează judecata lui.
+E exact invers. O automatizare bună mută timpul eliberat exact acolo unde contează judecata omului.
 
 Am văzut asta clar construind Bookora, un sistem de programări. Partea repetitivă — trimiterea confirmării către client, actualizarea calendarului, reamintirea cu o zi înainte — se întâmplă automat, fără să se gândească nimeni la ea. Partea care rămâne a omului e exact partea care nu poate fi automatizată onest: dacă o cerere neobișnuită merită o excepție, cum se răspunde când un client are o întrebare în afara fluxului standard, ce înseamnă de fapt „disponibil" într-o zi aglomerată.
 
@@ -27,9 +29,9 @@ Timpul eliberat de partea repetitivă nu dispare, se mută. Înainte, ora aia se
 
 Aceeași logică se aplică la orice automatizare construită pentru un business real, dincolo de programări — facturare, confirmări de plată, mesaje către clienți. Nu elimini relația cu clientul sau decizia care contează, elimini partea pur mecanică din jurul ei. Judecata rămâne, și trebuie să rămână, la om.
 
-Greșeala pe care o văd des: cineva automatizează tot procesul, inclusiv partea unde ar trebui să intervină un om, doar ca să poată spune că „nu mai face nimic manual acolo". Rezultatul nu e eficiență, e o experiență impersonală — clientul simte diferența, chiar dacă nu o poate numi exact.
+Greșeala pe care o văd des: cineva automatizează tot procesul, inclusiv partea unde ar trebui să intervină un om, doar ca să poată spune că „nu mai face nimic manual acolo". Rezultatul e o experiență impersonală — clientul simte diferența, chiar dacă nu o poate numi exact.
 
-Înainte să automatizezi ceva, întrebarea corectă nu e „ce pot elimina complet", ci „ce parte e pură repetiție și ce parte are nevoie de o decizie a unui om, la momentul potrivit".
+Înainte să automatizezi ceva, întrebarea corectă e ce parte e pură repetiție și ce parte are nevoie de o decizie a unui om, la momentul potrivit.
 
 Voi, în procesele voastre, ce ați automatizat complet și, la o privire mai atentă, chiar avea nevoie de un om undeva pe drum?
 

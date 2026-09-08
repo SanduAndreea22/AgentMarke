@@ -6,6 +6,8 @@
 > Obiectiv: relatable/educațional (nu lead gen)
 > Unghi: problem → solution, general (nu doar HoReCa)
 > Referință portofoliu / exemplu central: Al Noir
+> Revizuit 2026-09-08: eliminate 2 construcții de contrast ("Nu X, E Y")
+> — regulă nouă în `context/tone_of_voice.md`, confirmată de Andreea.
 
 ## Titlu (etichetă internă)
 
@@ -19,9 +21,9 @@ Ai stocul într-un caiet, programările în WhatsApp, plățile în extrasul de 
 
 Problema nu e că informația nu există — există, împrăștiată în trei-patru locuri diferite. Problema e că nimeni nu are timp să adune manual, în fiecare zi, ce spune caietul, ce spune WhatsApp-ul și ce spune extrasul de cont. Așa că afli abia la sfârșitul lunii, când e prea târziu să mai schimbi ceva pentru luna aia.
 
-La Al Noir am construit exact contrariul: un dashboard unde stocul, rezervările și plățile prin Stripe se văd într-un singur loc, în timp real. Nu mai ghicești, vezi.
+La Al Noir am construit exact contrariul: un dashboard unde stocul, rezervările și plățile prin Stripe se văd într-un singur loc, în timp real — clar, fără ghicit.
 
-Diferența nu e că informația devine mai exactă — era la fel de exactă și înainte, doar împrăștiată. Diferența e că o vezi suficient de devreme cât să mai poți face ceva cu ea: o săptămână slabă se vede din a treia zi, nu din extrasul de la finalul lunii.
+Informația era la fel de exactă și înainte, doar împrăștiată. Diferența reală e că o vezi suficient de devreme cât să mai poți face ceva cu ea: o săptămână slabă se vede din a treia zi, nu abia din extrasul de la finalul lunii.
 
 Nu contează dacă ai restaurant, salon sau orice business cu flux zilnic de clienți și bani. Fără o privire de ansamblu, conduci pe întuneric, chiar dacă afacerea merge.
 
