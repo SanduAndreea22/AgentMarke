@@ -19,6 +19,20 @@ lead gen cu educațional în aceeași postare.
 
 ## Unghiuri de conținut preferate
 
+> **Notă de sincronizare:** sistemul autoritativ de varietate/rotație
+> (ca să nu se repete tema sau formatul) e cel din `prompts/
+> linkedin_prompt.md` Etapa 2 — 14 categorii de temă (Product Development,
+> Antreprenoriat, Marketing, Copywriting, Customer Experience, UX, UI,
+> SaaS, Automatizare, Django, Dezvoltare software explicată pentru
+> business, Digitalizare, Beauty Tech, Restaurante/servicii bazate pe
+> programări) și 11 formate (postare, articol, analiză, opinie,
+> comparație, studiu de caz, lecție de business, greșeală frecventă, mit,
+> tendință, observație comportament), cu AI ≤10% din materiale și fără
+> repetare consecutivă de categorie/format. Lista de mai jos e o
+> categorisire mai simplă, complementară — **nu o taxonomie separată** —
+> utilă mai ales pentru Facebook (care nu urmează rotația strictă de 14
+> categorii, vezi `facebook_prompt.md`).
+
 - **Problem → solution**: o problemă concretă de business → cum arată
   rezolvată (ancorat în portofoliu real).
 - **Mistake → lesson**: o greșeală comună (a clienților sau tehnică) →
