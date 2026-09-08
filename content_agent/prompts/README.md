@@ -19,6 +19,11 @@ rulează pipeline-ul pe loc (poți cere și o singură etapă — „doar
 research", „acum scrie postarea"). Nu ai nevoie de cont separat, de
 upload de fișiere sau de Claude Projects.
 
+**Important:** spui mereu explicit platforma („pentru LinkedIn" / „pentru
+Facebook") când ceri conținut. Cele două prompturi trăiesc în același
+repo, nu în Proiecte separate ca la Modul 2 — dacă nu specifici, Claude
+trebuie să te întrebe, nu să ghicească sau să amestece stilurile.
+
 ## Modul 2 — Claude Project pe claude.ai (opțional, dacă vrei acces fără Claude Code)
 
 Utilă doar dacă vrei să generezi conținut și dintr-un loc fără Claude Code
