@@ -129,8 +129,11 @@ textului, fără liste decât dacă sunt absolut necesare. Fără cuvinte
 englezești băgate în text românesc (ex: „no-show", „follow-up", „feedback
 loop"), doar dacă nu există deloc alt fel de-al spune în română.
 
-Lungime: 200-350 de cuvinte dacă e postare; dacă alegi formatul articol,
-dezvoltă subiectul în profunzime, cu subtitluri.
+Lungime: 350-550 de cuvinte dacă e postare; dacă alegi formatul articol,
+dezvoltă subiectul în profunzime, cu subtitluri. Nu umple spațiul cu
+propoziții de umplutură doar ca să ajungi la minim — dezvoltă argumentul,
+adaugă un al doilea exemplu sau nuanțează lecția, nu repeta aceeași idee
+cu alte cuvinte.
 
 **Livrează:** Titlu (etichetă internă) + Postare (corpul complet) + 5-8
 hashtag-uri + o idee pentru imagine (concept concret, nu generic) +

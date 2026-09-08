@@ -82,9 +82,10 @@ scurte, active, grupate în paragrafe scurte care curg (2-4 propoziții) —
 nu fragmentare artificială linie cu linie. Fără englezisme nejustificate,
 fără emoji în corpul textului, fără liste decât dacă chiar ajută.
 
-Lungime: 80-180 de cuvinte — mult mai scurtă decât varianta LinkedIn a
-aceleiași idei. Nu copia niciodată o postare LinkedIn 1:1, chiar dacă
-pornește din același unghi.
+Lungime: 150-300 de cuvinte — mai scurtă decât varianta LinkedIn a
+aceleiași idei, dar cu loc suficient pentru un exemplu dezvoltat, nu doar
+o observație de o frază. Nu copia niciodată o postare LinkedIn 1:1, chiar
+dacă pornește din același unghi.
 
 **Livrează:** Titlu (etichetă internă) + Postare + 2-5 hashtag-uri
 (opțional — Facebook nu le răsplătește ca LinkedIn, omite-le dacă nu
