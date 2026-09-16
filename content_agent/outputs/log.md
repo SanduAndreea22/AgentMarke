@@ -28,6 +28,7 @@
 | 2026-09-08 | LinkedIn | Automatizare | opinie/mit contrazis | autoritate/educațional | Bookora — insight „timp realocat spre judecată" | LI — Automatizare = mai puțină muncă repetitivă, nu mai puțin om | `outputs/linkedin/2026-09-08-automatizare-nu-inseamna-eliminarea-omului.md` |
 | 2026-09-08 | LinkedIn | UX | greșeală frecventă | autoritate/educațional | Cassian & Voicu + Linear (referință externă, filosofie de produs, fără cifre) — insight „mai puține decizii cerute = UX mai bun, nu mai frumos" | Cea mai frecventă greșeală de UX pe care o văd la fondatori | `outputs/linkedin/2026-09-08-greseala-ux-cassian-voicu.md` |
 | 2026-09-08 | Facebook | — (fără rotație strictă) | before→after | relatable/educațional | Platform Tickets — insight „verificare instant cu QR, nu ghicit la intrare" | FB — Seara dinainte de eveniment, verificat manual cine a plătit | `outputs/facebook/2026-09-08-vanzare-bilete-evenimente-manual.md` |
+| 2026-09-16 | LinkedIn | Marketing | observație comportament | autoritate/educațional | Django E-Commerce — insight „ultimul pas de checkout pierde vânzarea din lipsă de încredere, nu din preț" | De ce se abandonează coșul chiar înainte de plată | `outputs/linkedin/2026-09-16-abandon-cos-ecommerce.md` |
 
 ## Cum adaugi un rând nou
 
