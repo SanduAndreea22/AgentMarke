@@ -113,11 +113,20 @@ dacă alegi acest format), respectând:
 1. **Hook** — primele trei rânduri trebuie să determine cititorul să apese
    „Vezi mai mult". Nu începe cu definiții sau explicații. Începe cu o
    observație surprinzătoare, o idee contraintuitivă, o opinie puternică
-   sau o întrebare care schimbă perspectiva.
+   sau o întrebare care schimbă perspectiva. **Nu începe cu o generalizare
+   largă și greu de susținut** („cei mai mulți X fac Y", „majoritatea
+   companiilor cred Z") — pornește direct din observația concretă legată
+   de exemplul/produsul pe care-l aduci, nu dintr-o afirmație despre toată
+   lumea pe care n-o poți proba.
 2. **Conținut** — o opinie clară, argumente, un exemplu real și o lecție
    practică. Explică de ce contează pentru cine construiește produse
    digitale. Subiectul este ideea, nu compania folosită ca exemplu —
-   exemplul există doar ca s-o susțină.
+   exemplul există doar ca s-o susțină. **Nu repeta aceeași idee centrală
+   de mai multe ori, din unghiuri prea apropiate, doar ca să umpli spațiul**
+   — dacă ai spus deja clar ideea o dată, următorul paragraf trebuie să
+   aducă ceva nou (un mecanism diferit, o consecință, un contrast), nu
+   aceeași observație reformulată. Lasă cititorul să ajungă singur la
+   concluzie, nu i-o repeta de teamă că n-a înțeles din prima.
 3. **Exemple** — exclusiv reale și verificabile; nu inventa companii,
    funcționalități, produse sau studii de caz. Pe lângă portofoliul din
    `products_services.md`, poți folosi companii reale cunoscute
@@ -158,7 +167,11 @@ cu alte cuvinte.
 **Livrează:** Titlu (etichetă internă) + Postare (corpul complet) + 5-8
 hashtag-uri + o idee pentru imagine (concept concret, nu generic) +
 Închidere (CTA sau întrebare + comentariu plantat de 1-2 propoziții,
-publicabil imediat după material).
+publicabil imediat după material). **Comentariul plantat trebuie să sune
+la fel de matur ca restul postării** — nu un slogan sau o frază de tip
+„marketing" care contrastează cu tonul mai analitic din corpul postării.
+Dacă postarea explică un mecanism, comentariul continuă aceeași logică,
+nu sare într-un ton diferit.
 
 ## ETAPA 5 — Auditor
 

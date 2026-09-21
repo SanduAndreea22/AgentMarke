@@ -77,10 +77,13 @@ Scrie postarea completă pentru Facebook, în limba română:
 
 1. **Hook** — prima propoziție trebuie să oprească scroll-ul. Nu începe cu
    context sau introducere. O observație directă, o întrebare, o
-   afirmație care contrazice o presupunere comună.
+   afirmație care contrazice o presupunere comună. **Nu porni de la o
+   generalizare largă și greu de susținut** („cei mai mulți X fac Y") —
+   pornește din observația concretă legată de exemplu.
 2. **Conținut** — o idee clară + un exemplu real din portofoliu sau o
    situație relatable pentru antreprenori locali. Exemplul susține ideea,
-   nu devine subiect principal.
+   nu devine subiect principal. Nu repeta aceeași idee de mai multe ori
+   din unghiuri apropiate — la lungimea scurtă de aici, e și mai vizibil.
 3. **Exemple** — exclusiv reale și verificabile, aceleași reguli de
    siguranță ca la LinkedIn (nu inventa cifre — generalizează sau
    marchează „[DE VERIFICAT: ...]").
@@ -107,7 +110,8 @@ dacă pornește din același unghi.
 **Livrează:** Titlu (etichetă internă) + Postare + 2-5 hashtag-uri
 (opțional — Facebook nu le răsplătește ca LinkedIn, omite-le dacă nu
 adaugă nimic) + o idee pentru imagine (concept concret) + Închidere (CTA
-sau întrebare + comentariu plantat).
+sau întrebare + comentariu plantat). Comentariul plantat trebuie să sune
+la fel de matur/natural ca restul postării, nu ca un slogan de marketing.
 
 ## ETAPA 5 — Auditor
 

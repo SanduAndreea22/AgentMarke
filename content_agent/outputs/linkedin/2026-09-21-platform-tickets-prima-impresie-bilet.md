@@ -1,6 +1,9 @@
 # LinkedIn — Ce simte cineva în primele 10 secunde după ce cumpără un bilet
 
-> Data: 2026-09-21
+> Data: 2026-09-21 (v2 — rescrisă pe baza feedback-ului Andreei: hook mai
+> puțin larg/greu de susținut, mai puțină repetiție a aceleiași idei din
+> unghiuri apropiate, comentariu plantat mai matur, mai puțin „de
+> marketing". Vezi `content_agent/context/preferinte.md` pentru detalii.)
 > Obiectiv: autoritate/educațional
 > Categorie temă: Customer Experience
 > Format: studiu de caz
@@ -8,21 +11,23 @@
 
 ## Titlu (etichetă internă)
 
-Ce simte cineva în primele 10 secunde după ce cumpără un bilet spune tot despre eveniment
+Ce simte cineva în primele 10 secunde după ce cumpără un bilet spune mai multe decât ai crede
 
 ## Postare
 
-Cei mai mulți organizatori de evenimente investesc luni întregi în line-up, locație și promovare. Și lasă cea mai importantă primă impresie — biletul în sine — pe ultimul loc, rezolvată în grabă, cu o soluție improvizată.
+Ce simte cineva în primele 10 secunde după ce cumpără un bilet spune mai multe despre experiența evenimentului decât ai crede.
 
-Sună ciudat, dar biletul e primul contact real dintre organizator și cumpărător după ce banii au fost deja plătiți. Dacă acel moment e lent, confuz sau arată amatoristic, cumpărătorul își formează o părere despre tot evenimentul înainte să ajungă pe-acolo — chiar dacă restul organizării e impecabil.
+Cumpărătorul tocmai a plătit. În momentul ăsta, nu mai vede reclama, line-up-ul sau site-ul. Vede un singur lucru: ce primește după plată.
 
-Am văzut diferența clar construind Platform Tickets, o platformă de ticketing. Plata se procesează prin Stripe, în câteva secunde. Imediat după, cumpărătorul primește automat un bilet cu cod QR generat pe loc și un document PDF îngrijit, gata de folosit — fără să aștepte un email trimis manual, fără un atașament generic care arată ca oricare altul. La intrare, codul QR se scanează într-o secundă, fără liste pe hârtie, fără căutat nume.
+Am văzut asta clar construind Platform Tickets, o platformă de ticketing. Plata se procesează prin Stripe, în câteva secunde. Imediat după, cumpărătorul primește automat un bilet cu cod QR generat pe loc și un document PDF îngrijit, gata de folosit — fără să aștepte un email trimis manual, fără un atașament generic care arată ca oricare altul.
 
-Diferența nu se vede în momentul plății. Se vede la intrare, când cineva stă la coadă cu telefonul în mână și fie e verificat instant, fie așteaptă câteva minute bune cât cineva îi caută numele pe o listă imprimată. Prima impresie despre profesionalismul evenimentului se formează chiar acolo, nu pe scenă.
+Diferența nu se vede în momentul plății. Se vede la intrare, când cineva stă la coadă cu telefonul în mână și fie e verificat instant, fie așteaptă câteva minute bune cât cineva îi caută numele pe o listă imprimată.
 
-Aceeași logică se aplică dincolo de evenimente, la orice moment în care un client primește confirmarea că a plătit ceva — o comandă, o programare, un abonament. Confirmarea aia nu e un detaliu administrativ. E prima dovadă concretă că a făcut alegerea corectă, alegând să lucreze cu tine.
+Explicația nu ține de tehnologie, ține de starea în care e cumpărătorul chiar după ce apasă „plătește". E momentul în care apare cea mai mare urmă de îndoială — „am făcut bine că am cumpărat de-aici?" — pentru că nu are încă nimic concret în mână care să-i confirme alegerea. Orice întârziere sau confuzie în secundele alea hrănește exact îndoiala aia, indiferent cât de bun e evenimentul în sine.
 
-Greșeala frecventă: se investește enorm în ce vede clientul înainte să cumpere — site, reclame, oferte — și aproape nimic în ce primește imediat după ce a cumpărat deja. E exact momentul în care încrederea lui fie se confirmă, fie începe să scadă.
+Aceeași logică se aplică la orice moment în care un client primește confirmarea că a plătit ceva — o comandă cu factura corect completată, o programare confirmată cu ora exactă, un abonament activat instant, nu „în 24-48 de ore". Nu e un detaliu administrativ, e prima dovadă concretă că a ales bine — iar dacă dovada aia întârzie, îndoiala de mai devreme are timp să crească.
+
+Diferența de efort pentru organizator, ca să ajungă acolo, e mică — un flux automat configurat o singură dată. Diferența de percepție pentru cumpărător e uriașă: arată fie ca un business care știe exact ce face, fie ca unul care încă improvizează pe ultima sută de metri.
 
 Voi, ultima dată când ați cumpărat ceva online, cum a fost momentul confirmării — v-a dat încredere, sau v-a lăsat cu o senzație vagă că poate n-a mers?
 
@@ -38,7 +43,7 @@ Split-screen — stânga: o persoană la coadă, confuză, uitându-se la telefo
 
 Tip: întrebare de engagement (nu CTA de link) — obiectiv autoritate/educațional.
 
-**Comentariu plantat (de adăugat imediat după postare):** Cel mai ieftin mod de a păstra un client: nu-l lăsa să se întrebe, nici măcar un minut, dacă plata lui chiar a mers.
+**Comentariu plantat (de adăugat imediat după postare):** Confirmarea plății pare un detaliu mic. Până când clientul nu o primește și începe să se întrebe dacă plata chiar a mers.
 
 ## Audit (Etapa 5)
 
@@ -46,11 +51,9 @@ Tip: întrebare de engagement (nu CTA de link) — obiectiv autoritate/educațio
 FACTUAL_ACCURACY: PASS (Platform Tickets — proiect real din products_services.md, fără cifre inventate)
 BRAND_VOICE: 5/5
 AUDIENCE_RELEVANCE: 5/5
-HOOK: 5/5
+HOOK: 5/5 (pornește din observația concretă, nu dintr-o generalizare greu de susținut)
 PLATFORM_FIT: 5/5
 CLOSING: 5/5
 AI_GENERICNESS: 5/5
 SCORE: 30/30 → APPROVE
 ```
-
-Lungime: ~410 cuvinte (în intervalul curent 350-550).

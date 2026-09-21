@@ -27,9 +27,6 @@ a spus exact, ce înseamnă pentru postările viitoare.
 
 ## Jurnal
 
-_Nicio intrare încă — se completează pe măsură ce dai feedback concret
-despre postări individuale._
-
 | Data | Postare | Feedback | Aplicare pe viitor |
 |---|---|---|---|
-| — | — | — | — |
+| 2026-09-21 | `outputs/linkedin/2026-09-21-platform-tickets-prima-impresie-bilet.md` | Postarea suna a ea, dar (1) hook-ul „Cei mai mulți organizatori..." era o generalizare largă, greu de susținut — mai bine pornit direct din observația/produsul concret; (2) ideea centrală se repeta de 4-5 ori din unghiuri apropiate — trebuie lăsat mai mult spațiu cititorului să ajungă singur la concluzie, iar lungimea adăugată să vină din idei noi, nu din reformulare; (3) comentariul plantat suna „de marketing", mai puțin matur decât restul postării. | **Promovat direct în reguli permanente** (nu doar aici) — vezi `prompts/linkedin_prompt.md` Etapa 4, punctele Hook/Conținut/Livrează, și echivalentul în `facebook_prompt.md`. Rămâne logat aici ca origine a regulii, cu exemplul concret. |
