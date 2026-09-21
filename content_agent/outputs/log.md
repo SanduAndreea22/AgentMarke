@@ -29,6 +29,7 @@
 | 2026-09-08 | LinkedIn | UX | greșeală frecventă | autoritate/educațional | Cassian & Voicu + Linear (referință externă, filosofie de produs, fără cifre) — insight „mai puține decizii cerute = UX mai bun, nu mai frumos" | Cea mai frecventă greșeală de UX pe care o văd la fondatori | `outputs/linkedin/2026-09-08-greseala-ux-cassian-voicu.md` |
 | 2026-09-21 | LinkedIn | Customer Experience | studiu de caz | autoritate/educațional | Platform Tickets — insight „confirmarea post-plată e prima dovadă de încredere + stinge îndoiala post-cumpărare" | Ce simte cineva în primele 10 secunde după ce cumpără un bilet spune mai multe decât ai crede (v2, revizuită pe feedback) | `outputs/linkedin/2026-09-21-platform-tickets-prima-impresie-bilet.md` |
 | 2026-09-21 | Facebook | — (fără rotație strictă) | relatable | relatable/educațional | MyBudget — insight „senzația de «am bani»/«n-am bani» e ghicit, nu certitudine, la venit variabil" | FB — De ce nu știi niciodată cât poți cheltui, deși câștigi bine (v2, revizuită pe feedback) | `outputs/facebook/2026-09-21-mybudget-venit-variabil.md` |
+| 2026-09-21 | LinkedIn | Beauty Tech | observație comportament utilizatori | autoritate/educațional | Glow Diary — insight „bariera de cont scade engagement real, comentariile fără cont dau o a doua opinie" | De ce am scos obligativitatea de cont de pe Glow Diary | `outputs/linkedin/2026-09-21-glow-diary-comentarii-fara-cont.md` |
 
 ## Cum adaugi un rând nou
 
