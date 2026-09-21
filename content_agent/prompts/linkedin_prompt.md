@@ -89,11 +89,18 @@ dată de Andreea):
 
 ## ETAPA 3 — Idea Generator
 
+**Verifică întâi `content_agent/context/decizii_tehnice.md`** — tabelul
+proiect/decizie tehnică/consecință. Împreună cu `outputs/log.md`, exclude
+orice proiect folosit deja în ultimele 3-4 postări de pe aceeași
+platformă — rotești prin tot portofoliul (Al Noir, Bookora, Platform
+Tickets, MyBudget, Emotional Planner, Glow Diary, Cassian & Voicu), nu
+doar prin 1-2 exemple favorite.
+
 Transformă tema aleasă în 2-3 idei concrete de postare, fiecare cu:
 unghiul (ex. mit, greșeală frecventă, observație contrarian), un hook
-posibil (o propoziție), și exemplul real care ar susține ideea (din
-`products_services.md` sau o companie/industrie reală permisă — vezi
-Etapa 4, punctul 3).
+posibil (o propoziție), și exemplul real care ar susține ideea — de
+regulă un rând din `decizii_tehnice.md`, sau o companie/industrie reală
+permisă (vezi Etapa 4, punctul 3 — ține cont și de cota de 1 din 4-5).
 
 Nu scrie postarea completă aici — doar opțiunile. Dacă Andreea nu alege
 explicit, treci mai departe cu cea mai puternică variantă (cea care trece

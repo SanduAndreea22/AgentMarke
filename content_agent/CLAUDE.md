@@ -104,7 +104,8 @@ cererea ei — regula de mai sus e default-ul, nu o constrângere absolută.
 content_agent/
 ├── CLAUDE.md              ← acest fișier — context de brand, nu mecanism
 ├── context/                ← cine suntem, cui vorbim, cum sunăm
-│   └── preferinte.md      ← ✅ feedback de stil per-postare, nu reguli fixe
+│   ├── preferinte.md      ← ✅ feedback de stil per-postare, nu reguli fixe
+│   └── decizii_tehnice.md ← ✅ tabel proiect/decizie/consecință, pentru rotație
 ├── knowledge/               ← fapte verificabile, nu se inventează
 │   └── examples/
 ├── prompts/                ← ✅ mecanismul real, folosit zilnic

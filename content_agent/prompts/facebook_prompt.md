@@ -67,9 +67,16 @@ generală/companii externe, fără proiect propriu, sunt excepția — maximum
 
 ## ETAPA 3 — Idea Generator
 
+**Verifică întâi `content_agent/context/decizii_tehnice.md`** (tabelul
+proiect/decizie/consecință) și `outputs/log.md` — nu refolosi un proiect
+deja folosit în ultimele 3-4 postări de pe aceeași platformă; rotești
+prin tot portofoliul (Al Noir, Bookora, Platform Tickets, MyBudget,
+Emotional Planner, Glow Diary, Cassian & Voicu).
+
 Transformă tema în 1-2 idei concrete, fiecare cu un hook posibil (o
-propoziție directă) și exemplul real care le-ar susține (din
-`products_services.md`). Dacă Andreea nu alege, mergi cu cea mai directă.
+propoziție directă) și exemplul real care le-ar susține — de regulă un
+rând din `decizii_tehnice.md`. Dacă Andreea nu alege, mergi cu cea mai
+directă.
 
 ### Contract de intrare/ieșire al Etapei 4
 

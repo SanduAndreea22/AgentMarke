@@ -64,6 +64,35 @@ de domeniu" — util pentru unghiuri de conținut către alte industrii.
 - Urmărește venituri, cheltuieli, limite de buget — evidență, privire de
   ansamblu, urmărirea economiilor/obiectivelor financiare.
 
+## Glow Diary — produs propriu (blog personal de beauty)
+
+> Sursă: descris direct de Andreea (glowdiary.pythonanywhere.com —
+> inaccesibil din acest environment, blocat de proxy). Construit în
+> Django. Diferit de celelalte — nu e un sistem pentru un business, e
+> blogul ei personal de recenzii beauty, cu accent pe autenticitate.
+
+- **Ce e:** un „jurnal" de recenzii de produse beauty, nu un site de tip
+  magazin/catalog corporate.
+- **Recenzii:** fiecare produs testat are notă, poză, preț, „recomandat
+  pentru", cât ține, verdict la persoana întâi („Părerea mea"), plus
+  sigiliul **„TESTED BY DEEA"** — dovadă că produsul a fost cumpărat și
+  testat chiar de ea, fără PR-uri/sponsorizări.
+- **Homepage:** ultimele încercări, căutare + filtre (categorie, notă,
+  sursă, preț, tag-uri, „îl recumpăr"), colecție/produs recomandat al
+  săptămânii.
+- **Colecții:** grupări tematice (ex. Goodie Bag Sephora, Calendar Advent).
+- **Interacțiune cu cititoarele:** notă + comentariu **fără cont**,
+  favorite salvate prin `localStorage`, card descărcabil pentru Instagram
+  Story cu recenzia.
+- **Recap anual („wrapped"):** statistici generate automat din datele
+  anului.
+- **Admin Django:** adăugare produse (inclusiv bulk), categorii, tag-uri,
+  colecții, moderare comentarii.
+- Bun pentru unghiuri despre: **Beauty Tech** (singurul proiect din
+  portofoliu care acoperă această categorie din rotația de teme),
+  autenticitate/încredere online, reducerea barierei de interacțiune
+  (fără cont), conținut care se distribuie organic.
+
 ## SM Writer — proiect propriu, exemplu valid de portofoliu
 
 Agentul AI intern care generează zilnic materialul de LinkedIn al Andreei
@@ -75,9 +104,9 @@ nu doar context intern. „Nu e un concept, e ceva ce rulează acum."
 
 Numele de conținut (nu cele de site, unde diferă) pentru portofoliu:
 **Al Noir, Bookora, Platform Tickets, Cassian & Voicu, MyBudget, Emotional
-Planner, SM Writer.** Astea sunt singurele proiecte proprii care pot fi
-menționate ca experiență reală — „nu există (încă) clienți, utilizatori
-externi sau studii de caz proprii care pot fi citate ca atare".
+Planner, Glow Diary, SM Writer.** Astea sunt singurele proiecte proprii
+care pot fi menționate ca experiență reală — „nu există (încă) clienți,
+utilizatori externi sau studii de caz proprii care pot fi citate ca atare".
 
 ## Reguli de utilizare în conținut
 
