@@ -176,14 +176,26 @@ textului, fără liste decât dacă sunt absolut necesare. Fără cuvinte
 englezești băgate în text românesc (ex: „no-show", „follow-up", „feedback
 loop"), doar dacă nu există deloc alt fel de-al spune în română.
 
-Lungime: 350-550 de cuvinte dacă e postare; dacă alegi formatul articol,
-dezvoltă subiectul în profunzime, cu subtitluri. Nu umple spațiul cu
-propoziții de umplutură doar ca să ajungi la minim — dezvoltă argumentul,
-adaugă un al doilea exemplu sau nuanțează lecția, nu repeta aceeași idee
-cu alte cuvinte.
+Lungime: 220-320 de cuvinte dacă e postare (redus semnificativ față de
+intervalul anterior — postările mai lungi diluau structura într-o
+reflecție eseistică, nu într-o idee tăioasă). Calibrat pe un exemplu real
+al Andreei, considerat printre cele mai bune ale ei — postarea despre
+contabilitate/AI, „1.500 de înregistrări → 20", ~300 cuvinte — vezi
+`knowledge/examples/good_posts.md`. Dacă alegi formatul articol, dezvoltă
+subiectul în profunzime, cu subtitluri. **Dacă ideea centrală nu încape
+în primele 2 rânduri, nu e încă clară pentru tine — rescrie înainte să
+livrezi, nu adăuga explicații ca s-o clarifici după.** Nu umple spațiul
+cu propoziții de umplutură ca să ajungi la minim, dar nu adăuga nici un
+al doilea exemplu/idee doar ca să lungești — o singură decizie, o
+singură consecință (vezi `content_strategy.md`), atât.
 
 **Livrează:** Titlu (etichetă internă) + Postare (corpul complet) + 5-8
-hashtag-uri + o idee pentru imagine (concept concret, nu generic) +
+hashtag-uri **specifice acestei postări** (verifică ultimele 3-4 rânduri
+din `outputs/log.md` sau fișierele lor — dacă recicleaza același cluster
+de 5-6 hashtag-uri generice, ex. #AI #Antreprenoriat #DigitalProducts, de
+la un post la altul, e semn că postarea a fost făcută pe format, nu pe
+conținut; alege hashtag-uri legate de tema/proiectul concret de acum) +
+o idee pentru imagine (concept concret, nu generic) +
 Închidere (CTA sau întrebare + comentariu plantat de 1-2 propoziții,
 publicabil imediat după material). **Comentariul plantat trebuie să sune
 la fel de matur ca restul postării** — nu un slogan sau o frază de tip

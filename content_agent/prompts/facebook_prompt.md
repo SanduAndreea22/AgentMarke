@@ -112,13 +112,15 @@ scurte, active, grupate în paragrafe scurte care curg (2-4 propoziții) —
 nu fragmentare artificială linie cu linie. Fără englezisme nejustificate,
 fără emoji în corpul textului, fără liste decât dacă chiar ajută.
 
-Lungime: 150-300 de cuvinte — mai scurtă decât varianta LinkedIn a
-aceleiași idei, dar cu loc suficient pentru un exemplu dezvoltat, nu doar
-o observație de o frază. Nu umple spațiul cu propoziții de umplutură doar
-ca să ajungi la minim. Nu copia niciodată o postare LinkedIn 1:1, chiar
-dacă pornește din același unghi.
+Lungime: 80-150 de cuvinte (redus la jumătate față de intervalul
+anterior) — mai scurtă decât varianta LinkedIn a aceleiași idei. Dacă
+ideea centrală nu încape în primele 2 rânduri, rescrie înainte să
+livrezi. O singură decizie/observație, o singură consecință — nu adăuga
+un al doilea exemplu ca să lungești. Nu copia niciodată o postare
+LinkedIn 1:1, chiar dacă pornește din același unghi.
 
 **Livrează:** Titlu (etichetă internă) + Postare + 2-5 hashtag-uri
+**specifice acestei postări, nu reciclate de la un post la altul**
 (opțional — Facebook nu le răsplătește ca LinkedIn, omite-le dacă nu
 adaugă nimic) + o idee pentru imagine (concept concret) + Închidere (CTA
 sau întrebare + comentariu plantat). Comentariul plantat trebuie să sune

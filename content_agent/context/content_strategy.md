@@ -27,12 +27,28 @@ evitată cu un simplu lock în baza de date? Răspundeți cu da/nu" (rapid).
 
 ## Format implicit: „un proiect, o decizie tehnică, o consecință"
 
-**Regulă, nu excepție** (confirmat de Andreea, după exemplele Bookora/
-Platform Tickets): fiecare postare pornește, implicit, de la un proiect
-real din portofoliu → o decizie tehnică/de produs concretă luată acolo →
-consecința ei pentru business/utilizator. Nu „am folosit X tehnologie",
-ci „am ales să fac Y în loc de Z, și asta înseamnă W pentru cine
-folosește sistemul".
+**Regulă strictă, nu excepție** (confirmat de Andreea, după exemplele
+Bookora/Platform Tickets — „restul o diluează în reflecții lungi"):
+fiecare postare are **o singură** decizie tehnică/de produs concretă și
+**o singură** consecință de business, nu 3-4 idei înghesuite într-un
+eseu cu reflecții lungi. Șablon literal de folosit ca schelet:
+
+> „Am făcut X (detaliu tehnic concret) → asta înseamnă Y pentru cine
+> folosește sistemul (consecință măsurabilă/vizibilă)."
+
+Nu „am folosit X tehnologie", ci exact structura de mai sus — o decizie,
+o consecință, atât. Dacă simți nevoia să adaugi o a doua/a treia idee
+„ca să umpli", e semn că trebuie tăiată postarea, nu lungită.
+
+**Fiecare postare are un ancoraj concret** — un număr, un nume de
+proiect, sau un detaliu tehnic specific (ex: „X înregistrări verificate
+manual, sistemul le reduce la Y") — niciodată doar o observație
+abstractă („AI schimbă joburile", fără nimic concret în spate).
+
+**Fără fraze defensive/comparative** de tipul „majoritatea developerilor
+fac doar X, eu fac Y" — diferența se arată prin fapte concrete din
+portofoliu (Bookora, Platform Tickets etc.), nu prin comparație directă
+cu alți developeri/agenții.
 
 **Postările ancorate în industrie generală/companii externe mari** (AI,
 Shopify, Sephora etc., fără legătură cu un proiect propriu) sunt

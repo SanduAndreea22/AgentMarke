@@ -68,6 +68,53 @@ simplifici la maximum și plecarea.
 - Vine cu format complet de producție: hashtag-uri, idee de imagine,
   comentariu plantat pentru a stimula discuția.
 
+## [REAL] Ce se întâmplă cu locurile de muncă atunci când AI-ul devine parte din echipă?
+
+> Sursă: livrat de Andreea, publicat pe LinkedIn. Format: reframe +
+> lecție practică, LinkedIn/RO. Fără referință de portofoliu propriu —
+> observație generală despre munca de contabilitate + AI. Citată de
+> Andreea explicit ca „printre cele mai bune postări ale mele" — sursa
+> principală pentru regula „un număr concret, nu o observație abstractă"
+> și pentru recalibrarea lungimii LinkedIn (~300 cuvinte).
+
+Ce se întâmplă cu locurile de muncă atunci când AI-ul devine parte din echipă?
+
+Când vorbim despre AI și joburi, întrebarea care se pune cel mai des este: „Ce oameni poate înlocui AI-ul?". Cred că este întrebarea greșită. Cea corectă este: „Ce muncă nu mai trebuie să facă un om?"
+
+M-am gândit zilele astea la contabilitate. Se vorbește mult despre cum AI-ul va înlocui juniorii, dar cine a lucrat într-o echipă de contabilitate știe că lucrurile nu sunt chiar atât de simple.
+
+Un junior primește o factură, citește explicația, încearcă să înțeleagă ce reprezintă serviciul, se uită la furnizor, alege contul și înregistrează. Aici există interpretare, există învățare și se construiește experiența de care un contabil va avea nevoie mai târziu.
+
+Dar apoi vine seniorul și verifică. Verifică sute sau mii de înregistrări, balanțe, diferențe, declarații, conturi și anomalii. Practic, omul cel mai bine pregătit din echipă poate ajunge să petreacă zile întregi făcând verificări repetitive.
+
+Aici cred că AI-ul poate schimba cu adevărat procesul. Nu neapărat prin înlocuirea juniorului, ci prin preluarea unei mari părți din verificarea pe care o face astăzi seniorul. AI-ul poate compara înregistrările, poate identifica lucrurile neobișnuite și îi poate arăta seniorului exact unde merită să se uite mai atent.
+
+În loc să verifice manual 1.500 de înregistrări, seniorul ar putea primi o listă cu cele 20 care necesită atenție. Nu dispare expertiza din proces, ci dispare o parte din munca repetitivă din jurul ei.
+
+De aceea mi se pare mult mai util să întrebăm „Ce facem astăzi manual doar pentru că așa am făcut dintotdeauna?" decât „Ce oameni putem înlocui cu AI?".
+
+De multe ori, răspunsul este ascuns într-un proces care poate fi automatizat fără să elimine omul care știe ce face. Poți elimina munca repetitivă și să păstrezi expertiza acolo unde este cu adevărat necesară.
+
+**Hashtag-uri:** #AI #Automatizare #BusinessTransformation #DigitalProducts #FutureOfWork
+
+### De ce e un exemplu bun
+
+- Hook prin reframe-ul întrebării ("ce oameni înlocuiește AI" e întrebarea
+  greșită; "ce muncă nu mai trebuie să facă un om" e cea corectă), nu
+  printr-o generalizare largă.
+- **Ancoraj concret, nu observație abstractă**: „1.500 de înregistrări →
+  20" — exact tiparul cerut acum ca regulă (`content_strategy.md`,
+  secțiunea „Format implicit").
+- Distincție clară junior/senior — nuanțează ideea în loc s-o simplifice
+  excesiv ("AI schimbă joburile").
+- ~300 de cuvinte — sursa numerică pentru intervalul curent de lungime
+  LinkedIn (220-320 cuvinte).
+- **Notă structurală:** se închide printr-o reformulare/concluzie, nu
+  printr-o întrebare de engagement propriu-zisă — diferă de regula
+  standard de închidere (CTA/întrebare rapidă). Păstrat ca excepție
+  validă când reformularea e suficient de puternică, nu ca înlocuitor
+  implicit al regulii de închidere.
+
 ---
 
 ## Template-uri ilustrative
