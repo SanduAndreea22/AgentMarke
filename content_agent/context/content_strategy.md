@@ -17,6 +17,33 @@ lead gen cu educațional în aceeași postare.
   comentariu plantat de adăugat imediat după postare (nu CTA de link —
   vezi exemplul real din `knowledge/examples/good_posts.md`).
 
+**Întrebarea de engagement trebuie să fie răspunzabilă în câteva
+secunde** — da/nu, o alegere simplă, un număr — nu o reflecție deschisă
+care cere un răspuns lung, elaborat (confirmat de Andreea: un răspuns de
+1 cuvânt scade bariera de interacțiune). Ex: nu „ultima dată când ați
+cumpărat ceva online, cum a fost momentul confirmării?" (deschisă), ci
+„ați avut săptămâna asta o suprapunere de programări care putea fi
+evitată cu un simplu lock în baza de date? Răspundeți cu da/nu" (rapid).
+
+## Format implicit: „un proiect, o decizie tehnică, o consecință"
+
+**Regulă, nu excepție** (confirmat de Andreea, după exemplele Bookora/
+Platform Tickets): fiecare postare pornește, implicit, de la un proiect
+real din portofoliu → o decizie tehnică/de produs concretă luată acolo →
+consecința ei pentru business/utilizator. Nu „am folosit X tehnologie",
+ci „am ales să fac Y în loc de Z, și asta înseamnă W pentru cine
+folosește sistemul".
+
+**Postările ancorate în industrie generală/companii externe mari** (AI,
+Shopify, Sephora etc., fără legătură cu un proiect propriu) sunt
+**excepția, nu regula** — maximum 1 din fiecare 4-5 postări, nu jumătate
+din feed. Înainte să alegi acest tip de unghi, verifică
+`outputs/log.md`: dacă vreuna din ultimele 3-4 postări era deja de acest
+tip, alegi obligatoriu un unghi ancorat în portofoliul propriu de data
+asta. (Regula AI ≤10% din Etapa 2 rămâne separată și se aplică în
+continuare — un unghi despre AI ancorat în portofoliu, ex. SM Writer, nu
+intră la cota asta de „industrie generală", doar cea despre AI.)
+
 ## Unghiuri de conținut preferate
 
 > **Notă de sincronizare:** sistemul autoritativ de varietate/rotație

@@ -59,6 +59,12 @@ relatable (default) sau lead generation. Verifică
 `content_agent/outputs/log.md` pentru ultimele postări Facebook — nu
 repeta unghiul/hook-ul folosit ultima dată.
 
+**Format implicit: „un proiect real → o decizie tehnică/de produs
+concretă → o consecință pentru business/utilizator"** — regulă, nu
+excepție (vezi `content_strategy.md`). Postările ancorate în industrie
+generală/companii externe, fără proiect propriu, sunt excepția — maximum
+1 din 4-5 postări.
+
 ## ETAPA 3 — Idea Generator
 
 Transformă tema în 1-2 idei concrete, fiecare cu un hook posibil (o
@@ -92,7 +98,8 @@ Scrie postarea completă pentru Facebook, în limba română:
 5. **Tip de închidere, în funcție de obiectiv:**
    - **Autoritate/educațional/relatable** (default) → întrebare simplă,
      directă, care invită la un comentariu real (nu „ce părere aveți?"
-     generic).
+     generic). **Răspunzabilă în câteva secunde** — da/nu, o alegere, un
+     număr — nu o reflecție deschisă care cere un răspuns lung.
    - **Lead generation** → CTA concret spre unul dintre pachetele/
      acțiunile din `offers.md`, formulat conversațional, nu ca reclamă.
 6. **Fără afirmații absolute care neagă complet un factor real** —

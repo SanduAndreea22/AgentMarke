@@ -75,6 +75,13 @@ dată de Andreea):
   studiu de caz, lecție de business, greșeală frecventă, mit, tendință,
   observație despre comportamentul utilizatorilor) s-au folosit ultima
   dată pe LinkedIn — nu repeta nici categoria, nici formatul consecutiv.
+- **Format implicit: „un proiect real → o decizie tehnică/de produs
+  concretă → o consecință pentru business/utilizator"** — regulă, nu
+  excepție (vezi `content_strategy.md`). Postările ancorate în industrie
+  generală/companii externe (fără proiect propriu) sunt limitate la
+  maximum 1 din 4-5 postări — verifică în `log.md` dacă vreuna din
+  ultimele 3-4 era deja de acest tip; dacă da, alegi obligatoriu un unghi
+  ancorat în portofoliul propriu acum.
 - Stabilește obiectivul: **autoritate/educațional** (default) sau **lead
   generation** (doar dacă Andreea cere explicit sau contextul o cere clar).
 - Formulează, într-o propoziție, „perspectiva" postării — ce ar trebui să
@@ -145,7 +152,12 @@ dacă alegi acest format), respectând:
 5. **Tip de închidere, în funcție de obiectivul stabilit la Etapa 2:**
    - **Autoritate/educațional** → concluzia lasă o idee practică sau o
      schimbare de perspectivă; se termină cu o întrebare care invită la o
-     discuție autentică, nu doar pentru engagement.
+     discuție autentică, nu doar pentru engagement. **Întrebarea trebuie
+     să fie răspunzabilă în câteva secunde** — da/nu, o alegere simplă,
+     un număr — nu o reflecție deschisă care cere un răspuns lung. Nu „X,
+     cum a fost experiența voastră cu Y?" (deschisă), ci „ați avut
+     săptămâna asta Z? Răspundeți cu da/nu" (rapid — un răspuns de 1
+     cuvânt scade bariera de interacțiune).
    - **Lead generation** → se termină cu un CTA concret spre unul dintre
      pachetele/acțiunile din `offers.md`.
 6. **Fără afirmații absolute care neagă complet un factor real** —
