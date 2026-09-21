@@ -30,6 +30,7 @@
 | 2026-09-21 | LinkedIn | Customer Experience | studiu de caz | autoritate/educațional | Platform Tickets — insight „confirmarea post-plată e prima dovadă de încredere + stinge îndoiala post-cumpărare" | Ce simte cineva în primele 10 secunde după ce cumpără un bilet spune mai multe decât ai crede (v2, revizuită pe feedback) | `outputs/linkedin/2026-09-21-platform-tickets-prima-impresie-bilet.md` |
 | 2026-09-21 | Facebook | — (fără rotație strictă) | relatable | relatable/educațional | MyBudget — insight „senzația de «am bani»/«n-am bani» e ghicit, nu certitudine, la venit variabil" | FB — De ce nu știi niciodată cât poți cheltui, deși câștigi bine (v2, revizuită pe feedback) | `outputs/facebook/2026-09-21-mybudget-venit-variabil.md` |
 | 2026-09-21 | LinkedIn | Beauty Tech | observație comportament utilizatori | autoritate/educațional | Glow Diary — insight „bariera de cont scade engagement real, comentariile fără cont dau o a doua opinie" | De ce am scos obligativitatea de cont de pe Glow Diary | `outputs/linkedin/2026-09-21-glow-diary-comentarii-fara-cont.md` |
+| 2026-09-21 | Facebook | — (fără rotație strictă) | relatable | autoritate/educațional/relatable | Cassian & Voicu — insight „mai puține decizii mărunte cerute = folosire zilnică reală, nu abandon" | FB — Am șters butoane, nu am adăugat | `outputs/facebook/2026-09-21-cassian-voicu-panou-redus.md` |
 
 ## Cum adaugi un rând nou
 
