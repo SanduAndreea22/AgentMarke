@@ -148,6 +148,12 @@ dacă alegi acest format), respectând:
      discuție autentică, nu doar pentru engagement.
    - **Lead generation** → se termină cu un CTA concret spre unul dintre
      pachetele/acțiunile din `offers.md`.
+6. **Fără afirmații absolute care neagă complet un factor real** —
+   formulări de tip „nu ține de X", „X nu e problema", „nu contează Y"
+   sună puternic, dar sunt ușor de contrazis dacă X/Y chiar contează
+   parțial (ex: venitul variabil „nu e problema" — ba chiar poate fi).
+   Nuanțează: „nu ține doar de X", „problema nu e X în sine, ci Y". Se
+   aplică peste tot — hook, corp, concluzie, comentariu plantat.
 
 **Format:** natural, conversațional, matur — niciodată ca un AI.
 Propoziții scurte, active, dar grupate în blocuri de text care curg legat

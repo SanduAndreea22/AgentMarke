@@ -95,6 +95,10 @@ Scrie postarea completă pentru Facebook, în limba română:
      generic).
    - **Lead generation** → CTA concret spre unul dintre pachetele/
      acțiunile din `offers.md`, formulat conversațional, nu ca reclamă.
+6. **Fără afirmații absolute care neagă complet un factor real** —
+   „nu ține de X", „X nu e problema" sunt ușor de contrazis dacă X chiar
+   contează parțial. Nuanțează: „nu ține doar de X". Se aplică peste tot,
+   inclusiv la comentariul plantat.
 
 **Format:** ton conversațional, matur, niciodată ca un AI. Propoziții
 scurte, active, grupate în paragrafe scurte care curg (2-4 propoziții) —
