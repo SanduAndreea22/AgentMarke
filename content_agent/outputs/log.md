@@ -27,6 +27,7 @@
 | 2026-09-08 | Facebook | — (fără rotație strictă) | problem→solution | autoritate/educațional | Al Noir | FB — Nu vezi unde se scurg banii din business | `outputs/facebook/2026-09-08-lipsa-vizibilitate-dashboard.md` |
 | 2026-09-08 | LinkedIn | Automatizare | opinie/mit contrazis | autoritate/educațional | Bookora — insight „timp realocat spre judecată" | LI — Automatizare = mai puțină muncă repetitivă, nu mai puțin om | `outputs/linkedin/2026-09-08-automatizare-nu-inseamna-eliminarea-omului.md` |
 | 2026-09-08 | LinkedIn | UX | greșeală frecventă | autoritate/educațional | Cassian & Voicu + Linear (referință externă, filosofie de produs, fără cifre) — insight „mai puține decizii cerute = UX mai bun, nu mai frumos" | Cea mai frecventă greșeală de UX pe care o văd la fondatori | `outputs/linkedin/2026-09-08-greseala-ux-cassian-voicu.md` |
+| 2026-09-21 | LinkedIn | Customer Experience | studiu de caz | autoritate/educațional | Platform Tickets — insight „confirmarea post-plată e prima dovadă de încredere, nu un detaliu administrativ" | Ce simte cineva în primele 10 secunde după ce cumpără un bilet spune tot despre eveniment | `outputs/linkedin/2026-09-21-platform-tickets-prima-impresie-bilet.md` |
 
 ## Cum adaugi un rând nou
 
