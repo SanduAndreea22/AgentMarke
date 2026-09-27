@@ -18,9 +18,19 @@ Brief-ul (câmpul `Compoziție imagine`) și textul postării. Citește și
    „format vertical 4:5, 1080×1350". Dacă ChatGPT livrează alt raport,
    Andreea decupează — menționează asta într-o singură linie sub prompt.
 2. **Imaginea susține o singură idee** — cea din postare. Un concept
-   clar, citibil pe telefon, într-un feed, în sub o secundă.
-3. **Text în imagine: maximum 6 cuvinte, în română, între ghilimele în
-   prompt**, cu diacritice. Fără paragrafe de text în imagine.
+   clar, citibil pe telefon, într-un feed, în sub o secundă. **Testul:
+   cineva care NU a citit postarea trebuie să poată spune ce arată
+   imaginea.** Dacă ai nevoie de postare ca s-o înțelegi, e prea
+   abstractă. Cea mai bună imagine arată de obicei contrastul din hook
+   (ex. „luni" vs. „joi"), nu un simbol izolat. (Regulă adăugată
+   2026-09-27: o imagine cu bare gri în loc de sarcini și o baterie mică
+   a fost „prea simplă, nu înțeleg nimic" pentru Andreea.)
+3. **Text în imagine: titlu de maximum 6 cuvinte, în română, între
+   ghilimele în prompt**, cu diacritice cu virgulă dedesubt (ș, ț — cere
+   explicit asta în prompt). Pe lângă titlu, sunt permise **etichete
+   scurte, reale, de 1-2 cuvinte** (ex. sarcini: „Telefon greu",
+   „Raport", „Mesaje"; zile: „Luni", „Joi") — nu bare gri abstracte în
+   locul lor, fiindcă fără ele imaginea nu se înțelege. Fără paragrafe.
 4. **Doar produse reale.** Dacă apare o interfață (Glow Diary, Bookora,
    Al Noir etc.), descrii un ecran generic, plauzibil, fără nume de
    clienți, fără cifre, fără recenzii sau testimoniale inventate, fără

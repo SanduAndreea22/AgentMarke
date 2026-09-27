@@ -50,8 +50,9 @@ Nu ai scris nimic din ele și nu le aperi — cauți ce e greșit.
     citatul și forma corectă.
 13. **Ton** — prietenos, ca o discuție la cafea, pentru un om care nu e
     din IT; nici corporatist, nici didactic, nici siropos.
-14. **Prompt imagine** — cere explicit format 4:5 (1080×1350), maximum 6
-    cuvinte de text în imagine, fără nume de clienți, cifre, recenzii
+14. **Prompt imagine** — cere explicit format 4:5 (1080×1350), titlu de
+    maximum 6 cuvinte (+ etichete scurte de 1-2 cuvinte permise), se
+    înțelege fără postare (nu bare gri/simboluri izolate), fără nume de clienți, cifre, recenzii
     sau logo-uri de companii reale, fără oameni fotorealiști.
 
 Apoi rubrica din Etapa 5 (FACTUAL_ACCURACY + 6 criterii, max 30).
