@@ -25,6 +25,13 @@ cumpărat ceva online, cum a fost momentul confirmării?" (deschisă), ci
 „ați avut săptămâna asta o suprapunere de programări care putea fi
 evitată cu un simplu lock în baza de date? Răspundeți cu da/nu" (rapid).
 
+> **LinkedIn, din 2026-09-27: postări pentru oameni simpli, nu
+> tehnice** (decizia Andreei). Structura „o decizie → o consecință" de
+> mai jos rămâne, dar decizia se povestește în cuvinte de zi cu zi, ce
+> simte/câștigă omul — nu detaliul tehnic. Ancorajul concret e o
+> situație sau un proiect, nu un detaliu tehnic. Regula completă:
+> `prompts/linkedin_prompt.md`, ROL + Etapa 4 punctul 6.
+
 ## Format implicit: „un proiect, o decizie tehnică, o consecință"
 
 **Regulă strictă, nu excepție** (confirmat de Andreea, după exemplele
@@ -64,11 +71,10 @@ intră la cota asta de „industrie generală", doar cea despre AI.)
 
 > **Notă de sincronizare:** sistemul autoritativ de varietate/rotație
 > (ca să nu se repete tema sau formatul) e cel din `prompts/
-> linkedin_prompt.md` Etapa 2 — 14 categorii de temă (Product Development,
+> linkedin_prompt.md` Etapa 2 — 11 categorii de temă (Product Development,
 > Antreprenoriat, Marketing, Copywriting, Customer Experience, UX, UI,
-> SaaS, Automatizare, Django, Dezvoltare software explicată pentru
-> business, Digitalizare, Beauty Tech, Restaurante/servicii bazate pe
-> programări) și 11 formate (postare, articol, analiză, opinie,
+> Automatizare, Digitalizare, Beauty Tech, Restaurante/servicii bazate pe
+> programări; Django, SaaS și Dezvoltare software scoase pe 2026-09-27) și 11 formate (postare, articol, analiză, opinie,
 > comparație, studiu de caz, lecție de business, greșeală frecventă, mit,
 > tendință, observație comportament), cu AI ≤10% din materiale și fără
 > repetare consecutivă de categorie/format. Lista de mai jos e o

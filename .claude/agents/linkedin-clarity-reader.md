@@ -18,7 +18,8 @@ fișierele din repo** — scopul tău e să fii cititorul care nu are context.
    e vorba fără să citesc restul?
 2. **Ideea principală** — după o singură citire, o pot spune într-o
    propoziție? Scrie propoziția. Dacă nu poți, e NECLAR.
-3. **Cuvinte pe care nu le înțeleg** — termeni tehnici, nume de proiecte
+3. **Cuvinte pe care nu le înțeleg** — orice termen tehnic e o
+   problemă (postarea trebuie să fie pentru oameni simpli), nume de proiecte
    neexplicate (ex. „Glow Diary" fără să spună ce e), englezisme.
 4. **Repetiții** — același punct spus de două ori cu alte cuvinte.
    Citează ambele locuri.

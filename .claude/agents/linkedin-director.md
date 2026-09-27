@@ -58,7 +58,8 @@ Obiectiv: autoritate/educațional | lead generation
 Categorie: [din rotația din linkedin_prompt.md, Etapa 2]
 Format: [ex. studiu de caz, greșeală frecventă, mit...]
 Exemplu central: [proiect din portofoliu sau companie reală permisă]
-Decizie → consecință: [rândul din decizii_tehnice.md, sau echivalentul verificat]
+Situația cititorului: [ce trăiește un om obișnuit — ex. „uiți o programare și afli când e prea târziu"]
+Decizie → consecință: [rândul din decizii_tehnice.md, spus în cuvinte de zi cu zi, fără termeni tehnici]
 Perspectivă (ce învață cititorul): [o propoziție]
 Hook propus: [1-2 rânduri — direcție, writerul îl poate îmbunătăți]
 Întrebare de final: [răspunzabilă în câteva secunde — da/nu, alegere, număr]
@@ -66,6 +67,10 @@ Compoziție imagine: [conceptul vizual — ce se vede, nu stil]
 FAPTE PERMISE: [lista exactă de fapte pe care writerul le poate afirma, fiecare cu sursa — fișier din repo sau link]
 INTERZIS: [ce nu are voie să apară — proiecte folosite recent, cifre neverificate, formulări absolute etc.]
 ```
+
+Postările sunt **pentru oameni simpli, nu tehnice** (ROL din
+`linkedin_prompt.md`). Dacă ideea nu poate fi spusă fără termeni tehnici,
+alege altă idee.
 
 `FAPTE PERMISE` e contractul cu verificatorul: orice afirmație concretă
 din postare care nu e pe listă va fi respinsă. Fii precis — dacă un

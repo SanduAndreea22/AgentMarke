@@ -35,7 +35,7 @@
 
 După ce o postare trece de Etapa 5 (Auditor, `APPROVE`) și e salvată în
 `outputs/linkedin/` sau `outputs/facebook/`, adaugi un rând aici cu:
-data, platforma, categoria de temă (pentru LinkedIn — din lista de 14 din
+data, platforma, categoria de temă (pentru LinkedIn — din lista de 11 din
 `linkedin_prompt.md` Etapa 2; pentru Facebook, „—" dacă nu se aplică),
 formatul (postare/articol/opinie/mit/etc.), obiectivul, **exemplul
 central + insight-ul principal folosit** (nu doar numele proiectului —

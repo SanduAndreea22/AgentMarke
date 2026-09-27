@@ -38,7 +38,10 @@ Nu ai scris nimic din ele și nu le aperi — cauți ce e greșit.
    fără liste inutile, fără clișee de AI.
 9. **Întrebarea de final** — răspunzabilă în câteva secunde.
 10. **Comentariu plantat** — prezent, 1-2 propoziții, ton matur.
-11. **Prompt imagine** — cere explicit format 4:5 (1080×1350), maximum 6
+11. **Nu e tehnică** — niciun termen din lista de la Etapa 4 punctul 6
+    (cod, bază de date, API, dashboard, Stripe etc.); postarea e despre o
+    situație de om, nu despre cum e construit sistemul.
+12. **Prompt imagine** — cere explicit format 4:5 (1080×1350), maximum 6
     cuvinte de text în imagine, fără nume de clienți, cifre, recenzii
     sau logo-uri de companii reale, fără oameni fotorealiști.
 
@@ -53,5 +56,5 @@ Probleme: [numerotate, fiecare cu citatul exact și ce trebuie schimbat — sau 
 ```
 
 **APROBAT** doar dacă punctele 1 și 2 sunt OK, nu există nicio PROBLEMĂ
-la punctele 3-11 și scorul e ≥ 25. Altfel **RESPINS**. Nu aprobi „cu
+la punctele 3-12 și scorul e ≥ 25. Altfel **RESPINS**. Nu aprobi „cu
 observații" — orice problemă reală înseamnă RESPINS, cu reparația clară.
