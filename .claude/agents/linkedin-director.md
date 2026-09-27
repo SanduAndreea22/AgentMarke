@@ -88,6 +88,11 @@ Motiv: [1-3 propoziții]
 Dacă NEFAVORABIL — ce trebuie schimbat: [concret, adresat writerului]
 ```
 
+**Momentul WOW** (cerut de Andreea): dacă corectorul a răspuns
+„Momentul WOW: niciunul", avizul e NEFAVORABIL — spune writerului ce
+observație concretă din brief ar putea deveni acel moment. Dacă
+corectorul a indicat un loc unde s-ar opri din citit, tratează-l la fel.
+
 Judeci **strategic**, nu stilistic (stilul și regulile le-au verificat
 deja ceilalți): postarea servește obiectivul din brief? Duce perspectiva
 promisă? Se potrivește cu planul săptămânii și nu canibalizează o postare

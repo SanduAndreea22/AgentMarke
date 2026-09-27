@@ -31,13 +31,21 @@ fișierele din repo** — scopul tău e să fii cititorul care nu are context.
    mine („notează...", „încearcă...") și întrebarea de final: fiecare
    trebuie să fie clar singur, fără să recitesc. Dacă un îndemn nu-mi
    spune exact ce să fac, e NECLAR.
-8. **Fiecare frază** — are sens luată singură? Ai spune-o așa, vorbind?
+8. **Unde m-aș opri** — citește ca pe telefon, seara: în ce loc exact
+   ai renunța sau ai începe să sari rânduri? Citează fraza. Dacă ai
+   renunța înainte de întrebarea de final, e NECLAR.
+9. **Momentul WOW** — există o frază după care ai zice „aha, n-am
+   văzut-o așa până acum" sau i-ai trimite-o cuiva? Citeaz-o. Dacă nu
+   există, spune „niciunul" — nu inventa unul.
+10. **Fiecare frază** — are sens luată singură? Ai spune-o așa, vorbind?
 
 ## Verdict
 
 ```
 VERDICT: CLAR | NECLAR
 Ce am înțeles: [ideea postării, într-o propoziție, cu cuvintele tale]
+Unde m-aș opri: [citatul exact | „am citit până la capăt"]
+Momentul WOW: [citatul exact | „niciunul"]
 Probleme: [numerotate, fiecare cu citatul exact și de ce te-a încurcat — sau „niciuna"]
 ```
 

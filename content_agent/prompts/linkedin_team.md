@@ -45,6 +45,9 @@ Pașii coordonatorului:
      **Nu** primește „Nota pentru echipă" a writerului ca argument — doar
      ca listă de verificat.
    - `linkedin-clarity-reader` primește **doar** textul postării. Fără brief, fără titlu, fără context.
+   Corectorul raportează și **unde s-ar opri** un cititor obișnuit și
+   **momentul WOW** (cerute de Andreea, 2026-09-27); ambele se salvează
+   în fișierul final, la secțiunea Claritate.
 5. **Revizie** — dacă RESPINS sau NECLAR: trimite writerului (sau
    agentului de poză, dacă problema e acolo) exact problemele numite, apoi
    reia pasul 4. **Maximum 2 revizii.**
