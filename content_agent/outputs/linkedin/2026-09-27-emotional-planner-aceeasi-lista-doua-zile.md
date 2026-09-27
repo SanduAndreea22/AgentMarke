@@ -1,6 +1,7 @@
 # LinkedIn — Emotional Planner: aceeași listă, luni o termini, joi abia începi
 
 > Data: 2026-09-27
+> **Publicată pe LinkedIn: 2026-09-27** (cu imaginea Luni/Joi).
 > Obiectiv: autoritate/educațional
 > Categorie temă: Product Development
 > Format: mit (contrazis nuanțat)
