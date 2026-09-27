@@ -194,7 +194,7 @@ dacă alegi acest format), respectând:
    sună puternic, dar sunt ușor de contrazis dacă X/Y chiar contează
    parțial (ex: venitul variabil „nu e problema" — ba chiar poate fi).
    Nuanțează: „nu ține doar de X", „problema nu e X în sine, ci Y". Se
-   aplică peste tot — hook, corp, concluzie, comentariu plantat.
+   aplică peste tot — hook, corp, concluzie.
 
 **Format:** natural, conversațional, matur — niciodată ca un AI.
 Propoziții scurte, active, dar grupate în blocuri de text care curg legat
@@ -205,12 +205,11 @@ textului, fără liste decât dacă sunt absolut necesare. Fără cuvinte
 englezești băgate în text românesc (ex: „no-show", „follow-up", „feedback
 loop"), doar dacă nu există deloc alt fel de-al spune în română.
 
-Lungime: 220-320 de cuvinte dacă e postare (redus semnificativ față de
-intervalul anterior — postările mai lungi diluau structura într-o
-reflecție eseistică, nu într-o idee tăioasă). Calibrat pe un exemplu real
-al Andreei, considerat printre cele mai bune ale ei — postarea despre
-contabilitate/AI, „1.500 de înregistrări → 20", ~300 cuvinte — vezi
-`knowledge/examples/good_posts.md`. Dacă alegi formatul articol, dezvoltă
+Lungime: **350-450 de cuvinte** dacă e postare (decizia Andreei,
+2026-09-27 — intervalul anterior de 220-320 s-a dovedit prea scurt pentru
+LinkedIn; ~2.200-2.800 de caractere, sub limita de 3.000). Lungimea în
+plus e pentru a duce exemplul până la capăt — situația concretă, ce se
+întâmplă, ce se schimbă — nu pentru reflecții sau nuanțări de umplutură. Dacă alegi formatul articol, dezvoltă
 subiectul în profunzime, cu subtitluri. **Dacă ideea centrală nu încape
 în primele 2 rânduri, nu e încă clară pentru tine — rescrie înainte să
 livrezi, nu adăuga explicații ca s-o clarifici după.** Nu umple spațiul
@@ -225,12 +224,9 @@ de 5-6 hashtag-uri generice, ex. #AI #Antreprenoriat #DigitalProducts, de
 la un post la altul, e semn că postarea a fost făcută pe format, nu pe
 conținut; alege hashtag-uri legate de tema/proiectul concret de acum) +
 o idee pentru imagine (concept concret, nu generic) +
-Închidere (CTA sau întrebare + comentariu plantat de 1-2 propoziții,
-publicabil imediat după material). **Comentariul plantat trebuie să sune
-la fel de matur ca restul postării** — nu un slogan sau o frază de tip
-„marketing" care contrastează cu tonul mai analitic din corpul postării.
-Dacă postarea explică un mecanism, comentariul continuă aceeași logică,
-nu sare într-un ton diferit.
+Închidere (CTA sau întrebare). **Fără comentariu plantat pe LinkedIn**
+(decizia Andreei, 2026-09-27) — postarea se închide cu întrebarea sau
+CTA-ul din text, nimic adăugat după.
 
 ## ETAPA 5 — Auditor
 

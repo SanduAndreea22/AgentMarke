@@ -107,8 +107,8 @@ De multe ori, răspunsul este ascuns într-un proces care poate fi automatizat f
   secțiunea „Format implicit").
 - Distincție clară junior/senior — nuanțează ideea în loc s-o simplifice
   excesiv ("AI schimbă joburile").
-- ~300 de cuvinte — sursa numerică pentru intervalul curent de lungime
-  LinkedIn (220-320 cuvinte).
+- ~300 de cuvinte — a fost sursa intervalului 220-320; din 2026-09-27
+  intervalul LinkedIn e 350-450 (prea scurt în practică).
 - **Notă structurală:** se închide printr-o reformulare/concluzie, nu
   printr-o întrebare de engagement propriu-zisă — diferă de regula
   standard de închidere (CTA/întrebare rapidă). Păstrat ca excepție

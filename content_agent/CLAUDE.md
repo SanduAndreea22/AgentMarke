@@ -69,8 +69,9 @@ Confirmat de Andreea ca format real de producție (vezi exemplul „real" din
    opțional pe Facebook — vezi `prompts/facebook_prompt.md`, Facebook nu
    le răsplătește ca LinkedIn).
 4. **Idee de imagine** — un concept vizual concret, nu generic.
-5. **Închidere** — CTA de link (lead gen) SAU întrebare de engagement +
-   comentariu plantat (autoritate/educațional).
+5. **Închidere** — CTA de link (lead gen) SAU întrebare de engagement
+   (autoritate/educațional); comentariu plantat doar pe Facebook — pe
+   LinkedIn scos din 2026-09-27.
 
 ## Reguli de limbă (obligatoriu)
 

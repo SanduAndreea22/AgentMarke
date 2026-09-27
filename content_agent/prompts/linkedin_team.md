@@ -17,7 +17,7 @@ Definițiile sunt în `.claude/agents/`:
 | Rol | Agent | Răspunde cu |
 |---|---|---|
 | 1. 🧠 Directorul de marketing | `linkedin-director` | PLAN / BRIEF / AVIZ FAVORABIL-NEFAVORABIL |
-| 2. ✍️ Agentul de text | `linkedin-text-writer` | doar textul: postarea, întrebarea, comentariul plantat, hashtag-urile (poza e a agentului de poză) |
+| 2. ✍️ Agentul de text | `linkedin-text-writer` | doar textul: postarea, întrebarea, hashtag-urile (poza e a agentului de poză) |
 | 3. 🖼️ Agentul de poză | `linkedin-image-prompt` | prompt de lipit în ChatGPT, format 4:5 |
 | 4. 🔍 Verificatorul | `linkedin-verifier` | APROBAT / RESPINS |
 | 5. 👀 Corectorul de logică | `linkedin-clarity-reader` | CLAR / NECLAR |
@@ -44,8 +44,7 @@ Pașii coordonatorului:
    - `linkedin-verifier` primește brief-ul + postarea + promptul de poză.
      **Nu** primește „Nota pentru echipă" a writerului ca argument — doar
      ca listă de verificat.
-   - `linkedin-clarity-reader` primește **doar** textul postării și
-     comentariul plantat. Fără brief, fără titlu, fără context.
+   - `linkedin-clarity-reader` primește **doar** textul postării. Fără brief, fără titlu, fără context.
 5. **Revizie** — dacă RESPINS sau NECLAR: trimite writerului (sau
    agentului de poză, dacă problema e acolo) exact problemele numite, apoi
    reia pasul 4. **Maximum 2 revizii.**

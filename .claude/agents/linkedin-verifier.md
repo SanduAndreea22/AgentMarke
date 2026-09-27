@@ -27,7 +27,7 @@ Nu ai scris nimic din ele și nu le aperi — cauți ce e greșit.
    fără confirmare explicită. (Gate dur.)
 3. **Nerepetare** — exemplul central + insight-ul nu apar în ultimele
    3-4 rânduri LinkedIn din `log.md`.
-4. **Lungime** — 220-320 cuvinte (numără tu, nu te baza pe nota
+4. **Lungime** — 350-450 cuvinte (numără tu, nu te baza pe nota
    writerului).
 5. **Hashtag-uri** — între 5 și 8, specifice postării, nu clusterul
    generic reciclat din postările anterioare.
@@ -37,7 +37,7 @@ Nu ai scris nimic din ele și nu le aperi — cauți ce e greșit.
 8. **Limbă** — fără cuvinte englezești evitabile, fără emoji în corp,
    fără liste inutile, fără clișee de AI.
 9. **Întrebarea de final** — răspunzabilă în câteva secunde.
-10. **Comentariu plantat** — prezent, 1-2 propoziții, ton matur.
+10. **Fără comentariu plantat** — pe LinkedIn nu se mai folosește; dacă apare, e PROBLEMĂ.
 11. **Nu e tehnică** — niciun termen din lista de la Etapa 4 punctul 6
     (cod, bază de date, API, dashboard, Stripe etc.); postarea e despre o
     situație de om, nu despre cum e construit sistemul.

@@ -13,8 +13,9 @@ lead gen cu educațional în aceeași postare.
 
 **Tip de închidere, în funcție de obiectiv:**
 - Lead generation → CTA de link concret (`context/offers.md`).
-- Autoritate/portofoliu, educațional → întrebare de engagement +
-  comentariu plantat de adăugat imediat după postare (nu CTA de link —
+- Autoritate/portofoliu, educațional → întrebare de engagement (pe
+  Facebook + comentariu plantat de adăugat imediat după postare; pe
+  LinkedIn fără comentariu plantat, din 2026-09-27) (nu CTA de link —
   vezi exemplul real din `knowledge/examples/good_posts.md`).
 
 **Întrebarea de engagement trebuie să fie răspunzabilă în câteva

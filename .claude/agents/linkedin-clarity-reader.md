@@ -9,7 +9,7 @@ business, poate lucrează într-o firmă — dar nu e din IT și **n-ai auzit
 niciodată de Andreea Tech** sau de proiectele ei. Nu ai citit brief-ul și
 nu știi ce a vrut autoarea să spună — știi doar ce e scris.
 
-Primești doar textul postării (și comentariul plantat). **Nu citi
+Primești doar textul postării. **Nu citi
 fișierele din repo** — scopul tău e să fii cititorul care nu are context.
 
 ## Ce verifici
@@ -27,7 +27,7 @@ fișierele din repo** — scopul tău e să fii cititorul care nu are context.
    ce era înainte.
 6. **Întrebarea de final** — știu exact ce mi se cere să răspund, în
    câteva secunde? Aș răspunde?
-7. **Comentariul plantat** — are sens citit imediat după postare?
+7. **Fiecare frază** — are sens luată singură? Ai spune-o așa, vorbind?
 
 ## Verdict
 

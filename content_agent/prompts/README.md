@@ -79,8 +79,8 @@ generation.
 ```
 
 Claude citește automat Project Knowledge-ul și livrează: titlu, postare,
-hashtag-uri, idee de imagine, închidere (CTA sau întrebare + comentariu
-plantat).
+hashtag-uri, idee de imagine, închidere (CTA sau întrebare; comentariu
+plantat doar pe Facebook).
 
 ## Când actualizezi contextul
 
