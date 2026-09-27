@@ -16,12 +16,15 @@ Definițiile sunt în `.claude/agents/`:
 
 | Rol | Agent | Răspunde cu |
 |---|---|---|
-| 🧠 Directorul de marketing | `linkedin-director` | PLAN / BRIEF / AVIZ FAVORABIL-NEFAVORABIL |
-| ✍️ Agentul de text | `linkedin-text-writer` | doar textul: postarea, întrebarea, comentariul plantat, hashtag-urile (poza e a agentului de poză) |
-| 🖼️ Agentul de poză | `linkedin-image-prompt` | prompt de lipit în ChatGPT, format 4:5 |
-| 🔍 Verificatorul | `linkedin-verifier` | APROBAT / RESPINS |
-| 👀 Corectorul de logică | `linkedin-clarity-reader` | CLAR / NECLAR |
-| 🎯 Coordonatorul | conversația principală Claude Code | — |
+| 1. 🧠 Directorul de marketing | `linkedin-director` | PLAN / BRIEF / AVIZ FAVORABIL-NEFAVORABIL |
+| 2. ✍️ Agentul de text | `linkedin-text-writer` | doar textul: postarea, întrebarea, comentariul plantat, hashtag-urile (poza e a agentului de poză) |
+| 3. 🖼️ Agentul de poză | `linkedin-image-prompt` | prompt de lipit în ChatGPT, format 4:5 |
+| 4. 🔍 Verificatorul | `linkedin-verifier` | APROBAT / RESPINS |
+| 5. 👀 Corectorul de logică | `linkedin-clarity-reader` | CLAR / NECLAR |
+| 6. 🎯 Coordonatorul | conversația principală Claude Code | — |
+
+Verificatorul nu verifică limitele pentru TikTok: echipa e doar pentru
+LinkedIn. Regulile se adaugă când apare un prompt calibrat pentru TikTok.
 
 ## Cum circulă o postare
 
