@@ -17,7 +17,7 @@ Definițiile sunt în `.claude/agents/`:
 | Rol | Agent | Răspunde cu |
 |---|---|---|
 | 🧠 Directorul de marketing | `linkedin-director` | PLAN / BRIEF / AVIZ FAVORABIL-NEFAVORABIL |
-| ✍️ Agentul de postare | `linkedin-writer` | postarea (text, întrebare, comentariu plantat, hashtag-uri) |
+| ✍️ Agentul de text | `linkedin-text-writer` | doar textul: postarea, întrebarea, comentariul plantat, hashtag-urile (poza e a agentului de poză) |
 | 🖼️ Agentul de poză | `linkedin-image-prompt` | prompt de lipit în ChatGPT, format 4:5 |
 | 🔍 Verificatorul | `linkedin-verifier` | APROBAT / RESPINS |
 | 👀 Corectorul de logică | `linkedin-clarity-reader` | CLAR / NECLAR |
@@ -35,7 +35,7 @@ Pașii coordonatorului:
 
 1. **Brief** — cheamă `linkedin-director` cu sarcina BRIEF (+ tema, dacă
    Andreea a dat una, + postarea din planul săptămânii, dacă există).
-2. **Scriere** — cheamă `linkedin-writer` cu brief-ul complet.
+2. **Scriere** — cheamă `linkedin-text-writer` cu brief-ul complet.
 3. **Poză** — cheamă `linkedin-image-prompt` cu brief-ul + postarea.
 4. **Verificare, în paralel:**
    - `linkedin-verifier` primește brief-ul + postarea + promptul de poză.
