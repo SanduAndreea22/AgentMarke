@@ -10,7 +10,11 @@ Când Andreea cere o postare, idei de conținut, sau orice material pentru
 platforma explicit** (ex. „idei pentru rețelele sociale", „ceva pentru
 social media"), **citește integral și urmează exact**:
 
-- `content_agent/prompts/linkedin_prompt.md` pentru LinkedIn.
+- Pentru LinkedIn: **fluxul cu echipă de agenți** din
+  `content_agent/prompts/linkedin_team.md` (director → writer + agent de
+  poză → verificator + corector → aviz; agenții sunt în `.claude/agents/`).
+  Regulile de conținut rămân în `content_agent/prompts/linkedin_prompt.md`,
+  pe care agenții îl citesc.
 - `content_agent/prompts/facebook_prompt.md` pentru Facebook.
 - Context real din `content_agent/context/` și `content_agent/knowledge/`
   (brand, audiență, oferte/prețuri, ton, portofoliu, FAQ, exemple reale) —
@@ -38,3 +42,10 @@ procedează — nu folosi `linkedin_prompt.md`/`facebook_prompt.md` ca
 Detalii complete de folosire (setup, exemple, roadmap) în
 `content_agent/prompts/README.md` — `content_agent/CLAUDE.md` documentează
 doar gândirea de design din spate, nu mai e mecanismul de rulare.
+
+## Salvare pe `main`
+
+Tot ce produc agenții LinkedIn (postare, brief, verdicte, aviz, prompt de
+imagine, planuri, statistici) se salvează în repo și se urcă pe `main` —
+decizia explicită a Andreei (2026-09-27). Detalii în
+`content_agent/prompts/linkedin_team.md`, secțiunea „Salvare".

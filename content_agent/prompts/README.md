@@ -35,6 +35,15 @@ sau dacă un skill generic din setul tău personal ar putea prelua cererea
 din greșeală — sunt în `/CLAUDE.md` la rădăcina repo-ului, nu se
 duplică aici.
 
+## LinkedIn — echipa de agenți (implicit în Claude Code)
+
+Pentru LinkedIn, cererile rulează prin echipa din `linkedin_team.md`:
+director de marketing, agent de postare, agent de poză (prompt pentru
+ChatGPT, 4:5), verificator și corector de logică. Pentru planul
+săptămânal trimiți capturi cu statisticile postărilor; cifrele se
+transcriu în `content_agent/stats/linkedin_stats.md`. Facebook nu are
+echipă — rămâne pe `facebook_prompt.md`.
+
 ## Modul 2 — Claude Project pe claude.ai (opțional, dacă vrei acces fără Claude Code)
 
 Utilă doar dacă vrei să generezi conținut și dintr-un loc fără Claude Code

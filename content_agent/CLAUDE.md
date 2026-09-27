@@ -41,6 +41,11 @@ Antreprenori care vor să-și ducă business-ul la următorul nivel, indiferent
 de industrie — nu doar business-uri bazate pe programări. Vezi
 `context/audience.md` pentru detalii.
 
+> **LinkedIn în Claude Code rulează prin echipa de agenți** din
+> `prompts/linkedin_team.md` (`.claude/agents/linkedin-*.md`) — aceleași
+> reguli din `linkedin_prompt.md`, dar scrierea și verificarea sunt
+> făcute de agenți separați. Facebook rămâne pe pipeline-ul de mai jos.
+
 ## Pipeline-ul real (vezi `prompts/*.md` pentru pașii detaliați)
 
 ```
