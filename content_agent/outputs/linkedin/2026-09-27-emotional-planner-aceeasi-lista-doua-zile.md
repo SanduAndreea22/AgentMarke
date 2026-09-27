@@ -17,7 +17,7 @@ Luni ai pe listă cinci lucruri și le termini pe toate până la patru după-am
 
 Seara te uiți la ce a rămas nebifat și concluzia vine repede: „n-am fost destul de disciplinat”. A doua zi faci lista și mai atent, cu ore mai precise, poate cu un punct mai puțin. Dacă nimerești iar o zi ca cea de joi, te simți la fel de vinovat.
 
-Pare logic că, dacă lista e bună, ziua iese bine. Numai că luni și joi lista a fost aceeași. Cel mai probabil, s-a schimbat starea ta. Joi poate ai dormit prost, poate ai avut dimineața o discuție care te-a apăsat, poate primul punct era un telefon greu și n-aveai deloc chef de oameni. Lista nu știe nimic din toate astea.
+Pare logic că, dacă lista e bună, ziua iese bine. Numai că luni și joi lista a fost aceeași. Cel mai probabil, s-a schimbat starea ta. Joi poate ai dormit prost sau poate primul punct era un telefon greu și n-aveai deloc chef de oameni. Lista nu știe nimic din toate astea.
 
 Emotional Planner, o agendă zilnică digitală pe care am construit-o ca produs propriu, pornește exact de aici. Am gândit-o așa încât să-ți scrii în același loc ce ai de făcut, cum te simți și câtă energie ai în ziua aceea. Nu într-o aplicație pentru sarcini și într-un caiet separat pentru stare.
 
@@ -108,6 +108,8 @@ Motiv: Ideea se vede pe un caz concret de joi (oboseala, telefonul greu, raportu
 - textul din imagine „Sarcina și starea..." putea fi citit ca graviditate → „Lista și starea, în același loc".
 
 **Final** (386 cuvinte) — APROBAT 28/30 + CLAR + AVIZ FAVORABIL.
+
+**După feedback-ul Andreei** (377 cuvinte): trei exemple la rând în „Joi poate ai dormit prost, poate ai avut dimineața o discuție..., poate primul punct era un telefon greu..." — „păstrează două, textul respiră mai bine". Scos exemplul cu discuția; „telefonul greu" rămâne, pentru că e reluat mai jos în postare.
 
 ### Varianta 1, textul respins (pentru referință)
 
