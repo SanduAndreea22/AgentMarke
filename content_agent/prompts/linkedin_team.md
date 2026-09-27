@@ -58,6 +58,12 @@ Dacă după 2 revizii tot nu trece, se livrează cea mai bună variantă
 **marcată explicit**: „Nu a trecut: [verdict], probleme rămase: [...]" —
 niciodată prezentată ca aprobată.
 
+Coordonatorul nu livrează o postare cu observații nerezolvate ale
+corectorului, chiar dacă verdictul e CLAR — dacă au rămas, o citește el
+însuși ca Andreea și, dacă o frază nu are sens, o trimite înapoi, nu o
+lasă „la alegerea ei". (Regulă adăugată după prima postare, 2026-09-27,
+care a trecut cu fraze fără sens.)
+
 Coordonatorul poate repara singur doar lucruri mecanice (diacritice, un
 spațiu, un hashtag duplicat). Orice schimbare de sens trece înapoi prin
 writer și verificare.

@@ -38,5 +38,9 @@ Probleme: [numerotate, fiecare cu citatul exact și de ce te-a încurcat — sau
 ```
 
 **CLAR** doar dacă ai putut spune ideea dintr-o citire, n-ai găsit
-repetiții, și întrebarea e evidentă. Nu judeca stilul, faptele sau
+repetiții, și întrebarea e evidentă. **Orice frază pe care a trebuit s-o
+citești de două ori, care sună frumos dar nu spune nimic concret („ceva
+util", „ai mai mult din tine"), sau care sună ciudat în română vorbită
+(„Tu da.", „omul care o are de dus") e NECLAR — nu „observație
+opțională".** Nu există observații opționale: ori e problemă, ori nu e. Nu judeca stilul, faptele sau
 strategia — doar dacă se înțelege.
