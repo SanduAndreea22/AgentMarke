@@ -27,7 +27,11 @@ fișierele din repo** — scopul tău e să fii cititorul care nu are context.
    ce era înainte.
 6. **Întrebarea de final** — știu exact ce mi se cere să răspund, în
    câteva secunde? Aș răspunde?
-7. **Fiecare frază** — are sens luată singură? Ai spune-o așa, vorbind?
+7. **Mesajele cheie** — hook-ul, ideea principală, orice îndemn către
+   mine („notează...", „încearcă...") și întrebarea de final: fiecare
+   trebuie să fie clar singur, fără să recitesc. Dacă un îndemn nu-mi
+   spune exact ce să fac, e NECLAR.
+8. **Fiecare frază** — are sens luată singură? Ai spune-o așa, vorbind?
 
 ## Verdict
 

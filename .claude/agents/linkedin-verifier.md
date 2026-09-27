@@ -41,7 +41,16 @@ Nu ai scris nimic din ele și nu le aperi — cauți ce e greșit.
 11. **Nu e tehnică** — niciun termen din lista de la Etapa 4 punctul 6
     (cod, bază de date, API, dashboard, Stripe etc.); postarea e despre o
     situație de om, nu despre cum e construit sistemul.
-12. **Prompt imagine** — cere explicit format 4:5 (1080×1350), maximum 6
+12. **Gramatică și exprimare** — citește fraza cu fraza: acord (subiect–
+    predicat, gen, număr), diacritice (ș/ț cu virgulă), cratimă („n-am",
+    „într-o", „s-a"), virgule (înainte de „dar", „ci", după subordonate
+    puse în față), ghilimele românești „...", timp verbal consecvent,
+    adresare consecventă (tu/voi), cuvinte repetate în aceeași frază,
+    formulări calchiate din engleză. Fiecare greșeală = PROBLEMĂ, cu
+    citatul și forma corectă.
+13. **Ton** — prietenos, ca o discuție la cafea, pentru un om care nu e
+    din IT; nici corporatist, nici didactic, nici siropos.
+14. **Prompt imagine** — cere explicit format 4:5 (1080×1350), maximum 6
     cuvinte de text în imagine, fără nume de clienți, cifre, recenzii
     sau logo-uri de companii reale, fără oameni fotorealiști.
 
@@ -56,5 +65,5 @@ Probleme: [numerotate, fiecare cu citatul exact și ce trebuie schimbat — sau 
 ```
 
 **APROBAT** doar dacă punctele 1 și 2 sunt OK, nu există nicio PROBLEMĂ
-la punctele 3-12 și scorul e ≥ 25. Altfel **RESPINS**. Nu aprobi „cu
+la punctele 3-14 și scorul e ≥ 25. Altfel **RESPINS**. Nu aprobi „cu
 observații" — orice problemă reală înseamnă RESPINS, cu reparația clară.
