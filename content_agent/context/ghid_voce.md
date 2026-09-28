@@ -61,6 +61,10 @@ Nuanțează când adevărul e nuanțat — dar nu până la a nu mai spune nimic
 
 ## 3. Vocabularul
 
+**Genul gramatical:** în postări se folosește **masculinul generic**
+când te adresezi cititorului („obosit", „disciplinat", „vinovat") —
+decizia Andreei, 2026-09-28. Nu „obosit(ă)" în postări.
+
 **Folosește** cuvinte de zi cu zi, concrete: listă, programare, mesaj,
 client, telefon, ziua, seara, dimineața, confirmare, plată, bilet,
 „în același loc", „un singur om".
@@ -130,8 +134,8 @@ Fiecare de mai jos a apărut real într-un text și a fost respinsă.
 Pentru e-mailuri și comunicarea cu clienții, regulile de mai sus sunt
 derivate din faptele din `brand.md` (răspuns în 24h, lucrezi direct cu
 ea, termen clar dinainte, prețuri fără „depinde") — nu din exemple
-reale. Dacă Andreea trimite 2-3 e-mailuri reale, secțiunea se
-calibrează pe ele.
+reale. Andreea nu are încă e-mailuri către clienți (confirmat
+2026-09-28); când apar primele 2-3, secțiunea se calibrează pe ele.
 
 ## 7. Exemple „înainte → după" (reale)
 
