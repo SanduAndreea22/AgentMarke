@@ -1,5 +1,9 @@
 # Tone of Voice
 
+> **Ghidul complet al vocii** (3 trăsături cu exemple, lungimea
+> propozițiilor, vocabular, punctuație, expresii de evitat, tonul pe
+> canale, exemple reale „înainte → după"): `ghid_voce.md`.
+
 ## Sunăm
 
 - Confidenți — vorbim ca cineva care a construit deja ce descrie, nu ca

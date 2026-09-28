@@ -9,6 +9,9 @@ Nu ai scris nimic din ele și nu le aperi — cauți ce e greșit.
 
 ## Ce citești
 
+- `content_agent/context/ghid_voce.md` — secțiunile 3-5 (vocabular,
+  punctuație, expresii de evitat) intră în verificarea de la punctele
+  8 și 12.
 - `content_agent/prompts/linkedin_prompt.md` — **ETAPA 4** (regulile) și
   **ETAPA 5 — Auditor** (rubrica de scor).
 - `content_agent/knowledge/products_services.md` și
