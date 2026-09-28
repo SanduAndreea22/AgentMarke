@@ -1,6 +1,6 @@
 # Fundația brandului — Andreea Tech
 
-> **Status: DRAFT — de confirmat de Andreea** (2026-09-28). Construit din
+> **Status: CONFIRMAT de Andreea** (2026-09-28). Construit din
 > ce există deja verificat în repo (`brand.md`, `audience.md`,
 > `offers.md`, `tone_of_voice.md`) și din codul site-ului live
 > (`SanduAndreea22/andreeatech`, `static/website/style.css`). Nimic
@@ -53,9 +53,9 @@ amintesc."** (Poziționarea existentă, confirmată de Andreea.)
 bilet, nu mai ghicește ce se întâmplă în business — și tu nu mai
 gestionezi manual ce poate merge singur.
 
-## 5. Trăsăturile de personalitate — DE CONFIRMAT
+## 5. Trăsăturile de personalitate
 
-Propunere, derivată din `tone_of_voice.md` („Sunăm"):
+Confirmate de Andreea, derivate din `tone_of_voice.md` („Sunăm"):
 
 | Trăsătură | Cum se vede | Ce NU e |
 |---|---|---|
@@ -64,9 +64,9 @@ Propunere, derivată din `tone_of_voice.md` („Sunăm"):
 | **Sigură pe ea** | vorbește ca cineva care a construit deja ce descrie | arogantă, „eu știu mai bine" |
 | **Onestă** | nu promite ce n-a construit, nu inventează povești sau cifre | prudentă până la a nu spune nimic |
 
-## 6. Declarația de poziționare (o frază) — DE CONFIRMAT
+## 6. Declarația de poziționare (o frază)
 
-Propunere:
+Confirmată de Andreea:
 
 > **Pentru antreprenorii care vor să-și ducă business-ul la următorul
 > nivel, Andreea construiește singură produsul digital din spate —
@@ -94,6 +94,9 @@ Propunere:
 | Text | **Inter** |
 | Numere decorative | **Italiana** (serif, subțire) |
 
-**DE CONFIRMAT:** se aplică și pozelor de pe LinkedIn? Până acum, pozele
-au folosit o paletă neutră caldă (lemn, bej, crem) pentru că `brand.md`
-nu avea culori definite — adică altceva decât site-ul.
+**Se aplică și pozelor de pe LinkedIn** (decizia Andreei, 2026-09-28):
+fundal alb-albăstrui `#EBEEF8` sau alb, text bleumarin `#10173D`, un
+singur accent în albastrul de brand `#2743B8`; titluri în stil Archivo
+bold, text în stil Inter. Scopul: cine vede postarea și apoi intră pe
+site recunoaște brandul. (Până la această decizie, pozele foloseau o
+paletă caldă — lemn, bej, crem — care nu se lega de site.)

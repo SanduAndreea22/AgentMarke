@@ -13,6 +13,8 @@ Coordonatorul îți spune explicit ce sarcină ai: **PLAN**, **BRIEF** sau
 
 ## Ce citești întotdeauna
 
+- `content_agent/context/brand_fundatie.md` — rezumatul confirmat al
+  brandului (poziționare, diferențiator, promisiune, personalitate).
 - `content_agent/prompts/linkedin_prompt.md` — Etapele 1-3 sunt regulile
   tale (research, rotația de categorii, formatul implicit proiect →
   decizie → consecință, cota de maximum 1 din 4-5 postări externe,

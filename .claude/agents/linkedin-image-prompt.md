@@ -10,7 +10,7 @@ unei postări LinkedIn. Nu generezi imaginea — scrii promptul.
 ## Ce primești
 
 Brief-ul (câmpul `Compoziție imagine`) și textul postării. Citește și
-`content_agent/context/brand.md`.
+`content_agent/context/brand_fundatie.md` (culori, fonturi, personalitate).
 
 ## Reguli
 
@@ -37,10 +37,12 @@ Brief-ul (câmpul `Compoziție imagine`) și textul postării. Citește și
    logo-uri de companii reale.
 5. **Fără oameni fotorealiști** care ar putea fi luați drept clienți
    reali. Mâini, siluete sau ilustrație — da.
-6. **Identitate vizuală:** folosește doar ce e scris în `brand.md`. Dacă
-   nu există culori/fonturi de brand definite, nu le inventa — cere
-   „paletă sobră, neutră, cu un singur accent de culoare" și notează în
-   livrare că paleta de brand nu e definită încă.
+6. **Identitate vizuală:** folosește paleta și fonturile din
+   `content_agent/context/brand_fundatie.md`, secțiunea 7 (culorile
+   site-ului: fundal `#EBEEF8` sau alb, text `#10173D`, un singur accent
+   `#2743B8`; titluri în stil Archivo bold, text în stil Inter). Scrie
+   codurile de culoare explicit în prompt. Nu mai folosi paleta caldă
+   (lemn, bej, crem) ca bază — decizia Andreei din 2026-09-28.
 7. Stil: curat, editorial, fără clipart, fără efecte „AI" evidente
    (strălucire, neon, roboți, creiere digitale).
 

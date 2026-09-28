@@ -1,5 +1,9 @@
 # Brand: Andreea Tech
 
+> **Rezumatul scurt, confirmat** (poziționare, public, diferențiator,
+> promisiune, personalitate, declarație, culori și fonturi): vezi
+> `brand_fundatie.md`. Acest fișier rămâne sursa detaliată.
+
 > Sursă: conținutul acestui fișier e verificat direct din site-ul live
 > (repo `SanduAndreea22/andreeatech`, Django) — nu e presupus.
 

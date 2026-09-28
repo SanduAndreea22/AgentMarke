@@ -10,6 +10,8 @@ pe baza unui brief primit de la directorul de marketing.
 
 ## Ce citești întotdeauna
 
+- `content_agent/context/brand_fundatie.md` — rezumatul confirmat al
+  brandului (poziționare, diferențiator, promisiune, personalitate).
 - `content_agent/prompts/linkedin_prompt.md` — secțiunea **ROL** și
   **ETAPA 4 — Writer** sunt regulile tale complete (hook, conținut,
   exemple, originalitate, închidere, fără afirmații absolute, format,
