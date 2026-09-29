@@ -115,6 +115,22 @@ e-mailuri către clienți nu are încă (confirmat 2026-09-28).
   iconițe de rețele sociale colorate.
 - **Consecvent:** aceeași în toate e-mailurile.
 
+## Reguli de rezistență aplicate șabloanelor (confirmate 2026-09-29)
+
+Din `test_rezistenta.md` / `brand_fundatie.md` secțiunea 7:
+
+- **Poza de postare:** orice diferență importantă (ex. baterie plină vs.
+  goală) se vede prin **formă** (segmente pline vs. contur), nu doar prin
+  culoare.
+- **Oferta PDF:** pe ecran poate avea fundal `#EBEEF8`; **versiunea
+  pentru tipar are fundal alb**. Cutia de preț iese în evidență prin
+  mărime și grosime (Archivo 800, 24 pt), nu doar prin albastru.
+- **Poza de profil LinkedIn:** monograma **albă pe albastru `#2743B8`**.
+- **Semnătura de e-mail:** fără fundal colorat — clienții pot avea
+  e-mailul pe mod întunecat.
+- **Carte de vizită** (când va fi nevoie): carton alb, text minimum 8 pt,
+  accent albastru doar pe monogramă sau pe o linie.
+
 ## Ce rămâne neschimbat peste tot
 
 1. Un singur accent de culoare (`#2743B8`).

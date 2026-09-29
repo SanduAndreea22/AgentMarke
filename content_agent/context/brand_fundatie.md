@@ -106,3 +106,22 @@ singur accent în albastrul de brand `#2743B8`; titluri în stil Archivo
 bold, text în stil Inter. Scopul: cine vede postarea și apoi intră pe
 site recunoaște brandul. (Până la această decizie, pozele foloseau o
 paletă caldă — lemn, bej, crem — care nu se lega de site.)
+
+### Reguli de rezistență (confirmate 2026-09-29)
+
+Din `test_rezistenta.md` — cum rămâne identitatea clară în orice format:
+
+1. **Monograma are 3 variante:** bleumarin `#10173D` pe fundal deschis;
+   **albă pe albastru `#2743B8`** (poză de profil, favicon — arată bine
+   și pe modul întunecat); **negru pur** (tipar alb-negru, broderie).
+2. **Fundalul `#EBEEF8` doar pe ecran.** La tipar (cărți de vizită,
+   oferte printate), fundal **alb** — `#EBEEF8` pe hârtie iese gri
+   murdar sau nu se vede (contrast 1,16 față de alb).
+3. **Favicon de 16 px desenat separat**, cu linii îngroșate și spațiu mai
+   mare în interiorul lui „A", ca bara comună A–T să nu se contopească.
+4. **Broderie: doar monograma**, minimum 4 cm lățime, o singură culoare
+   de fir. Niciodată descriptorul sau marca combinată pe textil.
+5. **Accentul albastru nu e niciodată singurul semnal.** Orice element
+   evidențiat în albastru e evidențiat și prin grosime, mărime sau formă
+   (în alb-negru, albastrul și bleumarinul devin două griuri închise).
+   Albastrul `#2743B8` nu stă pe bleumarin `#10173D` (contrast 2,1).

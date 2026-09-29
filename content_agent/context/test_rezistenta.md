@@ -1,6 +1,7 @@
 # Testul de rezistență al identității vizuale — Andreea Tech
 
-> **Status: PROPUNERE — de confirmat de Andreea** (2026-09-29).
+> **Status: CONFIRMAT de Andreea** (2026-09-29) — cele 5 reguli sunt
+> trecute în `brand_fundatie.md` (secțiunea 7) și în `sabloane.md`.
 > Testează ce e definit în `brand_fundatie.md` (culori, fonturi, logo
 > ales) și `sabloane.md`. **Limită importantă:** logo-ul nou (monograma
 > „AT" cu bară comună) e ales, dar **nu e desenat** — îl testez după

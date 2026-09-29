@@ -43,7 +43,11 @@ Brief-ul (câmpul `Compoziție imagine`) și textul postării. Citește și
    `#2743B8`; titluri în stil Archivo bold, text în stil Inter). Scrie
    codurile de culoare explicit în prompt. Nu mai folosi paleta caldă
    (lemn, bej, crem) ca bază — decizia Andreei din 2026-09-28.
-7. Stil: curat, editorial, fără clipart, fără efecte „AI" evidente
+7. **Diferențele se văd prin formă, nu doar prin culoare** (regula 5 de
+   rezistență din `brand_fundatie.md`): ex. baterie plină = segmente
+   pline, goală = doar contur; bifat vs. nebifat = bifă vs. pătrat gol.
+   Albastrul `#2743B8` nu se pune pe bleumarin `#10173D`.
+8. Stil: curat, editorial, fără clipart, fără efecte „AI" evidente
    (strălucire, neon, roboți, creiere digitale).
 
 ## Ce livrezi
