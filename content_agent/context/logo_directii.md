@@ -101,6 +101,45 @@ continuă într-o bifă** (✓).
 - **Limitări:** nu încape mic; descriptorul în engleză se citește greu
   sub 150 px lățime. Are nevoie de variantele 1 și 2 pentru spații mici.
 
+## Prompturi ChatGPT pentru schiță (2026-09-29)
+
+Schița din ChatGPT e doar punct de plecare — logo-ul final se redesenează
+ca SVG (vector) de un designer sau în Figma, ca să aibă margini curate.
+
+**Prompt 1 — monograma:**
+
+> Desenează un logo tip monogramă, plat, vectorial, pe fundal uni
+> `#EBEEF8`, format pătrat 1:1. Monograma e formată din literele „A" și
+> „T" majuscule, într-un font sans-serif geometric, gros (stil Archivo
+> ExtraBold), culoare `#10173D`. Ideea centrală: **bara orizontală din
+> mijlocul lui „A" continuă spre dreapta și devine chiar bara de sus a
+> lui „T"** — o singură linie orizontală leagă cele două litere, iar
+> piciorul lui „T" coboară din capătul ei. Literele stau lipite, fără
+> spațiu între ele. Fără cerc, fără chenar, fără ornamente, fără linii de
+> circuit, fără sclipiri, fără degrade, fără umbre, fără efecte 3D.
+> Forme simple, colțuri drepte, grosime egală a liniilor. Logo-ul
+> trebuie să rămână clar și citibil și la 32 × 32 px. Arată pe aceeași
+> imagine, pe un rând, trei variante: (1) bleumarin `#10173D` pe
+> `#EBEEF8`, (2) alb pe albastru `#2743B8`, (3) aceeași monogramă foarte
+> mică, cam 32 px, ca previzualizare de favicon.
+
+**Prompt 2 — marca combinată** (după ce alegi monograma):
+
+> Folosind exact monograma „AT" de mai sus, fă varianta orizontală a
+> logo-ului, plat, vectorial, pe fundal `#EBEEF8`, format lat 3:1: în
+> stânga monograma; în dreapta, pe două rânduri, textul „Andreea Tech"
+> în sans-serif gros (stil Archivo ExtraBold), culoare `#10173D`, iar
+> dedesubt, mai mic și mai subțire (stil Inter Regular), „Digital
+> Products & Experiences" în `#263568`. Scrie textul exact așa, fără
+> greșeli. Aliniere pe centrul vertical al monogramei, spațiu liber
+> generos în jur. Fără degrade, umbre, sclipiri sau ornamente.
+
+**După ce primești schița, verifică:** (1) bara lui A și a lui T chiar
+e o singură linie continuă; (2) se citește „AT" la 32 px; (3) textul
+„Andreea Tech" e scris corect; (4) nu seamănă cu o monogramă „AT" a unei
+mărci cunoscute (caută „AT monogram logo" pe Google Imagini înainte să-l
+folosești).
+
 ## Recomandare
 
 **Conceptul 2 (monograma „AT" simplificată) ca semn principal + conceptul
