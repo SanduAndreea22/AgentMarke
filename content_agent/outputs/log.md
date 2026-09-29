@@ -32,6 +32,7 @@
 | 2026-09-21 | Facebook | — (fără rotație strictă) | relatable | relatable/educațional | MyBudget — insight „senzația de «am bani»/«n-am bani» e ghicit, nu certitudine, la venit variabil" | FB — De ce nu știi niciodată cât poți cheltui, deși câștigi bine (v2, revizuită pe feedback) | `outputs/facebook/2026-09-21-mybudget-venit-variabil.md` |
 | 2026-09-21 | LinkedIn | Beauty Tech | observație comportament utilizatori | autoritate/educațional | Glow Diary — insight „bariera de cont scade engagement real, comentariile fără cont dau o a doua opinie" | De ce am scos obligativitatea de cont de pe Glow Diary | `outputs/linkedin/2026-09-21-glow-diary-comentarii-fara-cont.md` |
 | 2026-09-27 | LinkedIn | Product Development | mit (contrazis nuanțat) | autoritate/educațional | Emotional Planner — insight „o zi nereușită ține și de starea ta, nu doar de listă; «obosit, nu leneș»" | Emotional Planner — aceeași listă, luni o termini, joi abia începi (v2, rescrisă după feedback-ul Andreei; prima non-tehnică, prima făcută de echipa de agenți) | `outputs/linkedin/2026-09-27-emotional-planner-aceeasi-lista-doua-zile.md` |
+| 2026-09-29 | LinkedIn | Digitalizare | greșeală frecventă | autoritate/educațional | Al Noir — insight „săptămâna slabă o vezi miercuri, nu din extrasul de la final de lună; într-o zi aglomerată sala pare plină" | Al Noir — săptămâna slabă o afli miercuri, nu din extras | `outputs/linkedin/2026-09-29-al-noir-saptamana-slaba-din-extras.md` |
 
 ## Cum adaugi un rând nou
 
