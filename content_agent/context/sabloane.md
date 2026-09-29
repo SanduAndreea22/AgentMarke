@@ -1,10 +1,11 @@
 # Sistemul de șabloane — Andreea Tech
 
-> **Status: PROPUNERE — de confirmat de Andreea** (2026-09-29).
+> **Status: CONFIRMAT de Andreea** (2026-09-29).
 > Se sprijină pe `brand_fundatie.md` (culori, fonturi), `ghid_voce.md`
-> (text) și `offers.md` (pachete). Logo-ul nu e încă ales (vezi
-> `logo_directii.md`) — peste tot unde scrie **[SEMN]** intră monograma
-> aleasă; până atunci, textul „Andreea Tech" în Archivo ExtraBold.
+> (text) și `offers.md` (pachete). **[SEMN]** = monograma „AT"
+> simplificată (conceptul 2 din `logo_directii.md`, ales 2026-09-29).
+> Până e desenată, în locul ei se pune textul „Andreea Tech" în
+> Archivo ExtraBold.
 
 ## Ce intră în prima lună — și ce nu
 

@@ -1,6 +1,9 @@
 # Direcții de logo — Andreea Tech
 
-> **Status: PROPUNERE — Andreea alege** (2026-09-28).
+> **Status: ALES de Andreea** (2026-09-29): **conceptul 2 (monograma
+> „AT" simplificată) ca semn principal + conceptul 4 (marca combinată)
+> pentru antet și banner.** Logo-ul nu e încă desenat — logo-ul vechi
+> rămâne pe site până atunci.
 > Pornește de la `brand_fundatie.md` (poziționare, personalitate,
 > culori, fonturi) și de la logo-ul actual de pe site
 > (`SanduAndreea22/andreeatech`, `static/website/logo.png`). Nu copiază

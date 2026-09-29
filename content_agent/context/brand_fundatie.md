@@ -88,6 +88,12 @@ Confirmată de Andreea:
 | Fundal nuanțat | `--paper-tint` | `#DCE2F4` |
 | Suprafețe (carduri) | `--paper-raised` | `#FFFFFF` |
 
+**Logo (ales 2026-09-29):** monograma „AT" simplificată, A și T legate de
+aceeași linie orizontală, plat, pe culorile de mai sus — plus marca
+combinată (monogramă + „Andreea Tech" + „Digital Products &
+Experiences") pentru antet și banner. Detalii: `logo_directii.md`. Încă
+nedesenat.
+
 | Rol | Font |
 |---|---|
 | Titluri | **Archivo**, bold (800) |
