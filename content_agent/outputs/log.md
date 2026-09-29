@@ -22,6 +22,7 @@
 
 | Data | Platformă | Categorie temă | Format | Obiectiv | Exemplu central | Titlu | Fișier |
 |---|---|---|---|---|---|---|---|
+| 2026-09-07 | LinkedIn | Restaurante și servicii bazate pe programări | opinie + lecție practică | autoritate/educațional | Bookora — insight „confirmarea activă dată de client = implicare în decizie = mai puține programări pierdute; îngreunează puțin decizia de la început, nu anularea" | Postare reală a Andreei, scrisă înainte de sistem (adăugată în log pe 2026-09-29, după ce o postare nouă era să repete insight-ul) | `knowledge/examples/good_posts.md` (primul exemplu) |
 | 2026-09-08 | Facebook | — (fără rotație strictă) | problem→solution | autoritate/educațional | Bookora | FB — Programări pierdute în telefon/WhatsApp/Excel | `outputs/facebook/2026-09-08-programari-pierdute-sistem-manual.md` |
 | 2026-09-08 | LinkedIn | Antreprenoriat / Product Leadership | lecție de business | autoritate/educațional | Duolingo (extern) + SM Writer — insight „util, nu impus" | Duolingo a cerut angajaților să fie evaluați după cât de mult folosesc AI | `outputs/linkedin/2026-09-08-duolingo-mandat-ai-esuat.md` |
 | 2026-09-08 | Facebook | — (fără rotație strictă) | problem→solution | autoritate/educațional | Al Noir | FB — Nu vezi unde se scurg banii din business | `outputs/facebook/2026-09-08-lipsa-vizibilitate-dashboard.md` |
