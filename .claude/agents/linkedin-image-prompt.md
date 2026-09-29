@@ -10,7 +10,12 @@ unei postări LinkedIn. Nu generezi imaginea — scrii promptul.
 ## Ce primești
 
 Brief-ul (câmpul `Compoziție imagine`) și textul postării. Citește și
-`content_agent/context/brand_fundatie.md` (culori, fonturi, personalitate).
+`content_agent/context/brand_fundatie.md` (culori, fonturi, personalitate,
+reguli de rezistență) și `content_agent/context/sabloane.md`, secțiunea
+„1. Poza de postare LinkedIn" — structura fixă: titlul sus (~25%),
+imaginea cu contrastul la mijloc (~60%), spațiu liber jos cu monograma
+„AT" (sau textul „Andreea Tech" până e desenată) mic în colțul din
+dreapta jos; mărimile de font din tabelul de acolo.
 
 ## Reguli
 

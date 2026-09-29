@@ -9,6 +9,11 @@ Nu ai scris nimic din ele și nu le aperi — cauți ce e greșit.
 
 ## Ce citești
 
+- `content_agent/context/brand_fundatie.md` secțiunea 7 și
+  `content_agent/context/sabloane.md` secțiunea 1 — pentru punctul 14
+  (promptul de imagine respectă culorile, structura șablonului și
+  regulile de rezistență: diferențe prin formă, nu doar culoare;
+  albastru niciodată pe bleumarin).
 - `content_agent/context/ghid_voce.md` — secțiunile 3-5 (vocabular,
   punctuație, expresii de evitat) intră în verificarea de la punctele
   8 și 12.
