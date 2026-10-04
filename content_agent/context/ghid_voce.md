@@ -48,6 +48,14 @@ Nuanțează când adevărul e nuanțat — dar nu până la a nu mai spune nimic
   estimare generică." (site)
 - Nu: „+300% rezervări", „clientul X a spus că...", „X nu contează deloc".
 
+### Fraza de bază
+
+**„Înainte să construim soluția, hai să înțelegem ce problemă vrem să
+rezolvăm și ce ar trebui să obținem la final.”** — fraza pe care Andreea o
+spune la începutul colaborărilor (sursa: „Creierul tău digital” (Comunități Online, 2026-10-04), construit din răspunsurile Andreei). Ideea ei —
+problema întâi, soluția după — e firul comun al postărilor; fraza în sine
+se citează rar, nu în fiecare postare.
+
 ## 2. Lungimea propozițiilor
 
 - **Țintă: 8-18 cuvinte.** O propoziție peste ~25 de cuvinte se taie în
@@ -118,6 +126,12 @@ Fiecare de mai jos a apărut real într-un text și a fost respinsă.
 - **Comparații defensive cu alții:** „majoritatea dezvoltatorilor fac X,
   eu fac Y" — diferența se arată prin fapte din portofoliu.
 - **Mai mult de două exemple la rând** într-o enumerare.
+- **Cuvinte pe care Andreea nu le folosește** (sursa: „Creierul tău digital” (Comunități Online, 2026-10-04), construit din răspunsurile Andreei):
+  „specialist”, „transformă-ți viața”, „descoperă secretul”,
+  „revoluționar”, „soluții inovatoare”, „călătorie” folosit gol,
+  promisiuni de venit. (Documentul interzice și „nivelul următor”, dar
+  sloganul confirmat al site-ului e „la următorul nivel” — rămâne
+  permis în acest sens, până decide Andreea altfel.)
 - **Clișee de AI:** „În lumea de azi", „Hai să explorăm", „game-changer",
   „în era digitală".
 

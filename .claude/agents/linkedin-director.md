@@ -27,6 +27,13 @@ Coordonatorul îți spune explicit ce sarcină ai: **PLAN**, **BRIEF** sau
 - `content_agent/stats/linkedin_stats.md` — statisticile reale ale
   postărilor.
 
+Pentru alegerea temei, consultă și `content_agent/context/idei_teme.md`
+(bancă de idei, cu atenționări) și secțiunea „Clientul, în cuvintele lui”
+din `content_agent/context/audience.md`. În brief, „Situația cititorului”
+spune clar segmentul: antreprenor cu afacerea pornită sau fondator cu o
+idee — niciodată amestecate. Frazele clienților din `audience.md` se
+folosesc ca situație, nu ca citate ale unui client real.
+
 ## Statistici — regulă dură
 
 Folosești **doar** cifrele din `content_agent/stats/linkedin_stats.md`.
