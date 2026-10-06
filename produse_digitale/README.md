@@ -22,15 +22,23 @@ pentru business, produse hibride (mai multe formate împreună).
 AI (echipa de conținut LinkedIn din acest repo). Produsele pot porni din
 ce a construit efectiv — nu din teorie.
 
-## Echipa (`.claude/agents/`)
+## Echipa (`.claude/agents/`) — un agent pe etapă
 
-| # | Rol | Agent | Etape (din `metodologie.md`) |
-|---|---|---|---|
-| 1 | 🧭 Strategul | `produs-strateg` | Prima analiză · 4 Arhitectura · 7 Ladder · 9 Preț · 10 Lansare · Aviz |
-| 2 | 🛠️ Creatorul | `produs-creator` | 5 Crearea · 8 Poziționare și vânzare |
-| 3 | 🔍 Verificatorul | `produs-verificator` | 6 Testare (3+ scenarii) + reguli, pe produs și pe texte |
-| 4 | 🛒 Cumpărătorul de test | `produs-cumparator` | la 6 (produsul) și la 8 (textele de vânzare) |
-| 5 | 🎯 Coordonatorul | conversația principală | porțile de aprobare, salvarea pe `main` |
+Toți agenții citesc `metodologie.md` (rolul, principiul central și
+regulile comune); fiecare face doar etapele lui.
+
+| # | Agent | Etape (din `metodologie.md`) |
+|---|---|---|
+| 1 | 🔎 `produs-descoperire` | 1 Descoperire → prima analiză în 8 puncte (sau 2-3 interpretări, dacă ideea e vagă) |
+| 2 | 📐 `produs-definire` | 2 Definire + 3 Validare |
+| 3 | 🏗️ `produs-arhitect` | 4 Arhitectura (+ dimensiune MVP, FAPTE PERMISE, INTERZIS) |
+| 4 | 🛠️ `produs-creator` | 5 Crearea |
+| 5 | 🧪 `produs-tester` | 6 Testarea (3+ scenarii) + reguli; verifică și textele de la 8 |
+| 6 | 🛒 `produs-cumparator` | la 6 (produsul) și la 8 (textele de vânzare) |
+| 7 | 🪜 `produs-ladder-pret` | 7 Product ladder + 9 Preț |
+| 8 | 🏷️ `produs-pozitionare` | 8 Poziționare și vânzare |
+| 9 | 🚀 `produs-lansare` | 10 Lansare |
+| — | 🎯 Coordonatorul | conversația principală: porțile de aprobare, salvarea pe `main` |
 
 ## Cum circulă un produs — cu porți de aprobare
 
@@ -40,27 +48,26 @@ nu trece mai departe fără un „da" explicit (regula de aprobare din
 `metodologie.md`).
 
 ```
-1. Prima analiză .............. strateg            🔒 aprobă direcția
-2. Etapa 4 · Arhitectura ...... strateg            🔒 aprobă structura
-3. Etapa 5 · Crearea .......... creator
-4. Etapa 6 · Testarea ......... verificator + cumpărător (în paralel)
-   → revizii (max 2) → aviz strateg              🔒 aprobă produsul
-5. Etapele 7 + 9 · Ladder + preț  strateg           🔒 aprobă treptele și intervalul
-6. Etapa 8 · Poziționare ...... creator → verificator + cumpărător
-                                                    🔒 aprobă textele
-7. Etapa 10 · Lansare ......... strateg            🔒 aprobă planul
+1. Etapa 1 · Prima analiză ....... descoperire        🔒 aprobă direcția
+2. Etapele 2 + 3 · Definire+valid. definire           🔒 aprobă definiția
+3. Etapa 4 · Arhitectura ......... arhitect           🔒 aprobă structura
+4. Etapa 5 · Crearea ............. creator
+5. Etapa 6 · Testarea ............ tester + cumpărător (în paralel)
+   → revizii la creator (max 2)                       🔒 aprobă produsul
+6. Etapele 7 + 9 · Ladder + preț . ladder-pret        🔒 aprobă treptele și intervalul
+7. Etapa 8 · Poziționare ......... pozitionare → tester + cumpărător
+                                                      🔒 aprobă textele
+8. Etapa 10 · Lansare ............ lansare            🔒 aprobă planul
 ```
 
 Ordinea 7 → 9 → 8: textele de vânzare (8) au nevoie de scara de produse
-și de intervalul de preț, deci vin după ele.
-
-**Etapele 1-3** din metodologia Andreei n-au fost trimise încă; până
-atunci, „Prima analiză" ține locul lor.
+și de intervalul de preț, deci vin după ele. Dacă testerul și
+cumpărătorul nu sunt de acord după 2 revizii, decide Andreea.
 
 ## Salvare pe `main`
 
 Fiecare produs are folderul lui: `produse_digitale/produse/<nume-scurt>/`
-cu `analiza.md`, `arhitectura.md`, `produs.md`, `testare.md`,
+cu `analiza.md` (etapele 1-3), `arhitectura.md`, `produs.md`, `testare.md`,
 `ladder_pret.md`, `pozitionare.md`, `lansare.md` și `istoric.md`
 (verdicte, aprobări, revizii) — fiecare fișier apare doar când etapa lui
 e aprobată. Totul se urcă pe `main`.

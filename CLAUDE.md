@@ -56,8 +56,11 @@ decizia explicită a Andreei (2026-09-27). Detalii în
 Când Andreea cere un produs digital (sistem de prompturi, agenți/workflow
 AI, șablon, workbook, checklist, ghid, toolkit, framework, mini-curs,
 sistem pentru business, produs hibrid) sub brandul Andreea Tech, urmează
-fluxul din `produse_digitale/README.md` (strateg → creator → verificator +
-cumpărător de test → aviz; agenții `produs-*` din `.claude/agents/`). Nu
+fluxul din `produse_digitale/README.md` și metodologia din
+`produse_digitale/metodologie.md` — un agent `produs-*` pe etapă
+(descoperire → definire → arhitect → creator → tester + cumpărător →
+ladder-pret → pozitionare → lansare), cu „Vrei să trecem la următoarea
+etapă?" și aprobarea explicită a Andreei între etape. Nu
 folosi echipa LinkedIn pentru produse și nici invers. Totul se salvează pe
 `main`, în `produse_digitale/produse/<nume-scurt>/`.
 
