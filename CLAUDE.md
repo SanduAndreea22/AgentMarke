@@ -1,7 +1,8 @@
 # AgentMarke
 
 Repo pentru sistemul de generare de conținut LinkedIn/Facebook al
-Andreei (brand Andreea Tech) — vezi `content_agent/`.
+Andreei (brand Andreea Tech) — vezi `content_agent/` — și pentru
+crearea de produse digitale Andreea Tech — vezi `produse_digitale/`.
 
 ## Regulă obligatorie — orice cerere de conținut LinkedIn/Facebook
 
@@ -49,3 +50,14 @@ Tot ce produc agenții LinkedIn (postare, brief, verdicte, aviz, prompt de
 imagine, planuri, statistici) se salvează în repo și se urcă pe `main` —
 decizia explicită a Andreei (2026-09-27). Detalii în
 `content_agent/prompts/linkedin_team.md`, secțiunea „Salvare".
+
+## Produse digitale
+
+Când Andreea cere un produs digital (sistem de prompturi, agenți/workflow
+AI, șablon, workbook, checklist, ghid, toolkit, framework, mini-curs,
+sistem pentru business, produs hibrid) sub brandul Andreea Tech, urmează
+fluxul din `produse_digitale/README.md` (strateg → creator → verificator +
+cumpărător de test → aviz; agenții `produs-*` din `.claude/agents/`). Nu
+folosi echipa LinkedIn pentru produse și nici invers. Totul se salvează pe
+`main`, în `produse_digitale/produse/<nume-scurt>/`.
+
