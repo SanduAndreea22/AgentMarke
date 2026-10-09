@@ -40,3 +40,18 @@
   idei + calendar, scriere, verificare. Se construiește într-un weekend.
 - **Test:** gratuit, la 5 oameni. Se urmărește dacă îl folosesc a doua
   oară.
+
+## Definiția aprobată (2026-10-09)
+
+- **Pentru cine:** antreprenori și freelanceri din România care vor să
+  posteze constant pe LinkedIn, dar n-au timp sau nu știu ce să scrie. Nu
+  sunt din IT.
+- **Ce primesc:** un kit pus într-un Claude Project, cu 3 roluri:
+  1. idei + calendar;
+  2. scriere pe vocea brandului;
+  3. verificare: nimic inventat, textul se înțelege din prima, arată unde
+     s-ar opri cititorul.
+- **Ce NU promitem:** urmăritori, reach, clienți.
+- **Sursa:** sistemul LinkedIn al Andreei, simplificat de la 5 roluri la 3.
+- **Validare:** se face prin testul gratuit cu 5 oameni. Andreea a cerut un
+  drum simplu, fără o etapă 3 separată.
