@@ -7,7 +7,8 @@
 |---|---|---|---|
 | **ENTRY** | Pachet de 10 prompturi scoase din kit, specifice sistemului (de ex. verificarea faptelor inventate, „unde s-ar opri cititorul”, verificarea hook-ului), nu prompturi generice | **10 €** | ipoteză de testat; primul test de plată |
 | **CORE** | Content Kit complet (instrucțiuni + fișă + ghid) | DE DECIS după testul cu 5 oameni | — |
-| FREE / PREMIUM | — | — | nedecise |
+| **FREE** | Fișa de brand completabilă (`fisa_de_brand.md`), cu email, pe Beacons | 0 € | propunere a coordonatorului, acceptată de Andreea (2026-10-13); platforma sub rezerva verificării condițiilor |
+| PREMIUM | — | — | nedecisă |
 
 **De decis înainte de prima vânzare:**
 - platforma de vânzare;
