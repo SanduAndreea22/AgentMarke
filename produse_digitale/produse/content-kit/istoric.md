@@ -6,3 +6,4 @@
 - 2026-10-13: etapa 6 — tester RESPINS (31 probleme), cumpărător N-AȘ CUMPĂRA. Vezi `testare.md`.
 - 2026-10-13: Andreea aprobă revizia 1 („Tot”); păstrăm Prompt 1, Prompt 10 și împărțirea în două conversații (abateri de la arhitectură, de trecut în `arhitectura.md`). Revizia pornește, apoi e oprită la cererea ei.
 - Deschis: faptele adevărate despre Andreea Tech pentru exemplul real; forma legală; numele final; platforma (Beacons, de verificat comisionul și plățile).
+- 2026-10-14: Andreea propune ca produs gratuit un document cu un skill, cu explicația lui. Se aprobă; skill-ul = interviu care construiește Fișa de brand (nu verificarea, ca să nu concureze cu pachetul de 10 €). Pașii de instalare verificați pe support.claude.com (planuri Free/Pro/Max/Team/Enterprise, cu execuție de cod activată; Customize → Skills → Upload). Creat `ghid_skill_gratuit.md` și arhiva `skill_fisa_de_brand/fisa-de-brand-ghidata.zip`; urmează testarea.
